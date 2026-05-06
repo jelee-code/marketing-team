@@ -33,7 +33,7 @@ export default function RootLayout({
         </main>
         <footer className="border-t border-neutral-100">
           <div className="max-w-3xl mx-auto px-6 py-6 text-xs text-neutral-400">
-            매일 평일 오전 8:30 KST 자동 발행 · 월요일 리포트는 금·토·일 통합
+            매일 평일 오전 7:00 KST 자동 발행 · 월요일 리포트는 금·토·일 통합
           </div>
         </footer>
       </body>
