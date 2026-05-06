@@ -1,1 +1,3 @@
-backoffice/data/marketing.db 
+__pycache__
+backoffice/data/marketing.db
+.claude/
