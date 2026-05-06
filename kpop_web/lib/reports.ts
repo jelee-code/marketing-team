@@ -6,32 +6,31 @@ const REPORTS_DIR = path.join(process.cwd(), "..", "kpop_agent", "reports");
 export type Report = {
   date: string;
   raw: string;
-  top3: string[];
+  preview: string[];
 };
 
-function extractTop3(raw: string): string[] {
+function extractPreview(raw: string): string[] {
   const lines = raw.split("\n");
   const items: string[] = [];
-  let inTop3 = false;
-  for (const line of lines) {
-    if (/^##\s+.*핵심 이슈/.test(line)) {
-      inTop3 = true;
-      continue;
-    }
-    if (inTop3 && /^##\s/.test(line)) break;
-    if (!inTop3) continue;
+  let pastTitle = false;
 
-    const numbered = line.match(/^\s*\d+\.\s+\*\*(.+?)\*\*/);
-    if (numbered) {
-      items.push(numbered[1]);
+  for (const line of lines) {
+    if (/^#\s/.test(line)) {
+      pastTitle = true;
       continue;
     }
-    const bulleted = line.match(/^\s*-\s+\*\*(.+?)\*\*/);
-    if (bulleted) {
-      items.push(bulleted[1]);
+    if (!pastTitle) continue;
+
+    // Stop at sources section
+    if (/^##\s+출처/.test(line)) break;
+
+    const match = line.match(/^\s*-\s+\*\*(.+?)\*\*/);
+    if (match && items.length < 3) {
+      items.push(match[1]);
     }
+    if (items.length >= 3) break;
   }
-  return items.slice(0, 3);
+  return items;
 }
 
 function isReportFile(name: string): boolean {
@@ -44,7 +43,7 @@ export function getAllReports(): Report[] {
   const reports = files.map((file) => {
     const date = file.replace(".md", "");
     const raw = fs.readFileSync(path.join(REPORTS_DIR, file), "utf-8");
-    return { date, raw, top3: extractTop3(raw) };
+    return { date, raw, preview: extractPreview(raw) };
   });
   reports.sort((a, b) => b.date.localeCompare(a.date));
   return reports;
@@ -54,5 +53,5 @@ export function getReport(date: string): Report | null {
   const filePath = path.join(REPORTS_DIR, `${date}.md`);
   if (!fs.existsSync(filePath)) return null;
   const raw = fs.readFileSync(filePath, "utf-8");
-  return { date, raw, top3: extractTop3(raw) };
+  return { date, raw, preview: extractPreview(raw) };
 }

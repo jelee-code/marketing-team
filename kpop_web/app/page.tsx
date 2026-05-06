@@ -56,14 +56,14 @@ export default function Home() {
                 </span>
               </div>
 
-              {report.top3.length > 0 ? (
-                <ol className="text-sm text-neutral-600 space-y-1.5 list-decimal list-inside marker:text-neutral-400">
-                  {report.top3.map((title, i) => (
+              {report.preview.length > 0 ? (
+                <ul className="text-sm text-neutral-600 space-y-1.5 list-disc list-inside marker:text-neutral-400">
+                  {report.preview.map((title, i) => (
                     <li key={i} className="truncate pl-1">
                       {title}
                     </li>
                   ))}
-                </ol>
+                </ul>
               ) : (
                 <p className="text-sm text-neutral-400 italic">
                   미리보기 없음

@@ -23,7 +23,7 @@ export default function ReportPage({ params }: { params: { date: string } }) {
         ← 전체 리포트
       </Link>
 
-      <article className="prose prose-neutral max-w-none prose-headings:tracking-tight prose-h1:text-3xl prose-h2:text-xl prose-h2:mt-10 prose-h3:text-base prose-h3:mt-6 prose-a:text-neutral-900 prose-a:underline prose-a:underline-offset-2 hover:prose-a:text-neutral-600 prose-strong:text-neutral-900 prose-li:my-1">
+      <article className="prose prose-neutral max-w-none prose-headings:tracking-tight prose-h1:text-3xl prose-h2:text-xl prose-h2:mt-10 prose-a:text-neutral-400 prose-a:font-normal prose-a:no-underline hover:prose-a:text-neutral-700 hover:prose-a:underline prose-a:underline-offset-2 prose-strong:text-neutral-900 prose-li:my-1 report-prose">
         <ReactMarkdown remarkPlugins={[remarkGfm]}>{report.raw}</ReactMarkdown>
       </article>
     </div>

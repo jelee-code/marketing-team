@@ -25,3 +25,42 @@ body {
 .prose :where(a) {
   word-break: break-all;
 }
+
+/* Source citations: lighter gray, no bold weight */
+.report-prose a {
+  color: rgb(163 163 163);
+  font-weight: 400;
+}
+.report-prose a:hover {
+  color: rgb(82 82 82);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+/* Sources section ("## 출처") — last H2 in the article — render at ~60% scale */
+.report-prose h2:last-of-type {
+  font-size: 1rem;
+  margin-top: 3rem;
+  margin-bottom: 0.75rem;
+  font-weight: 500;
+  color: rgb(115 115 115);
+  letter-spacing: 0;
+}
+.report-prose h2:last-of-type ~ ul {
+  font-size: 0.7rem;
+  line-height: 1.55;
+  color: rgb(163 163 163);
+  margin-top: 0.5rem;
+}
+.report-prose h2:last-of-type ~ ul li {
+  margin-top: 0.15rem;
+  margin-bottom: 0.15rem;
+}
+.report-prose h2:last-of-type ~ ul a {
+  color: rgb(163 163 163);
+  font-weight: 400;
+}
+.report-prose h2:last-of-type ~ ul a:hover {
+  color: rgb(115 115 115);
+}
