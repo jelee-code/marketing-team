@@ -3,8 +3,8 @@ import Link from "next/link";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "K-POP 일일 이슈 리포트",
-  description: "K-pop 산업 일일 이슈 브리프 — 마케팅팀 내부 공유용",
+  title: "영등포 타임스퀘어 일일 행사",
+  description: "영등포 타임스퀘어 진행/예정/종료 행사 일일 업데이트 — 마케팅팀 내부 공유용",
 };
 
 export default function RootLayout({
@@ -21,7 +21,7 @@ export default function RootLayout({
               href="/"
               className="text-base font-semibold tracking-tight hover:text-neutral-700 transition"
             >
-              K-POP 일일 이슈 리포트
+              영등포 타임스퀘어 일일 행사
             </Link>
             <span className="text-xs uppercase tracking-wider text-neutral-400">
               marketing team

@@ -19,12 +19,6 @@ const config: Config = {
           "sans-serif",
         ],
       },
-      colors: {
-        accent: {
-          DEFAULT: "#E09BCF",
-          dark: "#DB9E84",
-        },
-      },
     },
   },
   plugins: [require("@tailwindcss/typography")],

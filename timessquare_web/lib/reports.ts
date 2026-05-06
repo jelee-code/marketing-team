@@ -1,7 +1,12 @@
 import fs from "fs";
 import path from "path";
 
-const REPORTS_DIR = path.join(process.cwd(), "..", "kpop_agent", "reports");
+const REPORTS_DIR = path.join(
+  process.cwd(),
+  "..",
+  "timessquare_agent",
+  "reports",
+);
 
 export type Report = {
   date: string;

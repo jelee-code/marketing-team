@@ -20,7 +20,7 @@ export default function Home() {
       <div className="text-center py-24">
         <p className="text-neutral-500">아직 발행된 리포트가 없습니다.</p>
         <p className="text-sm text-neutral-400 mt-2">
-          첫 리포트는 다음 평일 오전 8:30 KST에 도착합니다.
+          첫 리포트는 다음 평일 오전 7:00 KST에 도착합니다.
         </p>
       </div>
     );
