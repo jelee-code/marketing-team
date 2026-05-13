@@ -1,0 +1,8355 @@
+{
+  "meta": {
+    "source": "그룹_멤버명 BE공유.xlsx",
+    "group_count": 175,
+    "member_count": 1017
+  },
+  "groups": [
+    {
+      "id": 1,
+      "nameKR": "NCT",
+      "nameEN": "NCT",
+      "nameShort": "NCT",
+      "searchTerms": "nct NCT 엔시티"
+    },
+    {
+      "id": 2,
+      "nameKR": "BTS",
+      "nameEN": "BTS",
+      "nameShort": "BTS",
+      "searchTerms": "방탄소년단 방탄 비티에스 BTS"
+    },
+    {
+      "id": 3,
+      "nameKR": "스트레이키즈",
+      "nameEN": "Stray Kids",
+      "nameShort": "SKZ",
+      "searchTerms": "스트레이키즈 스트레이 키즈 STRAY KIDS STRAYKIDS 스키즈 SKZ"
+    },
+    {
+      "id": 4,
+      "nameKR": "더보이즈",
+      "nameEN": "THE BOYZ",
+      "nameShort": "TBZ",
+      "searchTerms": "더보이즈 더 보이즈 THE BOYZ THEBOYZ TBZ 덥즈"
+    },
+    {
+      "id": 5,
+      "nameKR": "세븐틴",
+      "nameEN": "Seventeen",
+      "nameShort": "SVT",
+      "searchTerms": "세븐틴 셉틴 셉 SEVENTEEN SVT"
+    },
+    {
+      "id": 6,
+      "nameKR": "SF9",
+      "nameEN": "SF9",
+      "nameShort": "SF9",
+      "searchTerms": "SF9 에스에프나인 셒구 슾구"
+    },
+    {
+      "id": 7,
+      "nameKR": "스테이씨",
+      "nameEN": "STAYC",
+      "nameShort": "STAYC",
+      "searchTerms": "스테이씨 STAYC"
+    },
+    {
+      "id": 8,
+      "nameKR": "펜타곤",
+      "nameEN": "PENTAGON",
+      "nameShort": "PTG",
+      "searchTerms": "펜타곤 PENTAGON PENTAGON"
+    },
+    {
+      "id": 9,
+      "nameKR": "TXT",
+      "nameEN": "TXT",
+      "nameShort": "TXT",
+      "searchTerms": "투바투 투모로우바이투게더  TOMORROW X TOGETHER 투바투 TXT"
+    },
+    {
+      "id": 10,
+      "nameKR": "몬스타엑스",
+      "nameEN": "MONSTA X",
+      "nameShort": "MX",
+      "searchTerms": "몬스타엑스 몬엑 MONSTA X MONSTAX MX"
+    },
+    {
+      "id": 11,
+      "nameKR": "EXO",
+      "nameEN": "EXO",
+      "nameShort": "EXO",
+      "searchTerms": "엑소 EXO"
+    },
+    {
+      "id": 12,
+      "nameKR": "에스파",
+      "nameEN": "aespa",
+      "nameShort": "aespa",
+      "searchTerms": "에스파 aespa"
+    },
+    {
+      "id": 13,
+      "nameKR": "여자아이들",
+      "nameEN": "(G)I-DLE",
+      "nameShort": "(G)I-DLE",
+      "searchTerms": "(G)-IDLE GIDLE 여자아이들 여자 아이들"
+    },
+    {
+      "id": 14,
+      "nameKR": "ENHYPEN",
+      "nameEN": "ENHYPEN",
+      "nameShort": "EN-",
+      "searchTerms": "엔하이픈 ENHYPEN EN-"
+    },
+    {
+      "id": 15,
+      "nameKR": "레드벨벳",
+      "nameEN": "Red Velvet",
+      "nameShort": "RV",
+      "searchTerms": "레드벨벳 Red Velvet RedVelvet 레벨"
+    },
+    {
+      "id": 16,
+      "nameKR": "오마이걸",
+      "nameEN": "OH MY GIRL",
+      "nameShort": "OMG",
+      "searchTerms": "오마이걸 옴걸 ohmygirl oh my girl"
+    },
+    {
+      "id": 17,
+      "nameKR": "에이티즈",
+      "nameEN": "ATEEZ",
+      "nameShort": "ATZ",
+      "searchTerms": "에이티즈 ATEEZ ATZ"
+    },
+    {
+      "id": 18,
+      "nameKR": "샤이니",
+      "nameEN": "SHINee",
+      "nameShort": "SHINee",
+      "searchTerms": "샤이니 SHINee"
+    },
+    {
+      "id": 19,
+      "nameKR": "SuperM",
+      "nameEN": "SuperM",
+      "nameShort": "SpM",
+      "searchTerms": "슈퍼엠 슈퍼 엠 SuperM"
+    },
+    {
+      "id": 20,
+      "nameKR": "IVE",
+      "nameEN": "IVE",
+      "nameShort": "IVE",
+      "searchTerms": "아이브 IVE"
+    },
+    {
+      "id": 21,
+      "nameKR": "DAY6",
+      "nameEN": "DAY6",
+      "nameShort": "DAY6",
+      "searchTerms": "데이식스 데식 DAY6"
+    },
+    {
+      "id": 22,
+      "nameKR": "블랙핑크",
+      "nameEN": "BLACKPINK",
+      "nameShort": "BP",
+      "searchTerms": "블랙핑크 BLACKPINK BLACK PINK"
+    },
+    {
+      "id": 23,
+      "nameKR": "ITZY",
+      "nameEN": "ITZY",
+      "nameShort": "ITZY",
+      "searchTerms": "있지 ITZY"
+    },
+    {
+      "id": 24,
+      "nameKR": "케플러",
+      "nameEN": "Kep1er",
+      "nameShort": "Kp1",
+      "searchTerms": "케플러 Kep1er"
+    },
+    {
+      "id": 25,
+      "nameKR": "NMIXX",
+      "nameEN": "NMIXX",
+      "nameShort": "NMIXX",
+      "searchTerms": "엔믹스 NMIXX"
+    },
+    {
+      "id": 26,
+      "nameKR": "TREASURE",
+      "nameEN": "TREASURE",
+      "nameShort": "",
+      "searchTerms": "트레저 TREASURE"
+    },
+    {
+      "id": 27,
+      "nameKR": "VIVIZ",
+      "nameEN": "VIVIZ",
+      "nameShort": "VIVIZ",
+      "searchTerms": "비비지 VIVIZ"
+    },
+    {
+      "id": 28,
+      "nameKR": "르세라핌",
+      "nameEN": "LE SSERAFIM",
+      "nameShort": "LE SSERAFIM",
+      "searchTerms": "르세라핌 LE SSERAFIM LESSERAFIM"
+    },
+    {
+      "id": 29,
+      "nameKR": "이달의소녀",
+      "nameEN": "LOONA",
+      "nameShort": "LOONA",
+      "searchTerms": "이달의소녀 이달의 소녀 이달소 LOONA"
+    },
+    {
+      "id": 30,
+      "nameKR": "아스트로",
+      "nameEN": "ASTRO",
+      "nameShort": "ASTRO",
+      "searchTerms": "아스트로 ASTRO"
+    },
+    {
+      "id": 31,
+      "nameKR": "DKZ",
+      "nameEN": "DKZ",
+      "nameShort": "DKZ",
+      "searchTerms": "DKZ 디케이지 동키즈"
+    },
+    {
+      "id": 32,
+      "nameKR": "클라씨",
+      "nameEN": "CLASS:y",
+      "nameShort": "CLASS:y",
+      "searchTerms": "클라씨 CLASS:y"
+    },
+    {
+      "id": 33,
+      "nameKR": "우주소녀",
+      "nameEN": "WJSN",
+      "nameShort": "WJSN",
+      "searchTerms": "우주소녀 WJSN 우소"
+    },
+    {
+      "id": 34,
+      "nameKR": "TWICE",
+      "nameEN": "TWICE",
+      "nameShort": "TWICE",
+      "searchTerms": "트와이스 TWICE"
+    },
+    {
+      "id": 35,
+      "nameKR": "CRAVITY",
+      "nameEN": "CRAVITY",
+      "nameShort": "CRAVITY",
+      "searchTerms": "크래비티 CRAVITY"
+    },
+    {
+      "id": 36,
+      "nameKR": "Billlie",
+      "nameEN": "Billlie",
+      "nameShort": "Billlie",
+      "searchTerms": "빌리 Billlie"
+    },
+    {
+      "id": 37,
+      "nameKR": "TNX",
+      "nameEN": "TNX",
+      "nameShort": "TNX",
+      "searchTerms": "TNX 티엔엑스 THE NEW SIX 더뉴식스 더 뉴 식스 THENEWSIX"
+    },
+    {
+      "id": 38,
+      "nameKR": "VERIVERY",
+      "nameEN": "VERIVERY",
+      "nameShort": "VERIVERY",
+      "searchTerms": "베리베리 VERIVERY"
+    },
+    {
+      "id": 39,
+      "nameKR": "CIX",
+      "nameEN": "CIX",
+      "nameShort": "CIX",
+      "searchTerms": "씨아이엑스 씨아엑 CIX"
+    },
+    {
+      "id": 40,
+      "nameKR": "뉴진스",
+      "nameEN": "NewJeans",
+      "nameShort": "NewJeans",
+      "searchTerms": "뉴진스 NewJeans New Jeans"
+    },
+    {
+      "id": 41,
+      "nameKR": "예나",
+      "nameEN": "YENA",
+      "nameShort": "YENA",
+      "searchTerms": "예나 최예나 YENA CHOIYENA CHOI YENA"
+    },
+    {
+      "id": 42,
+      "nameKR": "WOODZ",
+      "nameEN": "WOODZ",
+      "nameShort": "WOODZ",
+      "searchTerms": "우즈 WOODZ 조승연 CHO SEUNGYEON CHOSEUNGYEON"
+    },
+    {
+      "id": 43,
+      "nameKR": "AB6IX",
+      "nameEN": "AB6IX",
+      "nameShort": "AB6IX",
+      "searchTerms": "AB6IX 에이비식스 앱식 엡식"
+    },
+    {
+      "id": 44,
+      "nameKR": "온앤오프",
+      "nameEN": "ONF",
+      "nameShort": "ONF",
+      "searchTerms": "온앤오프 온옾 ONF"
+    },
+    {
+      "id": 45,
+      "nameKR": "빅톤",
+      "nameEN": "VICTON",
+      "nameShort": "VICTON",
+      "searchTerms": "빅톤 VICTON"
+    },
+    {
+      "id": 46,
+      "nameKR": "위클리",
+      "nameEN": "Weeekly",
+      "nameShort": "Weeekly",
+      "searchTerms": "위클리 Weeekly"
+    },
+    {
+      "id": 47,
+      "nameKR": "원어스",
+      "nameEN": "ONEUS",
+      "nameShort": "ONEUS",
+      "searchTerms": "원어스 ONEUS"
+    },
+    {
+      "id": 48,
+      "nameKR": "P1Harmony",
+      "nameEN": "P1Harmony",
+      "nameShort": "P1Harmony",
+      "searchTerms": "피원하모니 P1Harmony"
+    },
+    {
+      "id": 49,
+      "nameKR": "LUCY",
+      "nameEN": "LUCY",
+      "nameShort": "LUCY",
+      "searchTerms": "루시 LUCY"
+    },
+    {
+      "id": 50,
+      "nameKR": "아이유",
+      "nameEN": "IU",
+      "nameShort": "IU",
+      "searchTerms": "아이유 IU 이지은 LEE JIEUN LEEJIEUN"
+    },
+    {
+      "id": 51,
+      "nameKR": "조유리",
+      "nameEN": "JO YURI",
+      "nameShort": "JO YURI",
+      "searchTerms": "조유리 유리 JOYURI JO YURI"
+    },
+    {
+      "id": 52,
+      "nameKR": "N.Flying",
+      "nameEN": "N.Flying",
+      "nameShort": "N.Flying",
+      "searchTerms": "엔플라잉 N.Flying NFlying N Flying"
+    },
+    {
+      "id": 53,
+      "nameKR": "EPEX",
+      "nameEN": "EPEX",
+      "nameShort": "EPEX",
+      "searchTerms": "이펙스 EPEX"
+    },
+    {
+      "id": 54,
+      "nameKR": "Xdinary Heroes",
+      "nameEN": "Xdinary Heroes",
+      "nameShort": "Xdinary Heroes",
+      "searchTerms": "엑스디너리히어로즈 엑스디 Xdinary Heroes XdinaryHeroes XH"
+    },
+    {
+      "id": 55,
+      "nameKR": "제로베이스원",
+      "nameEN": "ZEROBASEONE",
+      "nameShort": "ZEROBASEONE",
+      "searchTerms": "제로베이스원 제베원 ZEROBASEONE ZB1"
+    },
+    {
+      "id": 56,
+      "nameKR": "BOYNEXTDOOR",
+      "nameEN": "BOYNEXTDOOR",
+      "nameShort": "BOYNEXTDOOR",
+      "searchTerms": "보이넥스트도어 보이 넥스트 도어 보넥도 BOYNEXTDOOR"
+    },
+    {
+      "id": 57,
+      "nameKR": "xikers",
+      "nameEN": "xikers",
+      "nameShort": "xikers",
+      "searchTerms": "싸이커스 xikers"
+    },
+    {
+      "id": 58,
+      "nameKR": "비투비",
+      "nameEN": "BTOB",
+      "nameShort": "BTOB",
+      "searchTerms": "비투비 BTOB 비툽"
+    },
+    {
+      "id": 59,
+      "nameKR": "마마무",
+      "nameEN": "MAMAMOO",
+      "nameShort": "MAMAMOO",
+      "searchTerms": "마마무 MAMAMOO"
+    },
+    {
+      "id": 60,
+      "nameKR": "하이라이트",
+      "nameEN": "Highlight",
+      "nameShort": "Highlight",
+      "searchTerms": "하이라이트 Highlight 비스트 BEAST B2ST"
+    },
+    {
+      "id": 61,
+      "nameKR": "iKON",
+      "nameEN": "iKON",
+      "nameShort": "iKON",
+      "searchTerms": "아이콘 iKON"
+    },
+    {
+      "id": 62,
+      "nameKR": "&TEAM",
+      "nameEN": "&TEAM",
+      "nameShort": "&TEAM",
+      "searchTerms": "앤팀 엔팀 &TEAM"
+    },
+    {
+      "id": 63,
+      "nameKR": "PLAVE",
+      "nameEN": "PLAVE",
+      "nameShort": "PLAVE",
+      "searchTerms": "PLAVE 플레이브 플래이브"
+    },
+    {
+      "id": 64,
+      "nameKR": "TEMPEST",
+      "nameEN": "TEMPEST",
+      "nameShort": "TEMPEST",
+      "searchTerms": "TEMPEST 템페스트"
+    },
+    {
+      "id": 65,
+      "nameKR": "라이즈",
+      "nameEN": "RIIZE",
+      "nameShort": "RIIZE",
+      "searchTerms": "라이즈 RIIZE"
+    },
+    {
+      "id": 66,
+      "nameKR": "프로미스나인",
+      "nameEN": "fromis_9",
+      "nameShort": "fromis_9",
+      "searchTerms": "프로미스나인 fromis_9 프미나 프로미스 나인"
+    },
+    {
+      "id": 67,
+      "nameKR": "ATBO",
+      "nameEN": "ATBO",
+      "nameShort": "ATBO",
+      "searchTerms": "ATBO 에이티비오 애이티비오"
+    },
+    {
+      "id": 68,
+      "nameKR": "woo!ah!",
+      "nameEN": "woo!ah!",
+      "nameShort": "woo!ah!",
+      "searchTerms": "woo!ah! wooah 우아"
+    },
+    {
+      "id": 69,
+      "nameKR": "이븐",
+      "nameEN": "EVNNE",
+      "nameShort": "EVNNE",
+      "searchTerms": "EVNNE 이븐"
+    },
+    {
+      "id": 70,
+      "nameKR": "드림캐쳐",
+      "nameEN": "DREAMCATCHER",
+      "nameShort": "DREAMCATCHER",
+      "searchTerms": "드림캐쳐 DREAMCATCHER 드캐"
+    },
+    {
+      "id": 71,
+      "nameKR": "골든차일드",
+      "nameEN": "Golden Child",
+      "nameShort": "Golden Child",
+      "searchTerms": "골든차일드 골든 차일드 골차 Golden Child GoldenChild"
+    },
+    {
+      "id": 72,
+      "nameKR": "위아이",
+      "nameEN": "WEi",
+      "nameShort": "WEi",
+      "searchTerms": "WEi 위아이"
+    },
+    {
+      "id": 73,
+      "nameKR": "TO1",
+      "nameEN": "TO1",
+      "nameShort": "TO1",
+      "searchTerms": "티오원 TO1"
+    },
+    {
+      "id": 74,
+      "nameKR": "슈퍼주니어",
+      "nameEN": "SUPER JUNIOR",
+      "nameShort": "SUPER JUNIOR",
+      "searchTerms": "슈퍼주니어 슈퍼 주니어 SUPER JUNIOR SUPERJUNIOR 슈주"
+    },
+    {
+      "id": 75,
+      "nameKR": "인피니트",
+      "nameEN": "INFINITE",
+      "nameShort": "INFINITE",
+      "searchTerms": "INFINITE 인피니트"
+    },
+    {
+      "id": 76,
+      "nameKR": "GOT7",
+      "nameEN": "GOT7",
+      "nameShort": "GOT7",
+      "searchTerms": "GOT7 갓세븐"
+    },
+    {
+      "id": 77,
+      "nameKR": "에이핑크",
+      "nameEN": "Apink",
+      "nameShort": "Apink",
+      "searchTerms": "Apink 에이핑크"
+    },
+    {
+      "id": 78,
+      "nameKR": "WINNER",
+      "nameEN": "WINNER",
+      "nameShort": "WINNER",
+      "searchTerms": "WINNER 위너"
+    },
+    {
+      "id": 79,
+      "nameKR": "8TURN",
+      "nameEN": "8TURN",
+      "nameShort": "8TURN",
+      "searchTerms": "8TURN 에잇턴"
+    },
+    {
+      "id": 80,
+      "nameKR": "EVERGLOW",
+      "nameEN": "EVERGLOW",
+      "nameShort": "EVERGLOW",
+      "searchTerms": "EVERGLOW 에버글로우"
+    },
+    {
+      "id": 81,
+      "nameKR": "KISS OF LIFE",
+      "nameEN": "KISS OF LIFE",
+      "nameShort": "KISS OF LIFE",
+      "searchTerms": "KISS OF LIFE KISSOFLIFE 키스오브라이프 키스 오브 라이프 키오라"
+    },
+    {
+      "id": 82,
+      "nameKR": "아이즈원",
+      "nameEN": "IZ*ONE",
+      "nameShort": "IZ*ONE",
+      "searchTerms": "아이즈원 IZ*ONE IZONE IZ ONE"
+    },
+    {
+      "id": 83,
+      "nameKR": "강혜원",
+      "nameEN": "KANGHYEWON",
+      "nameShort": "KANGHYEWON",
+      "searchTerms": "강혜원 혜원 KANGHYEWON KANG HYEWON"
+    },
+    {
+      "id": 84,
+      "nameKR": "권은비",
+      "nameEN": "KWONEUNBI",
+      "nameShort": "KWONEUNBI",
+      "searchTerms": "권은비 은비 KWONEUNBI KWON EUNBI"
+    },
+    {
+      "id": 85,
+      "nameKR": "김민주",
+      "nameEN": "KIMMINJU",
+      "nameShort": "KIMMINJU",
+      "searchTerms": "김민주 민주 KIMMINJU KIM MINJU"
+    },
+    {
+      "id": 86,
+      "nameKR": "이채연",
+      "nameEN": "LEECHAEYEON",
+      "nameShort": "LEECHAEYEON",
+      "searchTerms": "이채연 채연 LEECHAEYEON LEE CHAEYEON"
+    },
+    {
+      "id": 87,
+      "nameKR": "드리핀",
+      "nameEN": "DRIPPIN",
+      "nameShort": "DRIPPIN",
+      "searchTerms": "드리핀 DRIPPIN"
+    },
+    {
+      "id": 88,
+      "nameKR": "미래소년",
+      "nameEN": "MIRAE",
+      "nameShort": "MIRAE",
+      "searchTerms": "미래소년 MIRAE"
+    },
+    {
+      "id": 89,
+      "nameKR": "소녀시대",
+      "nameEN": "SNSD",
+      "nameShort": "SNSD",
+      "searchTerms": "소녀시대 소시 SNSD"
+    },
+    {
+      "id": 90,
+      "nameKR": "YOUNITE",
+      "nameEN": "YOUNITE",
+      "nameShort": "YOUNITE",
+      "searchTerms": "YOUNITE 유나이트"
+    },
+    {
+      "id": 91,
+      "nameKR": "TWS",
+      "nameEN": "TWS",
+      "nameShort": "TWS",
+      "searchTerms": "TWS 투어스"
+    },
+    {
+      "id": 92,
+      "nameKR": "여자친구",
+      "nameEN": "GFRIEND",
+      "nameShort": "GFRIEND",
+      "searchTerms": "여자친구 여친 지프렌드 GFRIEND"
+    },
+    {
+      "id": 93,
+      "nameKR": "김소원",
+      "nameEN": "KIM SO WON",
+      "nameShort": "KIM SO WON",
+      "searchTerms": "김소원 소원 김소정 KIM SO WON"
+    },
+    {
+      "id": 94,
+      "nameKR": "예린",
+      "nameEN": "YERIN",
+      "nameShort": "YERIN",
+      "searchTerms": "예린 정예린 YERIN JUNGYERIN"
+    },
+    {
+      "id": 95,
+      "nameKR": "유주",
+      "nameEN": "YUJU",
+      "nameShort": "YUJU",
+      "searchTerms": "유주 최유나 YUJU"
+    },
+    {
+      "id": 96,
+      "nameKR": "TIOT",
+      "nameEN": "TIOT",
+      "nameShort": "TIOT",
+      "searchTerms": "TIOT 티아이오티"
+    },
+    {
+      "id": 97,
+      "nameKR": "BAE173",
+      "nameEN": "BAE173",
+      "nameShort": "BAE173",
+      "searchTerms": "BAE173 배칠삼 배173"
+    },
+    {
+      "id": 98,
+      "nameKR": "황민현",
+      "nameEN": "HWANG MIN HYUN",
+      "nameShort": "HWANG MIN HYUN",
+      "searchTerms": "황민현 민현 HWANG MIN HYUN HWANG MINHYUN"
+    },
+    {
+      "id": 99,
+      "nameKR": "김세정",
+      "nameEN": "KIM SEJEONG",
+      "nameShort": "KIM SEJEONG",
+      "searchTerms": "김세정 세정 KIM SEJEONG KIMSEJEONG"
+    },
+    {
+      "id": 100,
+      "nameKR": "박지훈",
+      "nameEN": "PARK JI HOON",
+      "nameShort": "PARK JI HOON",
+      "searchTerms": "박지훈 지훈 PARK JI HOON PARK JIHOON PARKJIHOON"
+    },
+    {
+      "id": 101,
+      "nameKR": "Wanna One",
+      "nameEN": "Wanna One",
+      "nameShort": "Wanna One",
+      "searchTerms": "Wanna One 워너원 WannaOne"
+    },
+    {
+      "id": 102,
+      "nameKR": "강다니엘",
+      "nameEN": "KANG DANIEL",
+      "nameShort": "KANG DANIEL",
+      "searchTerms": "강다니엘 KANG DANIEL"
+    },
+    {
+      "id": 103,
+      "nameKR": "김재환",
+      "nameEN": "KIM JAEHWAN",
+      "nameShort": "KIM JAEHWAN",
+      "searchTerms": "김재환 재환 KIM JAE HWAN KIMJAEHWAN"
+    },
+    {
+      "id": 104,
+      "nameKR": "옹성우",
+      "nameEN": "ONG SEONG WU",
+      "nameShort": "ONG SEONG WU",
+      "searchTerms": "옹성우 ONG SEONG WU 성우 ONGSEONGWU"
+    },
+    {
+      "id": 105,
+      "nameKR": "라이관린",
+      "nameEN": "LAI KUANLIN",
+      "nameShort": "LAI KUANLIN",
+      "searchTerms": "라이관린 Lai Kuanlin 賴冠霖"
+    },
+    {
+      "id": 106,
+      "nameKR": "윤지성",
+      "nameEN": "Yoon Ji Sung",
+      "nameShort": "Yoon Ji Sung",
+      "searchTerms": "윤지성 지성 YOON JISUNG YOONJISUNG Yoon Ji Sung"
+    },
+    {
+      "id": 107,
+      "nameKR": "하성운",
+      "nameEN": "HA SUNG WOON",
+      "nameShort": "HA SUNG WOON",
+      "searchTerms": "하성운 성운 HA SUNG WOON HASUNGWOON"
+    },
+    {
+      "id": 108,
+      "nameKR": "X1",
+      "nameEN": "X1",
+      "nameShort": "X1",
+      "searchTerms": "X1 엑스원"
+    },
+    {
+      "id": 109,
+      "nameKR": "김우석",
+      "nameEN": "Kim Woo Seok",
+      "nameShort": "Kim Woo Seok",
+      "searchTerms": "김우석 우석 Kim Woo Seok"
+    },
+    {
+      "id": 110,
+      "nameKR": "H1-KEY",
+      "nameEN": "H1-KEY",
+      "nameShort": "H1-KEY",
+      "searchTerms": "하이키 H1-KEY"
+    },
+    {
+      "id": 111,
+      "nameKR": "아일릿",
+      "nameEN": "ILLIT",
+      "nameShort": "ILLIT",
+      "searchTerms": "아일릿 ILLIT"
+    },
+    {
+      "id": 112,
+      "nameKR": "뉴이스트",
+      "nameEN": "NU'EST",
+      "nameShort": "NU'EST",
+      "searchTerms": "뉴이스트 NU'EST"
+    },
+    {
+      "id": 113,
+      "nameKR": "김종현",
+      "nameEN": "KIMJONGHYUN",
+      "nameShort": "KIMJONGHYUN",
+      "searchTerms": "JR 제이알 김종현 종현 Kim Jonghyeon KimJonghyeon"
+    },
+    {
+      "id": 114,
+      "nameKR": "아론",
+      "nameEN": "AARON",
+      "nameShort": "AARON",
+      "searchTerms": "아론 곽아론 곽영민 AARON Aaron Kwak KwakAaron Kwak Youngmin KwakYoungmin"
+    },
+    {
+      "id": 115,
+      "nameKR": "백호",
+      "nameEN": "BAEKHO",
+      "nameShort": "BAEKHO",
+      "searchTerms": "백호 강동호 BAEKHO Kang Dongho KangDongho"
+    },
+    {
+      "id": 116,
+      "nameKR": "렌",
+      "nameEN": "REN",
+      "nameShort": "REN",
+      "searchTerms": "렌 최민기 민기 REN Choi Mingi ChoiMingi"
+    },
+    {
+      "id": 117,
+      "nameKR": "BABYMONSTER",
+      "nameEN": "BABYMONSTER",
+      "nameShort": "BABYMONSTER",
+      "searchTerms": "BABYMONSTER 베이비몬스터 베몬"
+    },
+    {
+      "id": 118,
+      "nameKR": "앰퍼샌드원",
+      "nameEN": "AMPERS&ONE",
+      "nameShort": "AMPERS&ONE",
+      "searchTerms": "앰퍼샌드원 AMPERS&ONE AMPERSAND ONE AMPERSANDONE APSND 앰퍼원"
+    },
+    {
+      "id": 119,
+      "nameKR": "루네이트",
+      "nameEN": "LUN8",
+      "nameShort": "LUN8",
+      "searchTerms": "루네이트 LUN8"
+    },
+    {
+      "id": 120,
+      "nameKR": "판타지 보이즈",
+      "nameEN": "FANTASY BOYS",
+      "nameShort": "FANTASY BOYS",
+      "searchTerms": "판타지보이즈 FANTASYBOYS FANTASY BOYS 판타지 보이즈 판뽀 판보"
+    },
+    {
+      "id": 121,
+      "nameKR": "유니스",
+      "nameEN": "UNIS",
+      "nameShort": "UNIS",
+      "searchTerms": "유니스 UNIS"
+    },
+    {
+      "id": 122,
+      "nameKR": "ONE PACT",
+      "nameEN": "ONE PACT",
+      "nameShort": "ONE PACT",
+      "searchTerms": "ONE PACT 원팩트 ONEPACT"
+    },
+    {
+      "id": 123,
+      "nameKR": "넥스지",
+      "nameEN": "NEXZ",
+      "nameShort": "NEXZ",
+      "searchTerms": "넥스지 NEXZ"
+    },
+    {
+      "id": 124,
+      "nameKR": "온리원오브",
+      "nameEN": "OnlyOneOf",
+      "nameShort": "OnlyOneOf",
+      "searchTerms": "온리원오브 온리원 오브 onlyoneof only one of onlyone of"
+    },
+    {
+      "id": 125,
+      "nameKR": "OMEGA X",
+      "nameEN": "OMEGA X",
+      "nameShort": "OMEGA X",
+      "searchTerms": "OMEGA X 오메가엑스 OMEGAX"
+    },
+    {
+      "id": 126,
+      "nameKR": "82MAJOR",
+      "nameEN": "82MAJOR",
+      "nameShort": "82MAJOR",
+      "searchTerms": "82MAJOR 에이티투메이저 에투메"
+    },
+    {
+      "id": 127,
+      "nameKR": "이즈나",
+      "nameEN": "izna",
+      "nameShort": "izna",
+      "searchTerms": "이즈나 izna"
+    },
+    {
+      "id": 128,
+      "nameKR": "임영웅",
+      "nameEN": "LimYoungWoong",
+      "nameShort": "LimYoungWoong",
+      "searchTerms": "임영웅 영웅 LimYoungWoong Lim YoungWoong"
+    },
+    {
+      "id": 129,
+      "nameKR": "영탁",
+      "nameEN": "YOUNGTAK",
+      "nameShort": "YOUNGTAK",
+      "searchTerms": "영탁 박영탁 PARK YOUNGTAK PARKYOUNGTAK"
+    },
+    {
+      "id": 130,
+      "nameKR": "이찬원",
+      "nameEN": "LEECHANWON",
+      "nameShort": "LEECHANWON",
+      "searchTerms": "이찬원 찬원 LEECHANWON LEE CHANWON"
+    },
+    {
+      "id": 131,
+      "nameKR": "정동원",
+      "nameEN": "JeongDongWon",
+      "nameShort": "JeongDongWon",
+      "searchTerms": "정동원 제이디원 JeongDongWon JD1 Jeong DongWon"
+    },
+    {
+      "id": 132,
+      "nameKR": "박보검",
+      "nameEN": "PARKBOGUM",
+      "nameShort": "PARKBOGUM",
+      "searchTerms": "박보검 보검 PARKBOGUM PARK BOGUM"
+    },
+    {
+      "id": 133,
+      "nameKR": "변우석",
+      "nameEN": "BYEON WOO SEOK",
+      "nameShort": "BYEON WOO SEOK",
+      "searchTerms": "변우석 우석 BYEON WOO SEOK BYEONWOOSEOK"
+    },
+    {
+      "id": 134,
+      "nameKR": "수지",
+      "nameEN": "Suzy",
+      "nameShort": "Suzy",
+      "searchTerms": "수지 배수지 Suzy  Bae Suzy"
+    },
+    {
+      "id": 135,
+      "nameKR": "이도현",
+      "nameEN": "LEE DO HYUN",
+      "nameShort": "LEE DO HYUN",
+      "searchTerms": "이도현 도현 LEE DO HYUN LEE DOHYUN LEEDOHYUN"
+    },
+    {
+      "id": 136,
+      "nameKR": "KickFlip",
+      "nameEN": "KickFlip",
+      "nameShort": "KickFlip",
+      "searchTerms": "KickFlip 킥플립"
+    },
+    {
+      "id": 137,
+      "nameKR": "정해인",
+      "nameEN": "Jung Hae In",
+      "nameShort": "Jung Hae In",
+      "searchTerms": "정해인 해인 JungHaeIn Jung HaeIn Jung Hae In"
+    },
+    {
+      "id": 138,
+      "nameKR": "Hearts2Hearts",
+      "nameEN": "Hearts2Hearts",
+      "nameShort": "Hearts2Hearts",
+      "searchTerms": "Hearts2Hearts 하츠투하츠 하투하"
+    },
+    {
+      "id": 139,
+      "nameKR": "구교환",
+      "nameEN": "KooKyoHwan",
+      "nameShort": "KooKyoHwan",
+      "searchTerms": "구교환 교환 KooKyoHwan Koo KyoHwan"
+    },
+    {
+      "id": 140,
+      "nameKR": "KIA 타이거즈",
+      "nameEN": "KIA TIGERS",
+      "nameShort": "KIA TIGERS",
+      "searchTerms": "KIA 타이거즈 KIA TIGERS 기아타이거즈 기아 타이거즈 KIA타이거즈"
+    },
+    {
+      "id": 141,
+      "nameKR": "KT 위즈",
+      "nameEN": "Kt wiz",
+      "nameShort": "Kt wiz",
+      "searchTerms": "KT 위즈 Kt wiz 케이티위즈 케이티 위즈 KT위즈"
+    },
+    {
+      "id": 142,
+      "nameKR": "LG 트윈스",
+      "nameEN": "LG TWINS",
+      "nameShort": "LG TWINS",
+      "searchTerms": "LG 트윈스 LG트윈스 LG TWINS 엘지트윈스 엘지 트윈스"
+    },
+    {
+      "id": 143,
+      "nameKR": "NC 다이노스",
+      "nameEN": "NC Dinos",
+      "nameShort": "NC Dinos",
+      "searchTerms": "NC 다이노스 NC Dinos NC다이노스  엔씨 다이노스 엔씨다이노스"
+    },
+    {
+      "id": 144,
+      "nameKR": "SSG 랜더스",
+      "nameEN": "SSG LANDERS",
+      "nameShort": "SSG LANDERS",
+      "searchTerms": "SSG 랜더스 SSG LANDERS SSG랜더스 에스에스지랜더스 에스에스지 랜더스 쓱"
+    },
+    {
+      "id": 145,
+      "nameKR": "두산 베어스",
+      "nameEN": "DOOSAN BEARS",
+      "nameShort": "DOOSAN BEARS",
+      "searchTerms": "두산 베어스 두산베어스 DOOSAN BEARS"
+    },
+    {
+      "id": 146,
+      "nameKR": "롯데 자이언츠",
+      "nameEN": "LOTTE GIANTS",
+      "nameShort": "LOTTE GIANTS",
+      "searchTerms": "롯데 자이언츠 롯데자이언츠 LOTTE GIANTS"
+    },
+    {
+      "id": 147,
+      "nameKR": "삼성 라이온즈",
+      "nameEN": "Samsung Lions",
+      "nameShort": "Samsung Lions",
+      "searchTerms": "삼성 라이온즈 삼성라이온즈 Samsung Lions"
+    },
+    {
+      "id": 148,
+      "nameKR": "키움 히어로즈",
+      "nameEN": "Kiwoom Heroes",
+      "nameShort": "Kiwoom Heroes",
+      "searchTerms": "키움 히어로즈 키움히어로즈 큠 Kiwoom Heroes"
+    },
+    {
+      "id": 149,
+      "nameKR": "한화 이글스",
+      "nameEN": "Hanwha Eagles",
+      "nameShort": "Hanwha Eagles",
+      "searchTerms": "한화 이글스 Hanwha Eagles 한화이글스"
+    },
+    {
+      "id": 150,
+      "nameKR": "KiiiKiii",
+      "nameEN": "KiiiKiii",
+      "nameShort": "KiiiKiii",
+      "searchTerms": "KiiiKiii 키키"
+    },
+    {
+      "id": 151,
+      "nameKR": "G-DRAGON",
+      "nameEN": "G-DRAGON",
+      "nameShort": "G-DRAGON",
+      "searchTerms": "G-DRAGON 지드래곤 권지용 지용 지디 GDRAGON G DRAGON"
+    },
+    {
+      "id": 152,
+      "nameKR": "이제훈",
+      "nameEN": "LEE JEHOON",
+      "nameShort": "LEE JEHOON",
+      "searchTerms": "이제훈 제훈 LEE JEHOON LEEJEHOON"
+    },
+    {
+      "id": 153,
+      "nameKR": "송강",
+      "nameEN": "SONG KANG",
+      "nameShort": "SONG KANG",
+      "searchTerms": "송강 SONG KANG SONGKANG"
+    },
+    {
+      "id": 154,
+      "nameKR": "SAY MY NAME",
+      "nameEN": "SAY MY NAME",
+      "nameShort": "SAY MY NAME",
+      "searchTerms": "SAY MY NAME 세이마이네임 세마넴 SAYMYNAME"
+    },
+    {
+      "id": 155,
+      "nameKR": "김혜윤",
+      "nameEN": "KIMHYEYOON",
+      "nameShort": "KIMHYEYOON",
+      "searchTerms": "김혜윤 혜윤 KIMHYEYOON KIM HYEYOON"
+    },
+    {
+      "id": 156,
+      "nameKR": "MEOVV",
+      "nameEN": "MEOVV",
+      "nameShort": "MEOVV",
+      "searchTerms": "MEOVV 미야오"
+    },
+    {
+      "id": 157,
+      "nameKR": "ALLDAY PROJECT",
+      "nameEN": "ALLDAY PROJECT",
+      "nameShort": "ALLDAY PROJECT",
+      "searchTerms": "ALLDAY PROJECT 올데이프로젝트 올데이 프로젝트 올데프 ALLDAYPROJECT ADP"
+    },
+    {
+      "id": 158,
+      "nameKR": "추영우",
+      "nameEN": "ChooYoungWoo",
+      "nameShort": "ChooYoungWoo",
+      "searchTerms": "추영우 ChooYoungWoo Choo YoungWoo Choo Young Woo"
+    },
+    {
+      "id": 159,
+      "nameKR": "이준혁",
+      "nameEN": "LeeJunHyuk",
+      "nameShort": "LeeJunHyuk",
+      "searchTerms": "이준혁 LeeJunHyuk Lee JunHyuk Lee Jun Hyuk"
+    },
+    {
+      "id": 160,
+      "nameKR": "CLOSE YOUR EYES",
+      "nameEN": "CLOSE YOUR EYES",
+      "nameShort": "CLOSE YOUR EYES",
+      "searchTerms": "클로즈 유어 아이즈 클로즈유어아이즈 클유아 CLOSE YOUR EYES"
+    },
+    {
+      "id": 161,
+      "nameKR": "FIFTY FIFTY",
+      "nameEN": "FIFTY FIFTY",
+      "nameShort": "FIFTY FIFTY",
+      "searchTerms": "FIFTY FIFTY 피프티피프티 피프티 피프티 FIFTYFIFTY"
+    },
+    {
+      "id": 162,
+      "nameKR": "캣츠아이",
+      "nameEN": "KATSEYE",
+      "nameShort": "KATSEYE",
+      "searchTerms": "캣츠아이 KATSEYE"
+    },
+    {
+      "id": 163,
+      "nameKR": "CORTIS",
+      "nameEN": "CORTIS",
+      "nameShort": "CORTIS",
+      "searchTerms": "CORTIS 코르티스"
+    },
+    {
+      "id": 164,
+      "nameKR": "HUNTR/X",
+      "nameEN": "HUNTR/X",
+      "nameShort": "HUNTR/X",
+      "searchTerms": "HUNTR/X 헌트릭스 케이팝 데몬 헌터스 케이팝데몬헌터스 케데헌 K-Pop Demon Hunters"
+    },
+    {
+      "id": 165,
+      "nameKR": "Saja Boys",
+      "nameEN": "Saja Boys",
+      "nameShort": "Saja Boys",
+      "searchTerms": "Saja Boys 사자보이즈 사자 보이즈 SajaBoys 케이팝 데몬 헌터스 케이팝데몬헌터스 케데헌 K-Pop Demon Hunters"
+    },
+    {
+      "id": 166,
+      "nameKR": "ONEWE",
+      "nameEN": "ONEWE",
+      "nameShort": "ONEWE",
+      "searchTerms": "ONEWE 원위"
+    },
+    {
+      "id": 167,
+      "nameKR": "IDID",
+      "nameEN": "IDID",
+      "nameShort": "IDID",
+      "searchTerms": "IDID 아이딧"
+    },
+    {
+      "id": 168,
+      "nameKR": "아홉",
+      "nameEN": "AHOF",
+      "nameShort": "AHOF",
+      "searchTerms": "아홉 AHOF"
+    },
+    {
+      "id": 169,
+      "nameKR": "ALPHA DRIVE ONE",
+      "nameEN": "ALPHA DRIVE ONE",
+      "nameShort": "ALPHA DRIVE ONE",
+      "searchTerms": "ALPHA DRIVE ONE 알파드라이브원 AD1 알드원 알디원"
+    },
+    {
+      "id": 170,
+      "nameKR": "장한음",
+      "nameEN": "JANG HANEUM",
+      "nameShort": "JANG HANEUM",
+      "searchTerms": "장한음 JANG HANEUM JANGHANEUM 한음"
+    },
+    {
+      "id": 171,
+      "nameKR": "최립우",
+      "nameEN": "CHUEI LI YU",
+      "nameShort": "CHUEI LI YU",
+      "searchTerms": "최립우 CHUEI LI YU  추이리위 崔立于 Ts’ui Li-yü"
+    },
+    {
+      "id": 172,
+      "nameKR": "WHIB",
+      "nameEN": "WHIB",
+      "nameShort": "WHIB",
+      "searchTerms": "WHIB 휘브"
+    },
+    {
+      "id": 173,
+      "nameKR": "LNGSHOT",
+      "nameEN": "LNGSHOT",
+      "nameShort": "LNGSHOT",
+      "searchTerms": "LNGSHOT 롱샷"
+    },
+    {
+      "id": 174,
+      "nameKR": "이준영",
+      "nameEN": "LeeJunyoung",
+      "nameShort": "LeeJunyoung",
+      "searchTerms": "이준영 LeeJunyoung Lee Junyoung"
+    },
+    {
+      "id": 175,
+      "nameKR": "Baby DONT Cry",
+      "nameEN": "Baby DONT Cry",
+      "nameShort": "Baby DONT Cry",
+      "searchTerms": "Baby DONT Cry 베이비돈크라이 BabyDONTCry 베돈크"
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "nameKR": "태일",
+      "nameEN": "TAEIL",
+      "group": "NCT",
+      "searchTerms": "태일 TAEIL 문태일"
+    },
+    {
+      "id": 2,
+      "nameKR": "쟈니",
+      "nameEN": "JOHNNY",
+      "group": "NCT",
+      "searchTerms": "쟈니 JOHNNY 서영호"
+    },
+    {
+      "id": 3,
+      "nameKR": "태용",
+      "nameEN": "TAEYONG",
+      "group": "NCT",
+      "searchTerms": "이태용 TAEYONG LEETAEYONG 태용"
+    },
+    {
+      "id": 4,
+      "nameKR": "유타",
+      "nameEN": "YUTA",
+      "group": "NCT",
+      "searchTerms": "유타 YUTA 나유타"
+    },
+    {
+      "id": 5,
+      "nameKR": "쿤",
+      "nameEN": "KUN",
+      "group": "NCT",
+      "searchTerms": "KUN 첸쿤 Qián Kūn 쿤"
+    },
+    {
+      "id": 6,
+      "nameKR": "도영",
+      "nameEN": "DOYOUNG",
+      "group": "NCT",
+      "searchTerms": "도영 김도영 김동영 DOYOUNG"
+    },
+    {
+      "id": 7,
+      "nameKR": "텐",
+      "nameEN": "TEN",
+      "group": "NCT",
+      "searchTerms": "ten 치타폰 텐"
+    },
+    {
+      "id": 8,
+      "nameKR": "재현",
+      "nameEN": "JAEHYUN",
+      "group": "NCT",
+      "searchTerms": "재현 정재현 JAEHYUN JEONGJAEHYUN 윤오 정윤오 JEONGYUNO 재현"
+    },
+    {
+      "id": 9,
+      "nameKR": "윈윈",
+      "nameEN": "WINWIN",
+      "group": "NCT",
+      "searchTerms": "WINWIN 동스청 동사성 윈윈"
+    },
+    {
+      "id": 10,
+      "nameKR": "정우",
+      "nameEN": "JUNGWOO",
+      "group": "NCT",
+      "searchTerms": "김정우 JUNGWOO 정우"
+    },
+    {
+      "id": 11,
+      "nameKR": "루카스",
+      "nameEN": "LUCAS",
+      "group": "NCT",
+      "searchTerms": "LUCAS 웡육헤이 황욱희 황쉬시 루카스"
+    },
+    {
+      "id": 12,
+      "nameKR": "마크",
+      "nameEN": "MARK",
+      "group": "NCT",
+      "searchTerms": "이마크 이민형 mark marklee 마크"
+    },
+    {
+      "id": 13,
+      "nameKR": "샤오쥔",
+      "nameEN": "XIAOJUN",
+      "group": "NCT",
+      "searchTerms": "XIAOJUN 샤오더쥔 소덕준 덕준 샤오쥔"
+    },
+    {
+      "id": 14,
+      "nameKR": "헨드리",
+      "nameEN": "HENDERY",
+      "group": "NCT",
+      "searchTerms": "웡군항 Hendery 헨드리"
+    },
+    {
+      "id": 15,
+      "nameKR": "런쥔",
+      "nameEN": "RENJUN",
+      "group": "NCT",
+      "searchTerms": "런쥔 RENJUN 황인준 황런쥔"
+    },
+    {
+      "id": 16,
+      "nameKR": "제노",
+      "nameEN": "JENO",
+      "group": "NCT",
+      "searchTerms": "이제노 제노 JENO"
+    },
+    {
+      "id": 17,
+      "nameKR": "해찬",
+      "nameEN": "HAECHAN",
+      "group": "NCT",
+      "searchTerms": "HAECHAN 이동혁 동혁 이해찬 해찬"
+    },
+    {
+      "id": 18,
+      "nameKR": "재민",
+      "nameEN": "JAEMIN",
+      "group": "NCT",
+      "searchTerms": "재민 나재민 NAJAEMIN JAEMIN"
+    },
+    {
+      "id": 19,
+      "nameKR": "양양",
+      "nameEN": "YANGYANG",
+      "group": "NCT",
+      "searchTerms": "YANGYANG 리우양양 류양양 유양양 양양"
+    },
+    {
+      "id": 20,
+      "nameKR": "쇼타로",
+      "nameEN": "SHOTARO",
+      "group": "NCT",
+      "searchTerms": "SHOTARO 오사키 쇼타로 오사키쇼타로 Shotaro Osaki"
+    },
+    {
+      "id": 21,
+      "nameKR": "성찬",
+      "nameEN": "SUNGCHAN",
+      "group": "NCT",
+      "searchTerms": "SUNGCHAN 정성찬"
+    },
+    {
+      "id": 22,
+      "nameKR": "천러",
+      "nameEN": "CHENLE",
+      "group": "NCT",
+      "searchTerms": "천러 종천러 CHENLE"
+    },
+    {
+      "id": 23,
+      "nameKR": "지성",
+      "nameEN": "JISUNG",
+      "group": "NCT",
+      "searchTerms": "박지성 지성 JISUNG"
+    },
+    {
+      "id": 24,
+      "nameKR": "진",
+      "nameEN": "Jin",
+      "group": "BTS",
+      "searchTerms": "진  김석진 석진 JIN KIMSEOKJIN SEOKJIN"
+    },
+    {
+      "id": 25,
+      "nameKR": "슈가",
+      "nameEN": "SUGA",
+      "group": "BTS",
+      "searchTerms": "슈가 SUGA 민윤기 윤기 민윤기"
+    },
+    {
+      "id": 26,
+      "nameKR": "제이홉",
+      "nameEN": "J-Hope",
+      "group": "BTS",
+      "searchTerms": "제이홉 정호석 호석 jhope"
+    },
+    {
+      "id": 27,
+      "nameKR": "RM",
+      "nameEN": "RM",
+      "group": "BTS",
+      "searchTerms": "RM 김남준 알엠 남준 KIMNAMJUN NAMJUN"
+    },
+    {
+      "id": 28,
+      "nameKR": "지민",
+      "nameEN": "Jimin",
+      "group": "BTS",
+      "searchTerms": "지민 박지민 JIMIN"
+    },
+    {
+      "id": 29,
+      "nameKR": "뷔",
+      "nameEN": "V",
+      "group": "BTS",
+      "searchTerms": "김태형 태형 V 뷔"
+    },
+    {
+      "id": 30,
+      "nameKR": "정국",
+      "nameEN": "JUNGKOOK",
+      "group": "BTS",
+      "searchTerms": "전정국 JK JUNGKOOK 정국"
+    },
+    {
+      "id": 31,
+      "nameKR": "방찬",
+      "nameEN": "BANG CHAN",
+      "group": "스트레이키즈",
+      "searchTerms": "방찬 찬 Christopher Chan Bang 크리스토퍼 찬 방"
+    },
+    {
+      "id": 32,
+      "nameKR": "리노",
+      "nameEN": "LEE KNOW",
+      "group": "스트레이키즈",
+      "searchTerms": "리노 이리노 이민호 민호 LEEKNOW LEE KNOW"
+    },
+    {
+      "id": 33,
+      "nameKR": "창빈",
+      "nameEN": "CHANGBIN",
+      "group": "스트레이키즈",
+      "searchTerms": "창빈 CHANGBIN 서창빈 SEOCHANGBIN"
+    },
+    {
+      "id": 34,
+      "nameKR": "현진",
+      "nameEN": "HYUNJIN",
+      "group": "스트레이키즈",
+      "searchTerms": "현진 HYUNJIN 황현진"
+    },
+    {
+      "id": 35,
+      "nameKR": "한",
+      "nameEN": "HAN",
+      "group": "스트레이키즈",
+      "searchTerms": "한 한지성 지성 HAN"
+    },
+    {
+      "id": 36,
+      "nameKR": "필릭스",
+      "nameEN": "FELIX",
+      "group": "스트레이키즈",
+      "searchTerms": "이필릭스용복 이용복 용복 FELIX 필릭스"
+    },
+    {
+      "id": 37,
+      "nameKR": "승민",
+      "nameEN": "SEUNGMIN",
+      "group": "스트레이키즈",
+      "searchTerms": "승민 김승민 seungmin"
+    },
+    {
+      "id": 38,
+      "nameKR": "아이엔",
+      "nameEN": "I.N",
+      "group": "스트레이키즈",
+      "searchTerms": "아이엔  I.N 양정인 정인"
+    },
+    {
+      "id": 39,
+      "nameKR": "상연",
+      "nameEN": "SANGYEON",
+      "group": "더보이즈",
+      "searchTerms": "상연 이상연 SANGYEON"
+    },
+    {
+      "id": 40,
+      "nameKR": "제이콥",
+      "nameEN": "JACOB",
+      "group": "더보이즈",
+      "searchTerms": "제이콥 JACOB 배준영 준영"
+    },
+    {
+      "id": 41,
+      "nameKR": "영훈",
+      "nameEN": "YOUNGHOON",
+      "group": "더보이즈",
+      "searchTerms": "영훈 김영훈 YOUNGHOON KIMYOUNGHOON"
+    },
+    {
+      "id": 42,
+      "nameKR": "현재",
+      "nameEN": "HYUNJAE",
+      "group": "더보이즈",
+      "searchTerms": "현재 hyunjae 이재현 재현"
+    },
+    {
+      "id": 43,
+      "nameKR": "주연",
+      "nameEN": "JUYEON",
+      "group": "더보이즈",
+      "searchTerms": "주연 이주연 JUYEON LEEJUYEON"
+    },
+    {
+      "id": 44,
+      "nameKR": "케빈",
+      "nameEN": "KEVIN",
+      "group": "더보이즈",
+      "searchTerms": "케빈 KEVIN 문형서 형서"
+    },
+    {
+      "id": 45,
+      "nameKR": "뉴",
+      "nameEN": "NEW",
+      "group": "더보이즈",
+      "searchTerms": "뉴 NEW 최찬희 찬희"
+    },
+    {
+      "id": 46,
+      "nameKR": "큐",
+      "nameEN": "Q",
+      "group": "더보이즈",
+      "searchTerms": "큐 Q 지창민 창민"
+    },
+    {
+      "id": 47,
+      "nameKR": "주학년",
+      "nameEN": "JU HAKNYEON",
+      "group": "더보이즈",
+      "searchTerms": "주학년 HAKNYEON 학년"
+    },
+    {
+      "id": 48,
+      "nameKR": "선우",
+      "nameEN": "SUNWOO",
+      "group": "더보이즈",
+      "searchTerms": "선우 김선우 SUNWOO"
+    },
+    {
+      "id": 49,
+      "nameKR": "에릭",
+      "nameEN": "ERIC",
+      "group": "더보이즈",
+      "searchTerms": "에릭 ERIC 영재 손영재"
+    },
+    {
+      "id": 50,
+      "nameKR": "에스쿱스",
+      "nameEN": "S.COUPS",
+      "group": "세븐틴",
+      "searchTerms": "에스쿱스 S.COUPS 에쿱 최승철 승철 エスクプス"
+    },
+    {
+      "id": 51,
+      "nameKR": "정한",
+      "nameEN": "JEONGHAN",
+      "group": "세븐틴",
+      "searchTerms": "정한 윤정한 JEONGHAN ジョンハン"
+    },
+    {
+      "id": 52,
+      "nameKR": "조슈아",
+      "nameEN": "JOSHUA",
+      "group": "세븐틴",
+      "searchTerms": "조슈아 JOSHUA 홍지수 지수 ジョシュア"
+    },
+    {
+      "id": 53,
+      "nameKR": "준",
+      "nameEN": "JUN",
+      "group": "세븐틴",
+      "searchTerms": "준 문준휘 JUN 준휘 ジュン"
+    },
+    {
+      "id": 54,
+      "nameKR": "호시",
+      "nameEN": "HOSHI",
+      "group": "세븐틴",
+      "searchTerms": "호시권순영 HOSHI KWONSOONYOUNG SOONYOUNG ホシ"
+    },
+    {
+      "id": 55,
+      "nameKR": "원우",
+      "nameEN": "WONWOO",
+      "group": "세븐틴",
+      "searchTerms": "원우 wonwoo 전원우 JEONWONWOO ウォヌ"
+    },
+    {
+      "id": 56,
+      "nameKR": "우지",
+      "nameEN": "WOOZI",
+      "group": "세븐틴",
+      "searchTerms": "우지 이지훈 WOOZI LEEJIHUN ウジ"
+    },
+    {
+      "id": 57,
+      "nameKR": "도겸",
+      "nameEN": "DK",
+      "group": "세븐틴",
+      "searchTerms": "도겸 DK 이도겸 이석민 석민 LeeSeokmin ドギョム"
+    },
+    {
+      "id": 58,
+      "nameKR": "민규",
+      "nameEN": "MINGYU",
+      "group": "세븐틴",
+      "searchTerms": "민규 김민규 Mingyu kimMingyu ミンギュ"
+    },
+    {
+      "id": 59,
+      "nameKR": "디에잇",
+      "nameEN": "THE 8",
+      "group": "세븐틴",
+      "searchTerms": "디에잇 THE8 쉬밍하오 서명호 디팔 명호 ミンハオ"
+    },
+    {
+      "id": 60,
+      "nameKR": "승관",
+      "nameEN": "SEUNGKWAN",
+      "group": "세븐틴",
+      "searchTerms": "승관 SEUNGKWAN 부승관 BOO 뿌 スングァン"
+    },
+    {
+      "id": 61,
+      "nameKR": "버논",
+      "nameEN": "VERNON",
+      "group": "세븐틴",
+      "searchTerms": "버논 최한솔 VERNON HANSOL CHWEHANSOL バーノン"
+    },
+    {
+      "id": 62,
+      "nameKR": "디노",
+      "nameEN": "DINO",
+      "group": "세븐틴",
+      "searchTerms": "디노 DINO 이찬 찬 ディノ"
+    },
+    {
+      "id": 63,
+      "nameKR": "영빈",
+      "nameEN": "YOUNGBIN",
+      "group": "SF9",
+      "searchTerms": "영빈 YOUNGBIN 김영빈"
+    },
+    {
+      "id": 64,
+      "nameKR": "인성",
+      "nameEN": "INSEONG",
+      "group": "SF9",
+      "searchTerms": "인성 김인성 INSUNG"
+    },
+    {
+      "id": 65,
+      "nameKR": "재윤",
+      "nameEN": "JAEYOON",
+      "group": "SF9",
+      "searchTerms": "재윤 JAEYOON 이재윤 쟁찌"
+    },
+    {
+      "id": 66,
+      "nameKR": "다원",
+      "nameEN": "DAWON",
+      "group": "SF9",
+      "searchTerms": "다원 DAWON LeeSangHyeok 이상혁"
+    },
+    {
+      "id": 67,
+      "nameKR": "로운",
+      "nameEN": "ROWOON",
+      "group": "SF9",
+      "searchTerms": "로운 ROWOON 김석우 석우 KimSeokWoo"
+    },
+    {
+      "id": 68,
+      "nameKR": "주호",
+      "nameEN": "ZUHO",
+      "group": "SF9",
+      "searchTerms": "주호 백주호 주호 ZUHO JOOHO"
+    },
+    {
+      "id": 69,
+      "nameKR": "유태양",
+      "nameEN": "YOO TAEYANG",
+      "group": "SF9",
+      "searchTerms": "유태양 태양 YOOTAEYANG"
+    },
+    {
+      "id": 70,
+      "nameKR": "휘영",
+      "nameEN": "HWIYOUNG",
+      "group": "SF9",
+      "searchTerms": "휘영 김영균 김휘영 HWIYOUNG"
+    },
+    {
+      "id": 71,
+      "nameKR": "찬희",
+      "nameEN": "CHA NI",
+      "group": "SF9",
+      "searchTerms": "찬희 강찬희 CHANI ChanHee"
+    },
+    {
+      "id": 72,
+      "nameKR": "세은",
+      "nameEN": "Seeun",
+      "group": "스테이씨",
+      "searchTerms": "세은 윤세은 Seeun"
+    },
+    {
+      "id": 73,
+      "nameKR": "수민",
+      "nameEN": "Sumin",
+      "group": "스테이씨",
+      "searchTerms": "수민 SUMIN 배수민"
+    },
+    {
+      "id": 74,
+      "nameKR": "시은",
+      "nameEN": "Sieun",
+      "group": "스테이씨",
+      "searchTerms": "시은 박시은 시은 SIEUN"
+    },
+    {
+      "id": 75,
+      "nameKR": "아이사",
+      "nameEN": "ISA",
+      "group": "스테이씨",
+      "searchTerms": "아이사 ISA 채영 이채영 LeeChaeyoung"
+    },
+    {
+      "id": 76,
+      "nameKR": "윤",
+      "nameEN": "Yoon",
+      "group": "스테이씨",
+      "searchTerms": "윤 자윤 심자윤 YOON"
+    },
+    {
+      "id": 77,
+      "nameKR": "재이",
+      "nameEN": "J",
+      "group": "스테이씨",
+      "searchTerms": "재이 J 장예은 예은 재이"
+    },
+    {
+      "id": 78,
+      "nameKR": "진호",
+      "nameEN": "JINHO",
+      "group": "펜타곤",
+      "searchTerms": "진호 JINHO 조진호"
+    },
+    {
+      "id": 79,
+      "nameKR": "후이",
+      "nameEN": "HUI",
+      "group": "펜타곤",
+      "searchTerms": "후이 HUI 이회택 회택 HOETAEK"
+    },
+    {
+      "id": 80,
+      "nameKR": "홍석",
+      "nameEN": "HONGSEOK",
+      "group": "펜타곤",
+      "searchTerms": "홍석 HONGSEOK 양홍석"
+    },
+    {
+      "id": 81,
+      "nameKR": "신원",
+      "nameEN": "SHINWON",
+      "group": "펜타곤",
+      "searchTerms": "신원 SHINWON 고신원 고시넌"
+    },
+    {
+      "id": 82,
+      "nameKR": "여원",
+      "nameEN": "YEOONE",
+      "group": "펜타곤",
+      "searchTerms": "여원 YEOONE 여창구 창구"
+    },
+    {
+      "id": 83,
+      "nameKR": "옌안",
+      "nameEN": "YANAN",
+      "group": "펜타곤",
+      "searchTerms": "옌안 YANAN"
+    },
+    {
+      "id": 84,
+      "nameKR": "유토",
+      "nameEN": "YUTO",
+      "group": "펜타곤",
+      "searchTerms": "유토 YUTO 아다치 유토"
+    },
+    {
+      "id": 85,
+      "nameKR": "키노",
+      "nameEN": "KINO",
+      "group": "펜타곤",
+      "searchTerms": "키노 KINO 강형구 형구 꾸꾸 꾸 형꾸"
+    },
+    {
+      "id": 86,
+      "nameKR": "우석",
+      "nameEN": "WOOSEOK",
+      "group": "펜타곤",
+      "searchTerms": "우석 정우석 wooseok"
+    },
+    {
+      "id": 87,
+      "nameKR": "수빈",
+      "nameEN": "SOOBIN",
+      "group": "TXT",
+      "searchTerms": "수빈 최수빈 Soobin 숩 SOOBIN"
+    },
+    {
+      "id": 88,
+      "nameKR": "연준",
+      "nameEN": "YEONJUN",
+      "group": "TXT",
+      "searchTerms": "연준 최연준 YEONJUN CHOIYEONJUN"
+    },
+    {
+      "id": 89,
+      "nameKR": "범규",
+      "nameEN": "BEOMGYU",
+      "group": "TXT",
+      "searchTerms": "범규 BEOMGYU 최범규 CHOIBEOMGYU"
+    },
+    {
+      "id": 90,
+      "nameKR": "태현",
+      "nameEN": "TAEHYUN",
+      "group": "TXT",
+      "searchTerms": "휴닝카이 휴카 휴닝카이 카이카말휴닝 HUENINGKAI Kai Kamal Huening 정카이 정휴닝"
+    },
+    {
+      "id": 91,
+      "nameKR": "휴닝카이",
+      "nameEN": "HUENINGKAI",
+      "group": "TXT",
+      "searchTerms": "태현 강태현 TAEHYUN KANGTAEHYUN"
+    },
+    {
+      "id": 92,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "TXT",
+      "searchTerms": ""
+    },
+    {
+      "id": 93,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "펜타곤",
+      "searchTerms": ""
+    },
+    {
+      "id": 94,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "스테이씨",
+      "searchTerms": ""
+    },
+    {
+      "id": 95,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "SF9",
+      "searchTerms": ""
+    },
+    {
+      "id": 96,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "세븐틴",
+      "searchTerms": ""
+    },
+    {
+      "id": 97,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "더보이즈",
+      "searchTerms": ""
+    },
+    {
+      "id": 98,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "스트레이키즈",
+      "searchTerms": ""
+    },
+    {
+      "id": 99,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "BTS",
+      "searchTerms": ""
+    },
+    {
+      "id": 100,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "NCT",
+      "searchTerms": ""
+    },
+    {
+      "id": 101,
+      "nameKR": "기현",
+      "nameEN": "KIHYUN",
+      "group": "몬스타엑스",
+      "searchTerms": "기현 유기현 KIHYUN"
+    },
+    {
+      "id": 102,
+      "nameKR": "민혁",
+      "nameEN": "MINHYUK",
+      "group": "몬스타엑스",
+      "searchTerms": "민혁 이민혁 LeeMinhyuk"
+    },
+    {
+      "id": 103,
+      "nameKR": "셔누",
+      "nameEN": "SHOWNU",
+      "group": "몬스타엑스",
+      "searchTerms": "셔누 손현우 SHOWNU SohnHyunwoo"
+    },
+    {
+      "id": 104,
+      "nameKR": "아이엠",
+      "nameEN": "I.M",
+      "group": "몬스타엑스",
+      "searchTerms": "아이엠 I.M IM 임창균 창균 ImChangkyun"
+    },
+    {
+      "id": 105,
+      "nameKR": "주헌",
+      "nameEN": "JOOHONEY",
+      "group": "몬스타엑스",
+      "searchTerms": "주헌 이주헌 JOOHONEY LEEJOOHONEY"
+    },
+    {
+      "id": 106,
+      "nameKR": "형원",
+      "nameEN": "HYUNGWON",
+      "group": "몬스타엑스",
+      "searchTerms": "형원 HYUNGWON 채형원 ChaeHyungwon"
+    },
+    {
+      "id": 107,
+      "nameKR": "단체/유닛",
+      "nameEN": "Group/Unit",
+      "group": "몬스타엑스",
+      "searchTerms": ""
+    },
+    {
+      "id": 108,
+      "nameKR": "백현",
+      "nameEN": "BAEKHYUN",
+      "group": "EXO",
+      "searchTerms": "백현 BAEKHYUN 변백현 BYUNBAEKHYUN"
+    },
+    {
+      "id": 109,
+      "nameKR": "세훈",
+      "nameEN": "SEHUN",
+      "group": "",
+      "searchTerms": "세훈 SEHUN 세훈 오세훈 OHSEHUN"
+    },
+    {
+      "id": 110,
+      "nameKR": "레이",
+      "nameEN": "LAY",
+      "group": "EXO",
+      "searchTerms": "레이 LAY 장이씽 이씽 ZHANG"
+    },
+    {
+      "id": 111,
+      "nameKR": "찬열",
+      "nameEN": "CHANYEOL",
+      "group": "EXO",
+      "searchTerms": "찬열 박찬열 PARKCHANYEOL CHANYEOL"
+    },
+    {
+      "id": 112,
+      "nameKR": "시우민",
+      "nameEN": "XIUMIN",
+      "group": "EXO",
+      "searchTerms": "시우민 XIUMIN 김민석 민석 KimMinseok"
+    },
+    {
+      "id": 113,
+      "nameKR": "카이",
+      "nameEN": "KAI",
+      "group": "EXO",
+      "searchTerms": "카이 김종인 kimjongin KAI"
+    },
+    {
+      "id": 114,
+      "nameKR": "첸",
+      "nameEN": "CHEN",
+      "group": "EXO",
+      "searchTerms": "첸 CHEN 김종대 종대 JONGDAE"
+    },
+    {
+      "id": 115,
+      "nameKR": "수호",
+      "nameEN": "SUHO",
+      "group": "EXO",
+      "searchTerms": "수호 SUHO 김준면 KIMJUNMYEON"
+    },
+    {
+      "id": 116,
+      "nameKR": "디오",
+      "nameEN": "D.O.",
+      "group": "EXO",
+      "searchTerms": "디오 DO D.O 도경수 경수  DOhKyungsoo Kyungsoo"
+    },
+    {
+      "id": 117,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "EXO",
+      "searchTerms": ""
+    },
+    {
+      "id": 118,
+      "nameKR": "카리나",
+      "nameEN": "KARINA",
+      "group": "EXO",
+      "searchTerms": "카리나 유지민 지민 karina"
+    },
+    {
+      "id": 119,
+      "nameKR": "윈터",
+      "nameEN": "WINTER",
+      "group": "에스파",
+      "searchTerms": "윈터 김민정 민정 winter"
+    },
+    {
+      "id": 120,
+      "nameKR": "지젤",
+      "nameEN": "GISELLE",
+      "group": "에스파",
+      "searchTerms": "지젤 애리 GISELLE"
+    },
+    {
+      "id": 121,
+      "nameKR": "닝닝",
+      "nameEN": "NINGNING",
+      "group": "에스파",
+      "searchTerms": "닝닝 NINGNING"
+    },
+    {
+      "id": 122,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "에스파",
+      "searchTerms": ""
+    },
+    {
+      "id": 123,
+      "nameKR": "미연",
+      "nameEN": "MIYEON",
+      "group": "에스파",
+      "searchTerms": "미연  Miyeon 조미연"
+    },
+    {
+      "id": 124,
+      "nameKR": "민니",
+      "nameEN": "MINNIE",
+      "group": "여자아이들",
+      "searchTerms": "민니 니차 욘따라락 Minnie"
+    },
+    {
+      "id": 125,
+      "nameKR": "소연",
+      "nameEN": "SOYEON",
+      "group": "여자아이들",
+      "searchTerms": "소연 전소연 jeon soyeon jeonsoyeon"
+    },
+    {
+      "id": 126,
+      "nameKR": "우기",
+      "nameEN": "YUQI",
+      "group": "여자아이들",
+      "searchTerms": "우기 송우기 YUQI"
+    },
+    {
+      "id": 127,
+      "nameKR": "슈화",
+      "nameEN": "SHUHUA",
+      "group": "여자아이들",
+      "searchTerms": "슈화 예슈화 Shuhua"
+    },
+    {
+      "id": 128,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "여자아이들",
+      "searchTerms": ""
+    },
+    {
+      "id": 129,
+      "nameKR": "정원",
+      "nameEN": "JUNGWON",
+      "group": "여자아이들",
+      "searchTerms": "정원 양정원 jungwon yangjungwon"
+    },
+    {
+      "id": 130,
+      "nameKR": "희승",
+      "nameEN": "HEESEUNG",
+      "group": "ENHYPEN",
+      "searchTerms": "희승 이희승 heeseung leeheeseung"
+    },
+    {
+      "id": 131,
+      "nameKR": "제이",
+      "nameEN": "JAY",
+      "group": "ENHYPEN",
+      "searchTerms": "제이 종성 박종성 jay"
+    },
+    {
+      "id": 132,
+      "nameKR": "선우",
+      "nameEN": "SUNOO",
+      "group": "ENHYPEN",
+      "searchTerms": "선우 김선우 sunoo"
+    },
+    {
+      "id": 133,
+      "nameKR": "제이크",
+      "nameEN": "JAKE",
+      "group": "ENHYPEN",
+      "searchTerms": "제이크 재윤 심재윤 JAKE"
+    },
+    {
+      "id": 134,
+      "nameKR": "성훈",
+      "nameEN": "SUNGHOON",
+      "group": "ENHYPEN",
+      "searchTerms": "성훈 박성훈 sunghoon"
+    },
+    {
+      "id": 135,
+      "nameKR": "니키",
+      "nameEN": "NI-KI",
+      "group": "ENHYPEN",
+      "searchTerms": "니키 니시무라니키 니시무라리키 니시무라 리키 niki"
+    },
+    {
+      "id": 136,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "ENHYPEN",
+      "searchTerms": ""
+    },
+    {
+      "id": 137,
+      "nameKR": "웬디",
+      "nameEN": "WENDY",
+      "group": "ENHYPEN",
+      "searchTerms": "웬디 WENDY 손승완 승완"
+    },
+    {
+      "id": 138,
+      "nameKR": "아이린",
+      "nameEN": "IRENE",
+      "group": "레드벨벳",
+      "searchTerms": "아이린 IRENE 배주현 주현"
+    },
+    {
+      "id": 139,
+      "nameKR": "슬기",
+      "nameEN": "SEULGI",
+      "group": "레드벨벳",
+      "searchTerms": "슬기 SEULGI 강슬기"
+    },
+    {
+      "id": 140,
+      "nameKR": "조이",
+      "nameEN": "JOY",
+      "group": "레드벨벳",
+      "searchTerms": "조이 JOY 박수영 수영"
+    },
+    {
+      "id": 141,
+      "nameKR": "예리",
+      "nameEN": "YERI",
+      "group": "레드벨벳",
+      "searchTerms": "예리 YERI 김예림 예림"
+    },
+    {
+      "id": 142,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "레드벨벳",
+      "searchTerms": ""
+    },
+    {
+      "id": 143,
+      "nameKR": "효정",
+      "nameEN": "HYOJUNG",
+      "group": "레드벨벳",
+      "searchTerms": "효정 최효정 hyojung"
+    },
+    {
+      "id": 144,
+      "nameKR": "미미",
+      "nameEN": "MIMI",
+      "group": "오마이걸",
+      "searchTerms": "미미 김미현 미현 mimi"
+    },
+    {
+      "id": 145,
+      "nameKR": "유아",
+      "nameEN": "YooA",
+      "group": "오마이걸",
+      "searchTerms": "유아 유시아 시아 YOOA"
+    },
+    {
+      "id": 146,
+      "nameKR": "승희",
+      "nameEN": "SEUNGHEE",
+      "group": "오마이걸",
+      "searchTerms": "승희 현승희 SEUNGHEE"
+    },
+    {
+      "id": 147,
+      "nameKR": "지호",
+      "nameEN": "JIHO",
+      "group": "오마이걸",
+      "searchTerms": "지호 김지호 jiho"
+    },
+    {
+      "id": 148,
+      "nameKR": "유빈",
+      "nameEN": "YUBIN",
+      "group": "오마이걸",
+      "searchTerms": "유빈 비니 배유빈 binnie"
+    },
+    {
+      "id": 149,
+      "nameKR": "아린",
+      "nameEN": "ARIN",
+      "group": "오마이걸",
+      "searchTerms": "아린 예원 최예원 arin"
+    },
+    {
+      "id": 150,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "오마이걸",
+      "searchTerms": ""
+    },
+    {
+      "id": 151,
+      "nameKR": "민기",
+      "nameEN": "MINGI",
+      "group": "오마이걸",
+      "searchTerms": "민기 송민기 songmingi mingi"
+    },
+    {
+      "id": 152,
+      "nameKR": "성화",
+      "nameEN": "SEONGHWA",
+      "group": "에이티즈",
+      "searchTerms": "성화 박성화 seonghwa parkseonghwa"
+    },
+    {
+      "id": 153,
+      "nameKR": "여상",
+      "nameEN": "YEOSANG",
+      "group": "에이티즈",
+      "searchTerms": "여상 강여상 kangyeosang yeosang"
+    },
+    {
+      "id": 154,
+      "nameKR": "우영",
+      "nameEN": "WOOYOUNG",
+      "group": "에이티즈",
+      "searchTerms": "우영 정우영 wooyoung jeongwooyoung"
+    },
+    {
+      "id": 155,
+      "nameKR": "윤호",
+      "nameEN": "YUNHO",
+      "group": "에이티즈",
+      "searchTerms": "윤호 정윤호 jeongyunho yunho"
+    },
+    {
+      "id": 156,
+      "nameKR": "종호",
+      "nameEN": "JONGHO",
+      "group": "에이티즈",
+      "searchTerms": "종호 최종호 choijongho jongho"
+    },
+    {
+      "id": 157,
+      "nameKR": "산",
+      "nameEN": "SAN",
+      "group": "에이티즈",
+      "searchTerms": "산 최산 choisan san"
+    },
+    {
+      "id": 158,
+      "nameKR": "홍중",
+      "nameEN": "HONGJOONG",
+      "group": "에이티즈",
+      "searchTerms": "홍중 김홍중 kimhongjoong HONGJOONG"
+    },
+    {
+      "id": 159,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "에이티즈",
+      "searchTerms": ""
+    },
+    {
+      "id": 160,
+      "nameKR": "민호",
+      "nameEN": "MINHO",
+      "group": "에이티즈",
+      "searchTerms": "민호 최민호 minho choiminho"
+    },
+    {
+      "id": 161,
+      "nameKR": "온유",
+      "nameEN": "ONEW",
+      "group": "샤이니",
+      "searchTerms": "온유 이진기 진기 leejinki jinki onew"
+    },
+    {
+      "id": 162,
+      "nameKR": "종현",
+      "nameEN": "JONGHYUN",
+      "group": "샤이니",
+      "searchTerms": "종현 김종현 jonghyun kimjonghyun"
+    },
+    {
+      "id": 163,
+      "nameKR": "키",
+      "nameEN": "Key",
+      "group": "샤이니",
+      "searchTerms": "키 김기범 기범 key"
+    },
+    {
+      "id": 164,
+      "nameKR": "태민",
+      "nameEN": "TAEMIN",
+      "group": "샤이니",
+      "searchTerms": "태민 이태민 taemin leetaemin"
+    },
+    {
+      "id": 165,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "샤이니",
+      "searchTerms": ""
+    },
+    {
+      "id": 166,
+      "nameKR": "백현",
+      "nameEN": "BAEKHYUN",
+      "group": "샤이니",
+      "searchTerms": "백현 BAEKHYUN 변백현 BYUNBAEKHYUN"
+    },
+    {
+      "id": 167,
+      "nameKR": "태민",
+      "nameEN": "TAEMIN",
+      "group": "SuperM",
+      "searchTerms": "태민 이태민 taemin leetaemin"
+    },
+    {
+      "id": 168,
+      "nameKR": "카이",
+      "nameEN": "KAI",
+      "group": "SuperM",
+      "searchTerms": "카이 김종인 kimjongin KAI"
+    },
+    {
+      "id": 169,
+      "nameKR": "태용",
+      "nameEN": "TAEYONG",
+      "group": "SuperM",
+      "searchTerms": "이태용 TAEYONG LEETAEYONG"
+    },
+    {
+      "id": 170,
+      "nameKR": "마크",
+      "nameEN": "MARK",
+      "group": "SuperM",
+      "searchTerms": "이마크 이민형 mark marklee"
+    },
+    {
+      "id": 171,
+      "nameKR": "루카스",
+      "nameEN": "LUCAS",
+      "group": "SuperM",
+      "searchTerms": "LUCAS 웡육헤이 황욱희 황쉬시"
+    },
+    {
+      "id": 172,
+      "nameKR": "텐",
+      "nameEN": "TEN",
+      "group": "SuperM",
+      "searchTerms": "텐 ten 치타폰"
+    },
+    {
+      "id": 173,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "SuperM",
+      "searchTerms": ""
+    },
+    {
+      "id": 174,
+      "nameKR": "안유진",
+      "nameEN": "YUJIN",
+      "group": "SuperM",
+      "searchTerms": "안유진 유진 YUJIN AnYujin"
+    },
+    {
+      "id": 175,
+      "nameKR": "가을",
+      "nameEN": "GAEUL",
+      "group": "IVE",
+      "searchTerms": "가을 GAEUL 김가을 KimGaeul"
+    },
+    {
+      "id": 176,
+      "nameKR": "레이",
+      "nameEN": "REI",
+      "group": "IVE",
+      "searchTerms": "레이 REI 나오이 레이 Rei Naoi 나오이레이"
+    },
+    {
+      "id": 177,
+      "nameKR": "장원영",
+      "nameEN": "WONYOUNG",
+      "group": "IVE",
+      "searchTerms": "장원영 원영 jangwonyoung wonyoung"
+    },
+    {
+      "id": 178,
+      "nameKR": "리즈",
+      "nameEN": "LIZ",
+      "group": "IVE",
+      "searchTerms": "리즈 LIZ 김지원 지원 김리즈"
+    },
+    {
+      "id": 179,
+      "nameKR": "이서",
+      "nameEN": "LEESEO",
+      "group": "IVE",
+      "searchTerms": "이서 LEESEO 이현서 LeeHyeonseo 현서 Hyeonseo"
+    },
+    {
+      "id": 180,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "IVE",
+      "searchTerms": ""
+    },
+    {
+      "id": 181,
+      "nameKR": "성진",
+      "nameEN": "SUNGJIN",
+      "group": "IVE",
+      "searchTerms": "성진 SUNGJIN 박성진"
+    },
+    {
+      "id": 182,
+      "nameKR": "영케이",
+      "nameEN": "Young K",
+      "group": "DAY6",
+      "searchTerms": "영케이 Young K YoungK 강영현 영현"
+    },
+    {
+      "id": 183,
+      "nameKR": "원필",
+      "nameEN": "WONPIL",
+      "group": "DAY6",
+      "searchTerms": "원필 WONPIL 김원필"
+    },
+    {
+      "id": 184,
+      "nameKR": "도운",
+      "nameEN": "DOWOON",
+      "group": "DAY6",
+      "searchTerms": "도운 DOWOON 윤도운"
+    },
+    {
+      "id": 185,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "DAY6",
+      "searchTerms": ""
+    },
+    {
+      "id": 186,
+      "nameKR": "로제",
+      "nameEN": "ROSE",
+      "group": "DAY6",
+      "searchTerms": "로제 박채영 채영 ROSÉ ROSE"
+    },
+    {
+      "id": 187,
+      "nameKR": "리사",
+      "nameEN": "LISA",
+      "group": "블랙핑크",
+      "searchTerms": "리사 LISA 라리사 마노반"
+    },
+    {
+      "id": 188,
+      "nameKR": "제니",
+      "nameEN": "JENNIE",
+      "group": "블랙핑크",
+      "searchTerms": "제니 김제니 KimJennie Jennie"
+    },
+    {
+      "id": 189,
+      "nameKR": "지수",
+      "nameEN": "JISOO",
+      "group": "블랙핑크",
+      "searchTerms": "지수 김지수 Jisoo Kimjisoo"
+    },
+    {
+      "id": 190,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "블랙핑크",
+      "searchTerms": ""
+    },
+    {
+      "id": 191,
+      "nameKR": "류진",
+      "nameEN": "RYUJIN",
+      "group": "블랙핑크",
+      "searchTerms": "류진 신류진 RYUJIN"
+    },
+    {
+      "id": 192,
+      "nameKR": "리아",
+      "nameEN": "LIA",
+      "group": "ITZY",
+      "searchTerms": "리아 최지수 지수 LIA"
+    },
+    {
+      "id": 193,
+      "nameKR": "예지",
+      "nameEN": "YEJI",
+      "group": "ITZY",
+      "searchTerms": "예지 황예지 YEJI"
+    },
+    {
+      "id": 194,
+      "nameKR": "유나",
+      "nameEN": "YUNA",
+      "group": "ITZY",
+      "searchTerms": "유나 신유나 YUNA"
+    },
+    {
+      "id": 195,
+      "nameKR": "채령",
+      "nameEN": "CHAERYEONG",
+      "group": "ITZY",
+      "searchTerms": "채령 이채령 CHAERYEONG"
+    },
+    {
+      "id": 196,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "ITZY",
+      "searchTerms": ""
+    },
+    {
+      "id": 197,
+      "nameKR": "최유진",
+      "nameEN": "YUJIN",
+      "group": "ITZY",
+      "searchTerms": "최유진 유진 choiyujin yujin"
+    },
+    {
+      "id": 198,
+      "nameKR": "샤오팅",
+      "nameEN": "XIAOTING",
+      "group": "케플러",
+      "searchTerms": "샤오팅 션샤오팅 XIAOTING"
+    },
+    {
+      "id": 199,
+      "nameKR": "마시로",
+      "nameEN": "MASHIRO",
+      "group": "케플러",
+      "searchTerms": "마시로 사카모토마시로 사카모토 마시로 MASHIRO"
+    },
+    {
+      "id": 200,
+      "nameKR": "김채현",
+      "nameEN": "CHAEHYUN",
+      "group": "케플러",
+      "searchTerms": "김채현 채현 kimchaehyun chaehyun"
+    },
+    {
+      "id": 201,
+      "nameKR": "김다연",
+      "nameEN": "DAYEON",
+      "group": "케플러",
+      "searchTerms": "김다연 다연 kimdayeon dayeon"
+    },
+    {
+      "id": 202,
+      "nameKR": "히카루",
+      "nameEN": "HIKARU",
+      "group": "케플러",
+      "searchTerms": "히카루 에자키히카루 에자키 히카루 HIKARU"
+    },
+    {
+      "id": 203,
+      "nameKR": "휴닝바히에",
+      "nameEN": "HUENING BAHIYYIH",
+      "group": "케플러",
+      "searchTerms": "휴닝바히에 HUENING BAHIYYIH"
+    },
+    {
+      "id": 204,
+      "nameKR": "서영은",
+      "nameEN": "YOUNGEUN",
+      "group": "케플러",
+      "searchTerms": "서영은 영은 YOUNGEUN SEOYOUNGEUN"
+    },
+    {
+      "id": 205,
+      "nameKR": "강예서",
+      "nameEN": "YESEO",
+      "group": "케플러",
+      "searchTerms": "강예서 예서 KANGYESEO YESEO"
+    },
+    {
+      "id": 206,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "케플러",
+      "searchTerms": ""
+    },
+    {
+      "id": 207,
+      "nameKR": "릴리",
+      "nameEN": "Lily Morrow",
+      "group": "케플러",
+      "searchTerms": "릴리 Lily Jin Morrow 릴리 진 머로우 박진 parkjin"
+    },
+    {
+      "id": 208,
+      "nameKR": "해원",
+      "nameEN": "HAEWON",
+      "group": "NMIXX",
+      "searchTerms": "해원 오해원 haewon OhHaewon"
+    },
+    {
+      "id": 209,
+      "nameKR": "설윤",
+      "nameEN": "SULLYOON",
+      "group": "NMIXX",
+      "searchTerms": "설윤 설윤아 SULLYOON SeolYoona"
+    },
+    {
+      "id": 210,
+      "nameKR": "지니",
+      "nameEN": "JINNI",
+      "group": "NMIXX",
+      "searchTerms": "지니 최윤진 JINNI ChoiYunjin"
+    },
+    {
+      "id": 211,
+      "nameKR": "배이",
+      "nameEN": "BAE",
+      "group": "NMIXX",
+      "searchTerms": "배이 배진솔 BAE BaeJinsol"
+    },
+    {
+      "id": 212,
+      "nameKR": "지우",
+      "nameEN": "JIWOO",
+      "group": "NMIXX",
+      "searchTerms": "지우 김지우 JIWOO KimJiwoo"
+    },
+    {
+      "id": 213,
+      "nameKR": "규진",
+      "nameEN": "KYUJIN",
+      "group": "NMIXX",
+      "searchTerms": "규진 장규진 JangKyujin Kyujin"
+    },
+    {
+      "id": 214,
+      "nameKR": "단체/유닛",
+      "nameEN": "Group/Unit",
+      "group": "NMIXX",
+      "searchTerms": ""
+    },
+    {
+      "id": 215,
+      "nameKR": "최현석",
+      "nameEN": "CHOI HYUN SUK",
+      "group": "NMIXX",
+      "searchTerms": "최현석 현석 CHOI HYUN SUK CHOIHYUNSUK"
+    },
+    {
+      "id": 216,
+      "nameKR": "지훈",
+      "nameEN": "JIHOON",
+      "group": "TREASURE",
+      "searchTerms": "지훈 박지훈 jihoon parkjihoon"
+    },
+    {
+      "id": 217,
+      "nameKR": "요시",
+      "nameEN": "YOSHI",
+      "group": "TREASURE",
+      "searchTerms": "요시 YOSHI 김방전 Kim Bangjeon Yoshinori Kanemoto 카네모토 요시노리"
+    },
+    {
+      "id": 218,
+      "nameKR": "준규",
+      "nameEN": "JUNKYU",
+      "group": "TREASURE",
+      "searchTerms": "준규 김준규 KimJunkyu JUNKYU"
+    },
+    {
+      "id": 219,
+      "nameKR": "마시호",
+      "nameEN": "MASHIHO",
+      "group": "TREASURE",
+      "searchTerms": "마시호 MASHIHO 타카타 마시호 Mashiho Takata"
+    },
+    {
+      "id": 220,
+      "nameKR": "윤재혁",
+      "nameEN": "YOON JAE HYUK",
+      "group": "TREASURE",
+      "searchTerms": "윤재혁 재혁 YOON JAE HYUK YOONJAEHYUK JAE HYUK"
+    },
+    {
+      "id": 221,
+      "nameKR": "아사히",
+      "nameEN": "ASAHI",
+      "group": "TREASURE",
+      "searchTerms": "아사히 ASAHI 하마다 아사히 Asahi Hamada 하마다아사히"
+    },
+    {
+      "id": 222,
+      "nameKR": "방예담",
+      "nameEN": "BANG YE DAM",
+      "group": "TREASURE",
+      "searchTerms": "방예담 예담 BANG YE DAM BANGYEDAM YEDAM"
+    },
+    {
+      "id": 223,
+      "nameKR": "도영",
+      "nameEN": "DOYOUNG",
+      "group": "TREASURE",
+      "searchTerms": "도영 DOYOUNG Kim Doyoung KimDoyoung 김도영"
+    },
+    {
+      "id": 224,
+      "nameKR": "하루토",
+      "nameEN": "HARUTO",
+      "group": "TREASURE",
+      "searchTerms": "하루토 HARUTO 와타나베 하루토 Haruto Watanabe 와타나베하루토"
+    },
+    {
+      "id": 225,
+      "nameKR": "박정우",
+      "nameEN": "PARK JEONG WOO",
+      "group": "TREASURE",
+      "searchTerms": "박정우 정우 PARKJEONGWOO JEONGWOO"
+    },
+    {
+      "id": 226,
+      "nameKR": "소정환",
+      "nameEN": "SO JUNG HWAN",
+      "group": "TREASURE",
+      "searchTerms": "소정환 정환 SO JUNG HWAN SOJUNGHWAN JUNGHWAN"
+    },
+    {
+      "id": 227,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "TREASURE",
+      "searchTerms": ""
+    },
+    {
+      "id": 228,
+      "nameKR": "은하",
+      "nameEN": "EUNHA",
+      "group": "TREASURE",
+      "searchTerms": "은하 정은비 jeongeunbi eunha"
+    },
+    {
+      "id": 229,
+      "nameKR": "신비",
+      "nameEN": "SINB",
+      "group": "VIVIZ",
+      "searchTerms": "신비 황은비 sinb sin b"
+    },
+    {
+      "id": 230,
+      "nameKR": "엄지",
+      "nameEN": "UMJI",
+      "group": "VIVIZ",
+      "searchTerms": "엄지 김예원 kimyewon umji"
+    },
+    {
+      "id": 231,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "VIVIZ",
+      "searchTerms": ""
+    },
+    {
+      "id": 232,
+      "nameKR": "사쿠라",
+      "nameEN": "SAKURA",
+      "group": "VIVIZ",
+      "searchTerms": "사쿠라 みやわきさくら 미야와키 사쿠라 미야와키사쿠라 SAKURA"
+    },
+    {
+      "id": 233,
+      "nameKR": "김채원",
+      "nameEN": "Kim Chaewon",
+      "group": "르세라핌",
+      "searchTerms": "김채원 채원 chaewon kimchaewon"
+    },
+    {
+      "id": 234,
+      "nameKR": "허윤진",
+      "nameEN": "Huh Yunjin",
+      "group": "르세라핌",
+      "searchTerms": "허윤진 윤진 Huh Yunjin HuhYunjin"
+    },
+    {
+      "id": 235,
+      "nameKR": "카즈하",
+      "nameEN": "KAZUHA",
+      "group": "르세라핌",
+      "searchTerms": "카즈하 나카무라카즈하 나카무라 카즈하 Nakamura Kazuha NakamuraKazuha"
+    },
+    {
+      "id": 236,
+      "nameKR": "김가람",
+      "nameEN": "Kim Garam",
+      "group": "르세라핌",
+      "searchTerms": "김가람 가람 KIM GARAM KIMGARAM"
+    },
+    {
+      "id": 237,
+      "nameKR": "홍은채",
+      "nameEN": "Hong Eunchae",
+      "group": "르세라핌",
+      "searchTerms": "홍은채 은채 HONG EUNCHAE HONGEUNCHAE"
+    },
+    {
+      "id": 238,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "르세라핌",
+      "searchTerms": ""
+    },
+    {
+      "id": 239,
+      "nameKR": "희진",
+      "nameEN": "HeeJin",
+      "group": "르세라핌",
+      "searchTerms": "희진 전희진 Heejin"
+    },
+    {
+      "id": 240,
+      "nameKR": "현진",
+      "nameEN": "HyunJin",
+      "group": "이달의소녀",
+      "searchTerms": "현진 김현진 Hyunjin"
+    },
+    {
+      "id": 241,
+      "nameKR": "하슬",
+      "nameEN": "HaSeul",
+      "group": "이달의소녀",
+      "searchTerms": "하슬 조하슬 Haseul 하슬"
+    },
+    {
+      "id": 242,
+      "nameKR": "여진",
+      "nameEN": "Yeojin",
+      "group": "이달의소녀",
+      "searchTerms": "여진 임여진 여진 YeoJin"
+    },
+    {
+      "id": 243,
+      "nameKR": "비비",
+      "nameEN": "ViVi",
+      "group": "이달의소녀",
+      "searchTerms": "비비 황가희 웡가헤이 황아라 비엔웡 ViVi"
+    },
+    {
+      "id": 244,
+      "nameKR": "김립",
+      "nameEN": "Kim Lip",
+      "group": "이달의소녀",
+      "searchTerms": "김립 김정은 정은 Kim Lip KimLip"
+    },
+    {
+      "id": 245,
+      "nameKR": "진솔",
+      "nameEN": "JinSoul",
+      "group": "이달의소녀",
+      "searchTerms": "진솔 정진솔 JinSoul"
+    },
+    {
+      "id": 246,
+      "nameKR": "최리",
+      "nameEN": "Choerry",
+      "group": "이달의소녀",
+      "searchTerms": "최리 최예림 예림 Choerry"
+    },
+    {
+      "id": 247,
+      "nameKR": "이브",
+      "nameEN": "Yves",
+      "group": "이달의소녀",
+      "searchTerms": "이브 하수영 수영 Yves"
+    },
+    {
+      "id": 248,
+      "nameKR": "츄",
+      "nameEN": "Chuu",
+      "group": "이달의소녀",
+      "searchTerms": "츄 김지우 지우 Chuu"
+    },
+    {
+      "id": 249,
+      "nameKR": "고원",
+      "nameEN": "Go Won",
+      "group": "이달의소녀",
+      "searchTerms": "고원 박채원 채원 Go Won"
+    },
+    {
+      "id": 250,
+      "nameKR": "올리비아혜",
+      "nameEN": "OliviaHye",
+      "group": "이달의소녀",
+      "searchTerms": "올리비아혜 손혜주 혜주 Olivia Hye OliviaHye"
+    },
+    {
+      "id": 251,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "이달의소녀",
+      "searchTerms": ""
+    },
+    {
+      "id": 252,
+      "nameKR": "차은우",
+      "nameEN": "ChaEunwoo",
+      "group": "이달의소녀",
+      "searchTerms": "차은우 은우 이동민 동민 Cha Eunwoo ChaEunwoo LeeDongmin Lee Dongmin"
+    },
+    {
+      "id": 253,
+      "nameKR": "문빈",
+      "nameEN": "MOONBIN",
+      "group": "아스트로",
+      "searchTerms": "문빈 빈 MOONBIN MOON BIN"
+    },
+    {
+      "id": 254,
+      "nameKR": "MJ",
+      "nameEN": "MJ",
+      "group": "아스트로",
+      "searchTerms": "엠제이 김명준 명준 Kim Myungjun KimMyungjun mj"
+    },
+    {
+      "id": 255,
+      "nameKR": "진진",
+      "nameEN": "JINJIN",
+      "group": "아스트로",
+      "searchTerms": "진진  박진우 진우 Park Jinwoo ParkJinWoo JinJin Jin Jin"
+    },
+    {
+      "id": 256,
+      "nameKR": "라키",
+      "nameEN": "ROCKY",
+      "group": "아스트로",
+      "searchTerms": "라키 박민혁 민혁 ROCKY Park Minhyuk ParkMinhyuk"
+    },
+    {
+      "id": 257,
+      "nameKR": "윤산하",
+      "nameEN": "YoonSanha",
+      "group": "아스트로",
+      "searchTerms": "산하 윤산하 YOON SANHA YOONSANHA"
+    },
+    {
+      "id": 258,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "아스트로",
+      "searchTerms": ""
+    },
+    {
+      "id": 259,
+      "nameKR": "경윤",
+      "nameEN": "Kyoung Yoon",
+      "group": "아스트로",
+      "searchTerms": "경윤 이경윤 LEE KYOUNGYOON"
+    },
+    {
+      "id": 260,
+      "nameKR": "문익",
+      "nameEN": "Mun Ik",
+      "group": "DKZ",
+      "searchTerms": "문익 장문익 Jang Munik"
+    },
+    {
+      "id": 261,
+      "nameKR": "재찬",
+      "nameEN": "Jae Chan",
+      "group": "DKZ",
+      "searchTerms": "박재찬 재찬 Park Jaechan"
+    },
+    {
+      "id": 262,
+      "nameKR": "종형",
+      "nameEN": "Jong Hyeong",
+      "group": "DKZ",
+      "searchTerms": "종형 김종형 Kim Jonghyeong"
+    },
+    {
+      "id": 263,
+      "nameKR": "세현",
+      "nameEN": "Se Hyeon",
+      "group": "DKZ",
+      "searchTerms": "세현 김세현 Kim Sehyeon"
+    },
+    {
+      "id": 264,
+      "nameKR": "민규",
+      "nameEN": "Min Gyu",
+      "group": "DKZ",
+      "searchTerms": "민규 전민규 Jeon Mingyu"
+    },
+    {
+      "id": 265,
+      "nameKR": "기석",
+      "nameEN": "Gi Seok",
+      "group": "DKZ",
+      "searchTerms": "기석 류기석 Ryu Giseok"
+    },
+    {
+      "id": 266,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "DKZ",
+      "searchTerms": ""
+    },
+    {
+      "id": 267,
+      "nameKR": "원지민",
+      "nameEN": "Won Ji Min",
+      "group": "DKZ",
+      "searchTerms": "원지민 지민 Won Ji Min WonJiMin"
+    },
+    {
+      "id": 268,
+      "nameKR": "김선유",
+      "nameEN": "Kim Seon You",
+      "group": "클라씨",
+      "searchTerms": "김선유 선유 Kim Seon You KimSeonYou"
+    },
+    {
+      "id": 269,
+      "nameKR": "명형서",
+      "nameEN": "Myung Hyung Seo",
+      "group": "클라씨",
+      "searchTerms": "명형서 형서 MyungHyungSeo Myung Hyung Seo"
+    },
+    {
+      "id": 270,
+      "nameKR": "홍혜주",
+      "nameEN": "Hong Hye Ju",
+      "group": "클라씨",
+      "searchTerms": "홍혜주 혜주 Hong Hye Ju HongHyeJu"
+    },
+    {
+      "id": 271,
+      "nameKR": "김리원",
+      "nameEN": "Kim Ri Won",
+      "group": "클라씨",
+      "searchTerms": "김리원 리원 Kim Ri Won KimRiWon"
+    },
+    {
+      "id": 272,
+      "nameKR": "박보은",
+      "nameEN": "Park Bo Eun",
+      "group": "클라씨",
+      "searchTerms": "박보은 보은 Park Bo Eun ParkBoEun"
+    },
+    {
+      "id": 273,
+      "nameKR": "윤채원",
+      "nameEN": "Yoon Chae Won",
+      "group": "클라씨",
+      "searchTerms": "윤채원 채원 Yoon Chae Won YoonChaeWon"
+    },
+    {
+      "id": 274,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "클라씨",
+      "searchTerms": ""
+    },
+    {
+      "id": 275,
+      "nameKR": "설아",
+      "nameEN": "SEOLA",
+      "group": "클라씨",
+      "searchTerms": "설아 SEOLA 김현정 현정 KIM HYUNHUNG  KIMHYUNHUNG"
+    },
+    {
+      "id": 276,
+      "nameKR": "엑시",
+      "nameEN": "EXY",
+      "group": "우주소녀",
+      "searchTerms": "엑시 EXY 추소정 소정 Chu Sojung ChuSojung"
+    },
+    {
+      "id": 277,
+      "nameKR": "보나",
+      "nameEN": "BONA",
+      "group": "우주소녀",
+      "searchTerms": "보나 김지연 BONA KIMJIYEON KIM JIYEON 지연"
+    },
+    {
+      "id": 278,
+      "nameKR": "성소",
+      "nameEN": "CHENG XIAO",
+      "group": "우주소녀",
+      "searchTerms": "성소 CHENGXIAO 청샤오 Chéng Xiāo 程潇"
+    },
+    {
+      "id": 279,
+      "nameKR": "은서",
+      "nameEN": "EUNSEO",
+      "group": "우주소녀",
+      "searchTerms": "은서 손주연 주연 EUNSEO Son Jooyeon SonJooyeon"
+    },
+    {
+      "id": 280,
+      "nameKR": "다영",
+      "nameEN": "DAYOUNG",
+      "group": "우주소녀",
+      "searchTerms": "다영 DAYOUNG 임다영 Lim Dayoung LimDayoung"
+    },
+    {
+      "id": 281,
+      "nameKR": "다원",
+      "nameEN": "DAWON",
+      "group": "우주소녀",
+      "searchTerms": "다원 DAWON 남다원 Nam Dawon NamDawon"
+    },
+    {
+      "id": 282,
+      "nameKR": "수빈",
+      "nameEN": "SOOBIN",
+      "group": "우주소녀",
+      "searchTerms": "수빈 SOOBIN 박수빈 Park Soobin ParkSoobin"
+    },
+    {
+      "id": 283,
+      "nameKR": "선의",
+      "nameEN": "XUAN YI",
+      "group": "우주소녀",
+      "searchTerms": "선의 XUANYI Wú Xuānyí 吴宣 우쉬안이"
+    },
+    {
+      "id": 284,
+      "nameKR": "여름",
+      "nameEN": "YEOREUM",
+      "group": "우주소녀",
+      "searchTerms": "여름 YEOREUM 이여름 Lee Yeoreum LeeYeoreum"
+    },
+    {
+      "id": 285,
+      "nameKR": "미기",
+      "nameEN": "MEI QI",
+      "group": "우주소녀",
+      "searchTerms": "미기 MEIQI 멍메이치 Mèng Měiqí 孟美岐"
+    },
+    {
+      "id": 286,
+      "nameKR": "루다",
+      "nameEN": "LUDA",
+      "group": "우주소녀",
+      "searchTerms": "루다 LUDA 이루다 Lee Luda LeeLuda"
+    },
+    {
+      "id": 287,
+      "nameKR": "연정",
+      "nameEN": "YEONJUNG",
+      "group": "우주소녀",
+      "searchTerms": "연정 YEONJUNG 유연정 Yoo Yeonjung YooYeonjung"
+    },
+    {
+      "id": 288,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "우주소녀",
+      "searchTerms": ""
+    },
+    {
+      "id": 289,
+      "nameKR": "나연",
+      "nameEN": "NAYEON",
+      "group": "우주소녀",
+      "searchTerms": "나연 Lim Nayeon LimNayeon 임나연"
+    },
+    {
+      "id": 290,
+      "nameKR": "정연",
+      "nameEN": "JEONGYEON",
+      "group": "TWICE",
+      "searchTerms": "정연 Yoo Jeongyeon YooJeongyeon Jungyeon YooJungyeon 유정연 정연"
+    },
+    {
+      "id": 291,
+      "nameKR": "모모",
+      "nameEN": "MOMO",
+      "group": "TWICE",
+      "searchTerms": "모모 Momo 히라이모모 히라이 모모"
+    },
+    {
+      "id": 292,
+      "nameKR": "사나",
+      "nameEN": "SANA",
+      "group": "TWICE",
+      "searchTerms": "사나 Minatozaki Sana 미나토자키사나 미나토자키 사나"
+    },
+    {
+      "id": 293,
+      "nameKR": "지효",
+      "nameEN": "JIHYO",
+      "group": "TWICE",
+      "searchTerms": "지효 Park Jihyo ParkJihyo 박지효 지효"
+    },
+    {
+      "id": 294,
+      "nameKR": "미나",
+      "nameEN": "MINA",
+      "group": "TWICE",
+      "searchTerms": "미나 MyoiMina Myoi Mina 묘이미나"
+    },
+    {
+      "id": 295,
+      "nameKR": "다현",
+      "nameEN": "DAHYUN",
+      "group": "TWICE",
+      "searchTerms": "다현  Kim Dahyun KimDahyun 김다현 다현"
+    },
+    {
+      "id": 296,
+      "nameKR": "채영",
+      "nameEN": "CHAEYOUNG",
+      "group": "TWICE",
+      "searchTerms": "채영 Son Chaeyoung SonChaeyoung 손채영 채영"
+    },
+    {
+      "id": 297,
+      "nameKR": "쯔위",
+      "nameEN": "TZUYU",
+      "group": "TWICE",
+      "searchTerms": "쯔위 TZUYU ChouTzuyu 쯔위"
+    },
+    {
+      "id": 298,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "TWICE",
+      "searchTerms": ""
+    },
+    {
+      "id": 299,
+      "nameKR": "세림",
+      "nameEN": "SERIM",
+      "group": "TWICE",
+      "searchTerms": "세림 박세림 Park Serim ParkSerim"
+    },
+    {
+      "id": 300,
+      "nameKR": "앨런",
+      "nameEN": "ALLEN",
+      "group": "CRAVITY",
+      "searchTerms": "앨런 마앨런 앨런마 Allen Ma AllenMa"
+    },
+    {
+      "id": 301,
+      "nameKR": "정모",
+      "nameEN": "JUNGMO",
+      "group": "CRAVITY",
+      "searchTerms": "정모 구정모 KooJungmo Jungmo"
+    },
+    {
+      "id": 302,
+      "nameKR": "우빈",
+      "nameEN": "WOOBIN",
+      "group": "CRAVITY",
+      "searchTerms": "우빈 서우빈 Seo Woobin SeoWoobin"
+    },
+    {
+      "id": 303,
+      "nameKR": "원진",
+      "nameEN": "WONJIN",
+      "group": "CRAVITY",
+      "searchTerms": "원진 함원진 Ham Wonjin HamWonjin"
+    },
+    {
+      "id": 304,
+      "nameKR": "민희",
+      "nameEN": "MINHEE",
+      "group": "CRAVITY",
+      "searchTerms": "민희 강민희 Kang Minhee KangMinhee"
+    },
+    {
+      "id": 305,
+      "nameKR": "형준",
+      "nameEN": "HYEONGJUN",
+      "group": "CRAVITY",
+      "searchTerms": "형준 송형준 Song Hyeongjun SongHyeongjun"
+    },
+    {
+      "id": 306,
+      "nameKR": "태영",
+      "nameEN": "TAEYOUNG",
+      "group": "CRAVITY",
+      "searchTerms": "태영 김태영 Kim Taeyoung KimTaeyoung"
+    },
+    {
+      "id": 307,
+      "nameKR": "성민",
+      "nameEN": "SEONGMIN",
+      "group": "CRAVITY",
+      "searchTerms": "성민 안성민 Ahn Seongmin AhnSeongmin"
+    },
+    {
+      "id": 308,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "CRAVITY",
+      "searchTerms": ""
+    },
+    {
+      "id": 309,
+      "nameKR": "시윤",
+      "nameEN": "SIYOON",
+      "group": "CRAVITY",
+      "searchTerms": "시윤 김시윤 Kim Siyoon KimSiyoon"
+    },
+    {
+      "id": 310,
+      "nameKR": "츠키",
+      "nameEN": "TSUKI",
+      "group": "Billlie",
+      "searchTerms": "츠키 후쿠토미츠키 츠키 TSUKI"
+    },
+    {
+      "id": 311,
+      "nameKR": "션",
+      "nameEN": "SHEON",
+      "group": "Billlie",
+      "searchTerms": "션 김수연 수연 Sheon KimSuyeon Kim Suyeon"
+    },
+    {
+      "id": 312,
+      "nameKR": "수현",
+      "nameEN": "SUHYEON",
+      "group": "Billlie",
+      "searchTerms": "김수현 수현 Kim Suhyun KimSuhyun"
+    },
+    {
+      "id": 313,
+      "nameKR": "하람",
+      "nameEN": "HARAM",
+      "group": "Billlie",
+      "searchTerms": "하람 김하람 하람 Kim Haram KimHaram"
+    },
+    {
+      "id": 314,
+      "nameKR": "문수아",
+      "nameEN": "Moon Sua",
+      "group": "Billlie",
+      "searchTerms": "문수아 수아 MoonSua Moon Sua"
+    },
+    {
+      "id": 315,
+      "nameKR": "하루나",
+      "nameEN": "HARUNA",
+      "group": "Billlie",
+      "searchTerms": "하루나 오오사토 하루나 하루나 HARUNA 오오사토하루나"
+    },
+    {
+      "id": 316,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "Billlie",
+      "searchTerms": ""
+    },
+    {
+      "id": 317,
+      "nameKR": "최태훈",
+      "nameEN": "TAE HUN",
+      "group": "Billlie",
+      "searchTerms": "최태훈 태훈 Choi Taehun ChoiTaehun"
+    },
+    {
+      "id": 318,
+      "nameKR": "우경준",
+      "nameEN": "KYUNG JUN",
+      "group": "THE NEW SIX",
+      "searchTerms": "우경준 경준 Woo Kyungjun WooKyungjun"
+    },
+    {
+      "id": 319,
+      "nameKR": "장현수",
+      "nameEN": "HYUN SOO",
+      "group": "THE NEW SIX",
+      "searchTerms": "장현수 현수 Jang Hyunsoo JangHyunsoo"
+    },
+    {
+      "id": 320,
+      "nameKR": "천준혁",
+      "nameEN": "JUN HYEOK",
+      "group": "THE NEW SIX",
+      "searchTerms": "천준혁 준혁 Cheon Junhyeok CheonJunhyeok"
+    },
+    {
+      "id": 321,
+      "nameKR": "은휘",
+      "nameEN": "HWI",
+      "group": "THE NEW SIX",
+      "searchTerms": "은휘 휘 Eun Hwi EunHwi"
+    },
+    {
+      "id": 322,
+      "nameKR": "오성준",
+      "nameEN": "SUNG JUN",
+      "group": "THE NEW SIX",
+      "searchTerms": "오성준 성준 Oh Sungjun OhSungjun"
+    },
+    {
+      "id": 323,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "THE NEW SIX",
+      "searchTerms": ""
+    },
+    {
+      "id": 324,
+      "nameKR": "동헌",
+      "nameEN": "DONGHEON",
+      "group": "THE NEW SIX",
+      "searchTerms": "동헌 이동헌 Lee DongHeon LeeDongHeon"
+    },
+    {
+      "id": 325,
+      "nameKR": "호영",
+      "nameEN": "HOYOUNG",
+      "group": "VERIVERY",
+      "searchTerms": "호영 배호영 Bae HoYoung BaeHoYoung"
+    },
+    {
+      "id": 326,
+      "nameKR": "민찬",
+      "nameEN": "MINCHAN",
+      "group": "VERIVERY",
+      "searchTerms": "민찬 홍민찬 Hong MinChan HongMinChan"
+    },
+    {
+      "id": 327,
+      "nameKR": "계현",
+      "nameEN": "GYEHYEON",
+      "group": "VERIVERY",
+      "searchTerms": "계현 조계현 Jo Gyehyeon JoGyehyeon"
+    },
+    {
+      "id": 328,
+      "nameKR": "연호",
+      "nameEN": "YEONHO",
+      "group": "VERIVERY",
+      "searchTerms": "연호 주연호 Ju YeonHo JuYeonHo"
+    },
+    {
+      "id": 329,
+      "nameKR": "용승",
+      "nameEN": "YONGSEUNG",
+      "group": "VERIVERY",
+      "searchTerms": "용승 김용승 Kim YongSeung KimYongSeung"
+    },
+    {
+      "id": 330,
+      "nameKR": "강민",
+      "nameEN": "KANGMIN",
+      "group": "VERIVERY",
+      "searchTerms": "강민 유강민 Yu KangMin YuKangMin"
+    },
+    {
+      "id": 331,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "VERIVERY",
+      "searchTerms": ""
+    },
+    {
+      "id": 332,
+      "nameKR": "BX",
+      "nameEN": "BX",
+      "group": "VERIVERY",
+      "searchTerms": "BX 비엑스 병곤 이병곤 LEEBYUNGGON LEE BYUNGGON"
+    },
+    {
+      "id": 333,
+      "nameKR": "승훈",
+      "nameEN": "SEUNGHOON",
+      "group": "CIX",
+      "searchTerms": "승훈 Kim Seunghun 김승훈 KimSeunghun"
+    },
+    {
+      "id": 334,
+      "nameKR": "배진영",
+      "nameEN": "BAEJINYOUNG",
+      "group": "CIX",
+      "searchTerms": "배진영 진영 Bae Jinyoung BaeJinyoung"
+    },
+    {
+      "id": 335,
+      "nameKR": "용희",
+      "nameEN": "YONGHEE",
+      "group": "CIX",
+      "searchTerms": "용희 김용희 Kim Yonghee KimYonghee"
+    },
+    {
+      "id": 336,
+      "nameKR": "현석",
+      "nameEN": "HYUNSUK",
+      "group": "CIX",
+      "searchTerms": "현석 Yoon Hyunsuk 윤현석 YoonHyunsuk"
+    },
+    {
+      "id": 337,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "CIX",
+      "searchTerms": ""
+    },
+    {
+      "id": 338,
+      "nameKR": "민지",
+      "nameEN": "MINJI",
+      "group": "CIX",
+      "searchTerms": "민지 김민지 KimMinji Kim Minji"
+    },
+    {
+      "id": 339,
+      "nameKR": "하니",
+      "nameEN": "HANNI",
+      "group": "뉴진스",
+      "searchTerms": "하니 HANNI Hanni Pham Phạm Ngọc Hân  팜 응옥 헌 하니팜 하니 팜 팜하니"
+    },
+    {
+      "id": 340,
+      "nameKR": "다니엘",
+      "nameEN": "DANIELLE",
+      "group": "뉴진스",
+      "searchTerms": "다니엘 DANIELLE 다니엘마쉬 마쉬 모지혜 Mo Jihye MoJihye Danielle Marsh"
+    },
+    {
+      "id": 341,
+      "nameKR": "해린",
+      "nameEN": "HAERIN",
+      "group": "뉴진스",
+      "searchTerms": "해린 강해린 HAERIN Kang Haerin KangHaerin"
+    },
+    {
+      "id": 342,
+      "nameKR": "혜인",
+      "nameEN": "HYEIN",
+      "group": "뉴진스",
+      "searchTerms": "혜인 이혜인 LeeHyein  HYEIN Lee Hyein"
+    },
+    {
+      "id": 343,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "뉴진스",
+      "searchTerms": ""
+    },
+    {
+      "id": 344,
+      "nameKR": "예나",
+      "nameEN": "YENA",
+      "group": "뉴진스",
+      "searchTerms": "예나 최예나 YENA CHOIYENA CHOI YENA"
+    },
+    {
+      "id": 345,
+      "nameKR": "WOODZ",
+      "nameEN": "WOODZ",
+      "group": "YENA",
+      "searchTerms": "우즈 WOODZ 조승연 CHO SEUNGYEON CHOSEUNGYEON"
+    },
+    {
+      "id": 346,
+      "nameKR": "전웅",
+      "nameEN": "JEON WOONG",
+      "group": "WOODZ",
+      "searchTerms": "전웅 웅 jeonwoong woong"
+    },
+    {
+      "id": 347,
+      "nameKR": "김동현",
+      "nameEN": "KIM DONG HYUN",
+      "group": "AB6IX",
+      "searchTerms": "김동현 동현 kimdonghyun Kim donghyun"
+    },
+    {
+      "id": 348,
+      "nameKR": "박우진",
+      "nameEN": "PARK WOO JIN",
+      "group": "AB6IX",
+      "searchTerms": "박우진 우진 park woojin parkwoojin"
+    },
+    {
+      "id": 349,
+      "nameKR": "이대휘",
+      "nameEN": "LEE DAE HWI",
+      "group": "AB6IX",
+      "searchTerms": "이대휘 대휘 휘 leedaehwi daehwi"
+    },
+    {
+      "id": 350,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "AB6IX",
+      "searchTerms": ""
+    },
+    {
+      "id": 351,
+      "nameKR": "효진",
+      "nameEN": "HYOJIN",
+      "group": "AB6IX",
+      "searchTerms": "효진 김효진 hyojin kimhyojin"
+    },
+    {
+      "id": 352,
+      "nameKR": "이션",
+      "nameEN": "E-TION",
+      "group": "온앤오프",
+      "searchTerms": "이션 이창윤 창윤 changyun leechangyun etion e-tion"
+    },
+    {
+      "id": 353,
+      "nameKR": "제이어스",
+      "nameEN": "J-US",
+      "group": "온앤오프",
+      "searchTerms": "제이어스 j-us jus 이승준 승준 seungjun"
+    },
+    {
+      "id": 354,
+      "nameKR": "와이엇",
+      "nameEN": "WYATT",
+      "group": "온앤오프",
+      "searchTerms": "와이엇 Wyatt 심재영 재영 jaeyoung"
+    },
+    {
+      "id": 355,
+      "nameKR": "MK",
+      "nameEN": "MK",
+      "group": "온앤오프",
+      "searchTerms": "MK 박민균 엠케이 민균 minkyun"
+    },
+    {
+      "id": 356,
+      "nameKR": "유",
+      "nameEN": "U",
+      "group": "온앤오프",
+      "searchTerms": "유 u 유토 미즈구치유토 mizguzchi yuto"
+    },
+    {
+      "id": 357,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "온앤오프",
+      "searchTerms": ""
+    },
+    {
+      "id": 358,
+      "nameKR": "한승우",
+      "nameEN": "HAN SEUNG WOO",
+      "group": "온앤오프",
+      "searchTerms": "한승우 승우 hanseungwoo seungwoo"
+    },
+    {
+      "id": 359,
+      "nameKR": "강승식",
+      "nameEN": "KANG SEUNG SIK",
+      "group": "빅톤",
+      "searchTerms": "강승식 승식 seungsik kangseungsik"
+    },
+    {
+      "id": 360,
+      "nameKR": "임세준",
+      "nameEN": "SEJUN",
+      "group": "빅톤",
+      "searchTerms": "임세준 세준 sejun limsejun"
+    },
+    {
+      "id": 361,
+      "nameKR": "도한세",
+      "nameEN": "HANSE",
+      "group": "빅톤",
+      "searchTerms": "도한세 한세 hanse dohanse"
+    },
+    {
+      "id": 362,
+      "nameKR": "최병찬",
+      "nameEN": "BYUNGCHAN",
+      "group": "빅톤",
+      "searchTerms": "최병찬 병찬 byungchan choibyungchan"
+    },
+    {
+      "id": 363,
+      "nameKR": "정수빈",
+      "nameEN": "SUBIN",
+      "group": "빅톤",
+      "searchTerms": "정수빈 수빈 subin jungsubin"
+    },
+    {
+      "id": 364,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "빅톤",
+      "searchTerms": ""
+    },
+    {
+      "id": 365,
+      "nameKR": "이수진",
+      "nameEN": "LEE SOOJIN",
+      "group": "빅톤",
+      "searchTerms": "이수진 수진 lee soojin leesoojin"
+    },
+    {
+      "id": 366,
+      "nameKR": "먼데이",
+      "nameEN": "MONDAY",
+      "group": "위클리",
+      "searchTerms": "먼데이 김지민 지민 Monday Kim jimin kimjimin"
+    },
+    {
+      "id": 367,
+      "nameKR": "지한",
+      "nameEN": "JIHAN",
+      "group": "위클리",
+      "searchTerms": "지한 한지효 jihan hanjihyo"
+    },
+    {
+      "id": 368,
+      "nameKR": "박소은",
+      "nameEN": "PARK SOEUN",
+      "group": "위클리",
+      "searchTerms": "박소은 소은 park soeun parksoeun"
+    },
+    {
+      "id": 369,
+      "nameKR": "조아",
+      "nameEN": "ZOA",
+      "group": "위클리",
+      "searchTerms": "조아 zoa 조혜원 혜원 cho hyewon chohyewon"
+    },
+    {
+      "id": 370,
+      "nameKR": "이재희",
+      "nameEN": "LEE JAEHEE",
+      "group": "위클리",
+      "searchTerms": "이재희 재희 lee jaehee leejaehee"
+    },
+    {
+      "id": 371,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "위클리",
+      "searchTerms": ""
+    },
+    {
+      "id": 372,
+      "nameKR": "서호",
+      "nameEN": "SEO HO",
+      "group": "위클리",
+      "searchTerms": "서호 seoho 이서호 leeseoho"
+    },
+    {
+      "id": 373,
+      "nameKR": "이도",
+      "nameEN": "LEE DO",
+      "group": "원어스",
+      "searchTerms": "이도 leedo 건학 김건학 Kim gunhak kimgunhak"
+    },
+    {
+      "id": 374,
+      "nameKR": "건희",
+      "nameEN": "KEON HEE",
+      "group": "원어스",
+      "searchTerms": "건희 keonhee 이건희 leekeonhee"
+    },
+    {
+      "id": 375,
+      "nameKR": "환웅",
+      "nameEN": "HWAN WOONG",
+      "group": "원어스",
+      "searchTerms": "환웅 hwanwoong 여환웅 yeohwanwoong"
+    },
+    {
+      "id": 376,
+      "nameKR": "시온",
+      "nameEN": "XION",
+      "group": "원어스",
+      "searchTerms": "시온 xion 손동주 동주 son dongju sondongju"
+    },
+    {
+      "id": 377,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "원어스",
+      "searchTerms": ""
+    },
+    {
+      "id": 378,
+      "nameKR": "기호",
+      "nameEN": "KEEHO",
+      "group": "원어스",
+      "searchTerms": "기호 keeho 스테픈 기호 윤 스테픈기호윤 윤기호 Stephen keeho yoonkeeho"
+    },
+    {
+      "id": 379,
+      "nameKR": "테오",
+      "nameEN": "THEO",
+      "group": "P1Harmony",
+      "searchTerms": "테오 Theo 태양 최태양 taeyang choitaeyang"
+    },
+    {
+      "id": 380,
+      "nameKR": "지웅",
+      "nameEN": "JIUNG",
+      "group": "P1Harmony",
+      "searchTerms": "지웅 jiung 최지웅 choijiung"
+    },
+    {
+      "id": 381,
+      "nameKR": "인탁",
+      "nameEN": "INTAK",
+      "group": "P1Harmony",
+      "searchTerms": "인탁 intak 황인탁 hwangintak"
+    },
+    {
+      "id": 382,
+      "nameKR": "소울",
+      "nameEN": "SOUL",
+      "group": "P1Harmony",
+      "searchTerms": "소울 soul 하쿠쇼타 하쿠 쇼타 haku shota 백상태"
+    },
+    {
+      "id": 383,
+      "nameKR": "종섭",
+      "nameEN": "JONGSEOB",
+      "group": "P1Harmony",
+      "searchTerms": "종섭 jongseob 김종섭 kimjongseob"
+    },
+    {
+      "id": 384,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "P1Harmony",
+      "searchTerms": ""
+    },
+    {
+      "id": 385,
+      "nameKR": "신예찬",
+      "nameEN": "SHIN YE CHAN",
+      "group": "P1Harmony",
+      "searchTerms": "신예찬 예찬 yechan shinyechan"
+    },
+    {
+      "id": 386,
+      "nameKR": "최상엽",
+      "nameEN": "CHOI SANG YEOP",
+      "group": "LUCY",
+      "searchTerms": "최상엽 상엽 choisangyeop sangyeop"
+    },
+    {
+      "id": 387,
+      "nameKR": "조원상",
+      "nameEN": "CHO WON SANG",
+      "group": "LUCY",
+      "searchTerms": "조원상 원상 chowonsang wonsang"
+    },
+    {
+      "id": 388,
+      "nameKR": "신광일",
+      "nameEN": "SHIN GWANG IL",
+      "group": "LUCY",
+      "searchTerms": "신광일 광일 gwangil shingwangil"
+    },
+    {
+      "id": 389,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "LUCY",
+      "searchTerms": ""
+    },
+    {
+      "id": 390,
+      "nameKR": "아이유",
+      "nameEN": "IU",
+      "group": "LUCY",
+      "searchTerms": "아이유 IU 이지은 LEE JIEUN LEEJIEUN"
+    },
+    {
+      "id": 391,
+      "nameKR": "조유리",
+      "nameEN": "JO YURI",
+      "group": "IU",
+      "searchTerms": "조유리 유리 JOYURI JO YURI"
+    },
+    {
+      "id": 392,
+      "nameKR": "이승협",
+      "nameEN": "LEE SEUNG HYUB",
+      "group": "JOYURI",
+      "searchTerms": "이승협 제이던 j.don 승협 leeseunghyub seunghyub"
+    },
+    {
+      "id": 393,
+      "nameKR": "차훈",
+      "nameEN": "CHA HUN",
+      "group": "N.Flying",
+      "searchTerms": "차훈 훈 chahun hun"
+    },
+    {
+      "id": 394,
+      "nameKR": "김재현",
+      "nameEN": "KIM JAE HYUN",
+      "group": "N.Flying",
+      "searchTerms": "김재현 재현 kimjaehyun jaehyun"
+    },
+    {
+      "id": 395,
+      "nameKR": "유회승",
+      "nameEN": "YOO HWE SEUNG",
+      "group": "N.Flying",
+      "searchTerms": "유회승 회승 yoohweseung hweseung"
+    },
+    {
+      "id": 396,
+      "nameKR": "서동성",
+      "nameEN": "SEO DONG SUNG",
+      "group": "N.Flying",
+      "searchTerms": "서동성 동성 seodongsung dongsung"
+    },
+    {
+      "id": 397,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "N.Flying",
+      "searchTerms": ""
+    },
+    {
+      "id": 398,
+      "nameKR": "위시",
+      "nameEN": "WISH",
+      "group": "N.Flying",
+      "searchTerms": "위시 WISH 곽다윗 Kwak Dawit"
+    },
+    {
+      "id": 399,
+      "nameKR": "금동현",
+      "nameEN": "KEUM",
+      "group": "EPEX",
+      "searchTerms": "금동현 KEUM DONGHYUN KEUMDONGHYUN"
+    },
+    {
+      "id": 400,
+      "nameKR": "뮤",
+      "nameEN": "MU",
+      "group": "EPEX",
+      "searchTerms": "뮤 MU Seo Kyungmin SeoKyungmin 서경민"
+    },
+    {
+      "id": 401,
+      "nameKR": "아민",
+      "nameEN": "A-MIN",
+      "group": "EPEX",
+      "searchTerms": "아민 A-MIN 조민우 Cho Minwoo ChoMinwoo"
+    },
+    {
+      "id": 402,
+      "nameKR": "백승",
+      "nameEN": "BAEKSEUNG",
+      "group": "EPEX",
+      "searchTerms": "백승 BAEKSEUNG 김현우 Kim Hyun-woo Kim Hyunwoo KimHyunwoo"
+    },
+    {
+      "id": 403,
+      "nameKR": "에이든",
+      "nameEN": "AYDEN",
+      "group": "EPEX",
+      "searchTerms": "에이든 AYDEN 권예준 Kwon Yejun KwonYejun"
+    },
+    {
+      "id": 404,
+      "nameKR": "예왕",
+      "nameEN": "YEWANG",
+      "group": "EPEX",
+      "searchTerms": "예왕 YEWANG 서예왕 Seo Yewang SeoYewang"
+    },
+    {
+      "id": 405,
+      "nameKR": "제프",
+      "nameEN": "JEFF",
+      "group": "EPEX",
+      "searchTerms": "제프 JEFF 이재호 Lee Jaeho LeeJaeho"
+    },
+    {
+      "id": 406,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "EPEX",
+      "searchTerms": ""
+    },
+    {
+      "id": 407,
+      "nameKR": "건일",
+      "nameEN": "Gun-il",
+      "group": "EPEX",
+      "searchTerms": "건일 Gun-il Koo Keunil KooKeunil 구건일"
+    },
+    {
+      "id": 408,
+      "nameKR": "정수",
+      "nameEN": "Jungsu",
+      "group": "엑스디너리히어로즈",
+      "searchTerms": "정수 김정수 Jungsu Kim Jungsu KimJungsu"
+    },
+    {
+      "id": 409,
+      "nameKR": "가온",
+      "nameEN": "Gaon",
+      "group": "엑스디너리히어로즈",
+      "searchTerms": "가온 Gaon Kwak Jiseok KwakJiseok 곽지석"
+    },
+    {
+      "id": 410,
+      "nameKR": "O.de",
+      "nameEN": "O.de",
+      "group": "엑스디너리히어로즈",
+      "searchTerms": "O.de 오드 오승민 Oh Seungmin OhSeungmin"
+    },
+    {
+      "id": 411,
+      "nameKR": "Jun Han",
+      "nameEN": "Jun Han",
+      "group": "엑스디너리히어로즈",
+      "searchTerms": "Jun Han 준한 JunHan 한형준 Han Hyeongjun"
+    },
+    {
+      "id": 412,
+      "nameKR": "주연",
+      "nameEN": "Jooyeon",
+      "group": "엑스디너리히어로즈",
+      "searchTerms": "주연 이주연 Lee Jooyeon LeeJooyeon"
+    },
+    {
+      "id": 413,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "엑스디너리히어로즈",
+      "searchTerms": ""
+    },
+    {
+      "id": 414,
+      "nameKR": "장하오",
+      "nameEN": "ZHANG HAO",
+      "group": "엑스디너리히어로즈",
+      "searchTerms": "장하오 Zhāng Hào ZHANG HAO ZHANGHAO 章昊 하오"
+    },
+    {
+      "id": 415,
+      "nameKR": "성한빈",
+      "nameEN": "SUNG HANBIN",
+      "group": "제로베이스원",
+      "searchTerms": "성한빈 한빈  Sung Hanbin SungHanbin"
+    },
+    {
+      "id": 416,
+      "nameKR": "석매튜",
+      "nameEN": "SEOK MATTHEW",
+      "group": "제로베이스원",
+      "searchTerms": "석매튜 SEOK MATTHEW SEOKMATTHEW 매튜"
+    },
+    {
+      "id": 417,
+      "nameKR": "리키",
+      "nameEN": "RICKY",
+      "group": "제로베이스원",
+      "searchTerms": "리키 RICKY 션취안루이 Shěn Quánruì 沈泉锐 Ricky Shen 리키션 리키 션"
+    },
+    {
+      "id": 418,
+      "nameKR": "박건욱",
+      "nameEN": "PARK GUNWOOK",
+      "group": "제로베이스원",
+      "searchTerms": "박건욱 PARK GUNWOOK PARKGUNWOOK 건욱"
+    },
+    {
+      "id": 419,
+      "nameKR": "김태래",
+      "nameEN": "KIM TAERAE",
+      "group": "제로베이스원",
+      "searchTerms": "김태래 KIM TAERAE KIMTAERAE 태래"
+    },
+    {
+      "id": 420,
+      "nameKR": "김규빈",
+      "nameEN": "KIM GYUVIN",
+      "group": "제로베이스원",
+      "searchTerms": "김규빈 규빈 KIM GYUVIN KIMGYUVIN"
+    },
+    {
+      "id": 421,
+      "nameKR": "김지웅",
+      "nameEN": "KIM JIWOONG",
+      "group": "제로베이스원",
+      "searchTerms": "김지웅 지웅 KIM JIWOONG KIMJIWOONG"
+    },
+    {
+      "id": 422,
+      "nameKR": "한유진",
+      "nameEN": "HAN YUJIN",
+      "group": "제로베이스원",
+      "searchTerms": "한유진 유진 HAN YUJIN HANYUJIN"
+    },
+    {
+      "id": 423,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "제로베이스원",
+      "searchTerms": ""
+    },
+    {
+      "id": 424,
+      "nameKR": "성호",
+      "nameEN": "SUNGHO",
+      "group": "제로베이스원",
+      "searchTerms": "성호 박성호 Park Sungho ParkSungho"
+    },
+    {
+      "id": 425,
+      "nameKR": "리우",
+      "nameEN": "RIWOO",
+      "group": "BOYNEXTDOOR",
+      "searchTerms": "리우 RIWOO 이상혁 Lee Sanghyuk LeeSanghyuk"
+    },
+    {
+      "id": 426,
+      "nameKR": "명재현",
+      "nameEN": "JAEHYUN",
+      "group": "BOYNEXTDOOR",
+      "searchTerms": "명재현 JAEHYUN 재현 Myung Jaehyun MyungJaehyun"
+    },
+    {
+      "id": 427,
+      "nameKR": "태산",
+      "nameEN": "TAESAN",
+      "group": "BOYNEXTDOOR",
+      "searchTerms": "태산 한태산 TAESAN 한동민 동민 Han Dongmin HanDongmin"
+    },
+    {
+      "id": 428,
+      "nameKR": "이한",
+      "nameEN": "LEEHAN",
+      "group": "BOYNEXTDOOR",
+      "searchTerms": "이한 LEEHAN 김동현 동현 Kim Donghyun KimDonghyun"
+    },
+    {
+      "id": 429,
+      "nameKR": "운학",
+      "nameEN": "WOONHAK",
+      "group": "BOYNEXTDOOR",
+      "searchTerms": "운학 김운학 Kim Woonhak KimWoonhak"
+    },
+    {
+      "id": 430,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "BOYNEXTDOOR",
+      "searchTerms": ""
+    },
+    {
+      "id": 431,
+      "nameKR": "민재",
+      "nameEN": "MINJAE",
+      "group": "BOYNEXTDOOR",
+      "searchTerms": "민재 김민재 Kim Minjae KimMinjae"
+    },
+    {
+      "id": 432,
+      "nameKR": "준민",
+      "nameEN": "JUNMIN",
+      "group": "xikers",
+      "searchTerms": "준민 박준민 Park Junmin ParkJunmin"
+    },
+    {
+      "id": 433,
+      "nameKR": "수민",
+      "nameEN": "SUMIN",
+      "group": "xikers",
+      "searchTerms": "수민 최수민 Choi Sumin ChoiSumin"
+    },
+    {
+      "id": 434,
+      "nameKR": "진식",
+      "nameEN": "JINSIK",
+      "group": "xikers",
+      "searchTerms": "진식 함진식 Ham Jinsik HamJinsik"
+    },
+    {
+      "id": 435,
+      "nameKR": "현우",
+      "nameEN": "HYUNWOO",
+      "group": "xikers",
+      "searchTerms": "현우 최현우 Choi Hyunwoo ChoiHyunwoo"
+    },
+    {
+      "id": 436,
+      "nameKR": "정훈",
+      "nameEN": "JUNGHOON",
+      "group": "xikers",
+      "searchTerms": "정훈 김정훈 Kim Junghoon KimJunghoon"
+    },
+    {
+      "id": 437,
+      "nameKR": "세은",
+      "nameEN": "SEEUN",
+      "group": "xikers",
+      "searchTerms": "세은 박세은 Park Seeun ParkSeeun"
+    },
+    {
+      "id": 438,
+      "nameKR": "유준",
+      "nameEN": "YUJUN",
+      "group": "xikers",
+      "searchTerms": "유준 정유준 Jeong Yujun JeongYujun"
+    },
+    {
+      "id": 439,
+      "nameKR": "헌터",
+      "nameEN": "HUNTER",
+      "group": "xikers",
+      "searchTerms": "헌터 파팡콘 럿꺗담롱 HUNTER ปภังกร เลิศเกียรติดำรงค์ Papungkorn Lertkiatdamrong"
+    },
+    {
+      "id": 440,
+      "nameKR": "예찬",
+      "nameEN": "YECHAN",
+      "group": "xikers",
+      "searchTerms": "예찬 이예찬 Lee Yechan LeeYechan"
+    },
+    {
+      "id": 441,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "xikers",
+      "searchTerms": ""
+    },
+    {
+      "id": 442,
+      "nameKR": "서은광",
+      "nameEN": "SEO EUNKWANG",
+      "group": "xikers",
+      "searchTerms": "서은광 은광 SEO EUNKWANG SEOEUNKWANG"
+    },
+    {
+      "id": 443,
+      "nameKR": "이민혁",
+      "nameEN": "LEE MINHYUK",
+      "group": "비투비",
+      "searchTerms": "이민혁 민혁 LEE MINHYUK LEEMINHYUK"
+    },
+    {
+      "id": 444,
+      "nameKR": "이창섭",
+      "nameEN": "LEE CHANGSUB",
+      "group": "비투비",
+      "searchTerms": "이창섭 창섭 LEE CHANGSUB LEECHANGSUB"
+    },
+    {
+      "id": 445,
+      "nameKR": "임현식",
+      "nameEN": "LIM HYUNSIK",
+      "group": "비투비",
+      "searchTerms": "임현식 현식 LIM HYUNSIK  LIMHYUNSIK"
+    },
+    {
+      "id": 446,
+      "nameKR": "프니엘",
+      "nameEN": "PENIEL",
+      "group": "비투비",
+      "searchTerms": "프니엘 PENIEL Peniel Shin 프니엘신 프니엘 신 PenielShin 신동근"
+    },
+    {
+      "id": 447,
+      "nameKR": "육성재",
+      "nameEN": "YOOK SUNGJAE",
+      "group": "비투비",
+      "searchTerms": "육성재 성재 YOOK SUNGJAE YOOKSUNGJAE"
+    },
+    {
+      "id": 448,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "비투비",
+      "searchTerms": ""
+    },
+    {
+      "id": 449,
+      "nameKR": "솔라",
+      "nameEN": "Solar",
+      "group": "비투비",
+      "searchTerms": "솔라 김용선 용선 Kim Yong Sun Kim YongSun KimYongSun Solar"
+    },
+    {
+      "id": 450,
+      "nameKR": "문별",
+      "nameEN": "Moon Byul",
+      "group": "마마무",
+      "searchTerms": "문별 Moon Byul MoonByul 문별이 Moon Byulyi MoonByulyi"
+    },
+    {
+      "id": 451,
+      "nameKR": "휘인",
+      "nameEN": "Whee In",
+      "group": "마마무",
+      "searchTerms": "휘인 Whee In WheeIn 정휘인 Jung Wheein JungWheein"
+    },
+    {
+      "id": 452,
+      "nameKR": "화사",
+      "nameEN": "Hwa Sa",
+      "group": "마마무",
+      "searchTerms": "화사 안혜진 혜진 Ahn Hyejin AhnHyejin Hwa Sa HwaSa"
+    },
+    {
+      "id": 453,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "마마무",
+      "searchTerms": ""
+    },
+    {
+      "id": 454,
+      "nameKR": "윤두준",
+      "nameEN": "YOON DUJUN",
+      "group": "마마무",
+      "searchTerms": "윤두준 두준 YOON DUJUN YOONDUJUN"
+    },
+    {
+      "id": 455,
+      "nameKR": "양요섭",
+      "nameEN": "YANG YOSEOP",
+      "group": "하이라이트",
+      "searchTerms": "양요섭 요섭 YANG YOSEOP YANGYOSEOP"
+    },
+    {
+      "id": 456,
+      "nameKR": "이기광",
+      "nameEN": "LEE GIKWANG",
+      "group": "하이라이트",
+      "searchTerms": "이기광 기광 LEE GIKWANG LEEGIKWANG"
+    },
+    {
+      "id": 457,
+      "nameKR": "손동운",
+      "nameEN": "SON DONGWOON",
+      "group": "하이라이트",
+      "searchTerms": "손동운 동운 SON DONGWOON SONDONGWOON"
+    },
+    {
+      "id": 458,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "하이라이트",
+      "searchTerms": ""
+    },
+    {
+      "id": 459,
+      "nameKR": "김진환",
+      "nameEN": "JAY",
+      "group": "하이라이트",
+      "searchTerms": "김진환 JAY Kim Jinhwan KimJinhwan 진환"
+    },
+    {
+      "id": 460,
+      "nameKR": "BOBBY",
+      "nameEN": "BOBBY",
+      "group": "iKON",
+      "searchTerms": "BOBBY 바비 김지원 Kim Ji-won KimJiwon Kim Jiwon"
+    },
+    {
+      "id": 461,
+      "nameKR": "송윤형",
+      "nameEN": "SONG",
+      "group": "iKON",
+      "searchTerms": "송윤형 Song Yunhyeong SongYunhyeong 윤형"
+    },
+    {
+      "id": 462,
+      "nameKR": "구준회",
+      "nameEN": "JU-NE",
+      "group": "iKON",
+      "searchTerms": "구준회 준회 JU-NE Koo Junhoe KooJunhoe"
+    },
+    {
+      "id": 463,
+      "nameKR": "김동혁",
+      "nameEN": "DK",
+      "group": "iKON",
+      "searchTerms": "김동혁 동혁 DK 디케이 Kim Donghyuk  KimDonghyuk"
+    },
+    {
+      "id": 464,
+      "nameKR": "정찬우",
+      "nameEN": "CHAN",
+      "group": "iKON",
+      "searchTerms": "정찬우 찬우 Jung Chanwoo JungChanwoo CHAN"
+    },
+    {
+      "id": 465,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "iKON",
+      "searchTerms": ""
+    },
+    {
+      "id": 466,
+      "nameKR": "의주",
+      "nameEN": "EJ",
+      "group": "iKON",
+      "searchTerms": "의주 변의주 Byun Euijoo ByunEuijoo ウィジュ"
+    },
+    {
+      "id": 467,
+      "nameKR": "후마",
+      "nameEN": "FUMA",
+      "group": "&TEAM",
+      "searchTerms": "후마 フウマ FUMA 무라타 후마 무라타후마 Fuma Murata FumaMurata"
+    },
+    {
+      "id": 468,
+      "nameKR": "케이",
+      "nameEN": "K",
+      "group": "&TEAM",
+      "searchTerms": "케이 K ケイ코가 유다이 코가유다이 Yudai Koga YudaiKoga"
+    },
+    {
+      "id": 469,
+      "nameKR": "니콜라스",
+      "nameEN": "NICHOLAS",
+      "group": "&TEAM",
+      "searchTerms": "니콜라스 ニコラス NICHOLAS Wang I-hsiang WangIhsiang 왕이샹"
+    },
+    {
+      "id": 470,
+      "nameKR": "유마",
+      "nameEN": "YUMA",
+      "group": "&TEAM",
+      "searchTerms": "유마 YUMA ユウマ 나카키타 유마 나카키타유마 Yuma Nakakita YumaNakakita"
+    },
+    {
+      "id": 471,
+      "nameKR": "조",
+      "nameEN": "JO",
+      "group": "&TEAM",
+      "searchTerms": "조 죠 ジョウ JO 아사쿠라 조 아사쿠라 죠 아사쿠라죠 아사쿠라조 Jo Asakura"
+    },
+    {
+      "id": 472,
+      "nameKR": "하루아",
+      "nameEN": "HARUA",
+      "group": "&TEAM",
+      "searchTerms": "하루아 HARUA ハルア시게타 하루아 시게타하루아 Harua Shigeta HaruaShigeta"
+    },
+    {
+      "id": 473,
+      "nameKR": "타키",
+      "nameEN": "TAKI",
+      "group": "&TEAM",
+      "searchTerms": "타키 TAKI タキ타카야마 리키 타카야마리키 Riki Takayama RikiTakayama"
+    },
+    {
+      "id": 474,
+      "nameKR": "마키",
+      "nameEN": "MAKI",
+      "group": "&TEAM",
+      "searchTerms": "마키 MAKI マキ히로타 리키 히로타리키 리키 마우스 리키마우스 Riki Maus Riki Hirota RikiHirota"
+    },
+    {
+      "id": 475,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "&TEAM",
+      "searchTerms": ""
+    },
+    {
+      "id": 476,
+      "nameKR": "예준",
+      "nameEN": "Yejun",
+      "group": "&TEAM",
+      "searchTerms": "예준 Yejun"
+    },
+    {
+      "id": 477,
+      "nameKR": "노아",
+      "nameEN": "Noah",
+      "group": "PLAVE",
+      "searchTerms": "노아 Noah"
+    },
+    {
+      "id": 478,
+      "nameKR": "밤비",
+      "nameEN": "Bamby",
+      "group": "PLAVE",
+      "searchTerms": "밤비 Bamby"
+    },
+    {
+      "id": 479,
+      "nameKR": "은호",
+      "nameEN": "Eunho",
+      "group": "PLAVE",
+      "searchTerms": "은호 Eunho"
+    },
+    {
+      "id": 480,
+      "nameKR": "하민",
+      "nameEN": "Hamin",
+      "group": "PLAVE",
+      "searchTerms": "하민 Hamin"
+    },
+    {
+      "id": 481,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "PLAVE",
+      "searchTerms": ""
+    },
+    {
+      "id": 482,
+      "nameKR": "한빈",
+      "nameEN": "HANBIN",
+      "group": "PLAVE",
+      "searchTerms": "한빈 HANBIN응오 응옥 흥 응오응옥흥 Ngô Ngọc Hưng"
+    },
+    {
+      "id": 483,
+      "nameKR": "형섭",
+      "nameEN": "HYEONGSEOP",
+      "group": "TEMPEST",
+      "searchTerms": "형섭 HYEONGSEOP 안형섭 Ahn Hyeong Seop AhnHyeongSeop"
+    },
+    {
+      "id": 484,
+      "nameKR": "혁",
+      "nameEN": "HYUK",
+      "group": "TEMPEST",
+      "searchTerms": "혁 HYUK 구본혁 Koo Bonhyuk KooBonhyuk"
+    },
+    {
+      "id": 485,
+      "nameKR": "은찬",
+      "nameEN": "EUNCHAN",
+      "group": "TEMPEST",
+      "searchTerms": "은찬 HYUK 최병섭 Choi Byeong Seop ChoiByeongSeop"
+    },
+    {
+      "id": 486,
+      "nameKR": "LEW",
+      "nameEN": "LEW",
+      "group": "TEMPEST",
+      "searchTerms": "LEW 루 이의웅 의웅 Lee Euiwoong LeeEuiwoong"
+    },
+    {
+      "id": 487,
+      "nameKR": "화랑",
+      "nameEN": "HWARANG",
+      "group": "TEMPEST",
+      "searchTerms": "HWARANG 화랑 송재원 Song Jae Won SongJaeWon"
+    },
+    {
+      "id": 488,
+      "nameKR": "태래",
+      "nameEN": "TAERAE",
+      "group": "TEMPEST",
+      "searchTerms": "TAERAE 태래 김태래 Kim Tae Rae KimTaeRae"
+    },
+    {
+      "id": 489,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "TEMPEST",
+      "searchTerms": ""
+    },
+    {
+      "id": 490,
+      "nameKR": "성찬",
+      "nameEN": "SUNGCHAN",
+      "group": "TEMPEST",
+      "searchTerms": "성찬 SUNGCHAN 정성찬 Jung Sungchan JungSungchan"
+    },
+    {
+      "id": 491,
+      "nameKR": "승한",
+      "nameEN": "SEUNGHAN",
+      "group": "라이즈",
+      "searchTerms": "승한 SUNGCHAN 홍승한 Hong Seunghan HongSeunghan"
+    },
+    {
+      "id": 492,
+      "nameKR": "원빈",
+      "nameEN": "WONBIN",
+      "group": "라이즈",
+      "searchTerms": "원빈 WONBIN 박원빈 Park Wonbin ParkWonbin"
+    },
+    {
+      "id": 493,
+      "nameKR": "앤톤",
+      "nameEN": "ANTON",
+      "group": "라이즈",
+      "searchTerms": "앤톤 ANTON 찬영 이찬영 Lee Chanyoung LeeChanyoung"
+    },
+    {
+      "id": 494,
+      "nameKR": "소희",
+      "nameEN": "SOHEE",
+      "group": "라이즈",
+      "searchTerms": "소희 SOHEE 이소희 Lee Sohee"
+    },
+    {
+      "id": 495,
+      "nameKR": "쇼타로",
+      "nameEN": "SHOTARO",
+      "group": "라이즈",
+      "searchTerms": "쇼타로 SHOTARO 오사키 쇼타로 오사키쇼타로 Shotaro Osaki ShotaroOsaki"
+    },
+    {
+      "id": 496,
+      "nameKR": "은석",
+      "nameEN": "EUNSEOK",
+      "group": "라이즈",
+      "searchTerms": "은석 EUNSEOK 송은석 Song Eunseok SongEunseok"
+    },
+    {
+      "id": 497,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "라이즈",
+      "searchTerms": ""
+    },
+    {
+      "id": 498,
+      "nameKR": "이새롬",
+      "nameEN": "LEE SAEROM",
+      "group": "라이즈",
+      "searchTerms": "이새롬 LEE SAEROM 새롬 LEESAEROM"
+    },
+    {
+      "id": 499,
+      "nameKR": "송하영",
+      "nameEN": "SONG HAYOUNG",
+      "group": "프로미스나인",
+      "searchTerms": "송하영 SONG HAYOUNG SONGHAYOUNG 하영"
+    },
+    {
+      "id": 500,
+      "nameKR": "박지원",
+      "nameEN": "PARK JIWON",
+      "group": "프로미스나인",
+      "searchTerms": "박지원 지원 PARK JIWON PARKJIWON"
+    },
+    {
+      "id": 501,
+      "nameKR": "노지선",
+      "nameEN": "ROH JISUN",
+      "group": "프로미스나인",
+      "searchTerms": "노지선 지선 ROH JISUN ROHJISUN"
+    },
+    {
+      "id": 502,
+      "nameKR": "이서연",
+      "nameEN": "LEE SEOYEON",
+      "group": "프로미스나인",
+      "searchTerms": "이서연 서연 LEE SEOYEON LEESEOYEON"
+    },
+    {
+      "id": 503,
+      "nameKR": "이채영",
+      "nameEN": "LEE CHAEYOUNG",
+      "group": "프로미스나인",
+      "searchTerms": "이채영 채영 LEE CHAEYOUNG LEECHAEYOUNG"
+    },
+    {
+      "id": 504,
+      "nameKR": "이나경",
+      "nameEN": "LEE NAGYUNG",
+      "group": "프로미스나인",
+      "searchTerms": "이나경 나경 LEE NAGYUNG LEENAGYUNG"
+    },
+    {
+      "id": 505,
+      "nameKR": "백지헌",
+      "nameEN": "BAEK JIHEON",
+      "group": "프로미스나인",
+      "searchTerms": "백지헌 지헌 BAEK JIHEON BAEKJIHEON"
+    },
+    {
+      "id": 506,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "프로미스나인",
+      "searchTerms": ""
+    },
+    {
+      "id": 507,
+      "nameKR": "오준석",
+      "nameEN": "Oh Junseok",
+      "group": "프로미스나인",
+      "searchTerms": "오준석 준석 Oh Junseok OhJunseok"
+    },
+    {
+      "id": 508,
+      "nameKR": "류준민",
+      "nameEN": "Ryu Junmin",
+      "group": "ATBO",
+      "searchTerms": "류준민 준민 Ryu Junmin RyuJunmin"
+    },
+    {
+      "id": 509,
+      "nameKR": "배현준",
+      "nameEN": "Bae Hyunjun",
+      "group": "ATBO",
+      "searchTerms": "배현준 현준 Bae Hyunjun BaeHyunjun"
+    },
+    {
+      "id": 510,
+      "nameKR": "석락원",
+      "nameEN": "Seok Rakwon",
+      "group": "ATBO",
+      "searchTerms": "석락원 락원 Seok Rakwon SeokRakwon"
+    },
+    {
+      "id": 511,
+      "nameKR": "정승환",
+      "nameEN": "Jeong Seunghwan",
+      "group": "ATBO",
+      "searchTerms": "정승환 승환 Jeong Seunghwan JeongSeunghwan"
+    },
+    {
+      "id": 512,
+      "nameKR": "김연규",
+      "nameEN": "Kim Yeonkyu",
+      "group": "ATBO",
+      "searchTerms": "김연규 연규 Kim Yeonkyu KimYeonkyu"
+    },
+    {
+      "id": 513,
+      "nameKR": "원빈",
+      "nameEN": "Won Bin",
+      "group": "ATBO",
+      "searchTerms": "원빈 빈 Won Bin WonBin"
+    },
+    {
+      "id": 514,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "ATBO",
+      "searchTerms": ""
+    },
+    {
+      "id": 515,
+      "nameKR": "나나",
+      "nameEN": "NANA",
+      "group": "ATBO",
+      "searchTerms": "나나 권나연 나연 NANA Kwon Nayeon KwonNayeon"
+    },
+    {
+      "id": 516,
+      "nameKR": "우연",
+      "nameEN": "WOOYEON",
+      "group": "woo!ah!",
+      "searchTerms": "우연 박진경 진경 WOOYEON Park Jinkyoung ParkJinkyoung"
+    },
+    {
+      "id": 517,
+      "nameKR": "소라",
+      "nameEN": "SORA",
+      "group": "woo!ah!",
+      "searchTerms": "소라 Sakata Sora SORA 사카타 소라 사카타소라 정소라"
+    },
+    {
+      "id": 518,
+      "nameKR": "루시",
+      "nameEN": "LUCY",
+      "group": "woo!ah!",
+      "searchTerms": "루시 LUCY 김다은 다은 Kim Daeun KimDaeun"
+    },
+    {
+      "id": 519,
+      "nameKR": "민서",
+      "nameEN": "MINSEO",
+      "group": "woo!ah!",
+      "searchTerms": "민서 김민서 MINSEO Kim Minseo KimMinseo"
+    },
+    {
+      "id": 520,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "woo!ah!",
+      "searchTerms": ""
+    },
+    {
+      "id": 521,
+      "nameKR": "문정현",
+      "nameEN": "MUNJUNGHYUN",
+      "group": "woo!ah!",
+      "searchTerms": "문정현 정현 MUNJUNGHYUN MUN JUNGHYUN"
+    },
+    {
+      "id": 522,
+      "nameKR": "박지후",
+      "nameEN": "PARKJIHOO",
+      "group": "이븐",
+      "searchTerms": "박지후 지후 PARKJIHOO PARK JIHOO"
+    },
+    {
+      "id": 523,
+      "nameKR": "박한빈",
+      "nameEN": "PARKHANBIN",
+      "group": "이븐",
+      "searchTerms": "박한빈 한빈 PARKHANBIN PARK HANBIN"
+    },
+    {
+      "id": 524,
+      "nameKR": "유승언",
+      "nameEN": "YOOSEUNGEON",
+      "group": "이븐",
+      "searchTerms": "유승언 승언 YOOSEUNGEON YOO SEUNGEON"
+    },
+    {
+      "id": 525,
+      "nameKR": "이정현",
+      "nameEN": "LEEJEONGHYEON",
+      "group": "이븐",
+      "searchTerms": "이정현 정현 LEEJEONGHYEON LEE JEONGHYEON"
+    },
+    {
+      "id": 526,
+      "nameKR": "지윤서",
+      "nameEN": "JIYUNSEO",
+      "group": "이븐",
+      "searchTerms": "지윤서 윤서 JIYUNSEO JI YUNSEO"
+    },
+    {
+      "id": 527,
+      "nameKR": "케이타",
+      "nameEN": "KEITA",
+      "group": "이븐",
+      "searchTerms": "케이타 KEITA 테라조노 케이타 테라조노케이타 Terazono Keita"
+    },
+    {
+      "id": 528,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "이븐",
+      "searchTerms": ""
+    },
+    {
+      "id": 529,
+      "nameKR": "지유",
+      "nameEN": "JIU",
+      "group": "이븐",
+      "searchTerms": "지유 JIU 김민지 민지 Kim Minji KimMinji"
+    },
+    {
+      "id": 530,
+      "nameKR": "수아",
+      "nameEN": "SUA",
+      "group": "드림캐쳐",
+      "searchTerms": "수아 SUA 김보라 보라 Kim Bora KimBora"
+    },
+    {
+      "id": 531,
+      "nameKR": "시연",
+      "nameEN": "SIYEON",
+      "group": "드림캐쳐",
+      "searchTerms": "시연 SIYEON 이시연 Lee Siyeon"
+    },
+    {
+      "id": 532,
+      "nameKR": "유현",
+      "nameEN": "YOOHYEON",
+      "group": "드림캐쳐",
+      "searchTerms": "유현 YOOHYEON 김유현 Kim Yoohyeon KimYoohyeon"
+    },
+    {
+      "id": 533,
+      "nameKR": "다미",
+      "nameEN": "DAMI",
+      "group": "드림캐쳐",
+      "searchTerms": "다미 DAMI 이유빈 Lee Yubin 유빈 LeeYubin"
+    },
+    {
+      "id": 534,
+      "nameKR": "한동",
+      "nameEN": "HANDONG",
+      "group": "드림캐쳐",
+      "searchTerms": "한동 HANDONG Hán Dōng 韩东"
+    },
+    {
+      "id": 535,
+      "nameKR": "가현",
+      "nameEN": "GAHYEON",
+      "group": "드림캐쳐",
+      "searchTerms": "가현 GAHYEON 이가현 Lee Gahyun LeeGahyun"
+    },
+    {
+      "id": 536,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "드림캐쳐",
+      "searchTerms": ""
+    },
+    {
+      "id": 537,
+      "nameKR": "이대열",
+      "nameEN": "LeeDaeYeol",
+      "group": "드림캐쳐",
+      "searchTerms": "이대열 대열 LeeDaeYeol Lee DaeYeol"
+    },
+    {
+      "id": 538,
+      "nameKR": "Y",
+      "nameEN": "Y",
+      "group": "골든차일드",
+      "searchTerms": "Y 와이 최성윤 성윤 Choi Sungyun ChoiSungyun"
+    },
+    {
+      "id": 539,
+      "nameKR": "이장준",
+      "nameEN": "LeeJangJun",
+      "group": "골든차일드",
+      "searchTerms": "이장준 장준 LEE JANG JUN LEE JANGJUN LeeJangJun"
+    },
+    {
+      "id": 540,
+      "nameKR": "TAG",
+      "nameEN": "TAG",
+      "group": "골든차일드",
+      "searchTerms": "TAG 태그 손영택 영택 Son Youngtaek SonYoungtaek"
+    },
+    {
+      "id": 541,
+      "nameKR": "배승민",
+      "nameEN": "BaeSeungMin",
+      "group": "골든차일드",
+      "searchTerms": "배승민 승민 BaeSeungMin Bae SeungMin"
+    },
+    {
+      "id": 542,
+      "nameKR": "봉재현",
+      "nameEN": "BongJaeHyun",
+      "group": "골든차일드",
+      "searchTerms": "봉재현 재현 BongJaeHyun Bong JaeHyun"
+    },
+    {
+      "id": 543,
+      "nameKR": "김지범",
+      "nameEN": "KimJiBeom",
+      "group": "골든차일드",
+      "searchTerms": "김지범 지범 KimJiBeom  Kim JiBeom"
+    },
+    {
+      "id": 544,
+      "nameKR": "김동현",
+      "nameEN": "KimDongHyun",
+      "group": "골든차일드",
+      "searchTerms": "김동현 동현 KimDongHyun Kim DongHyun"
+    },
+    {
+      "id": 545,
+      "nameKR": "홍주찬",
+      "nameEN": "HongJooChan",
+      "group": "골든차일드",
+      "searchTerms": "홍주찬 주찬 HongJooChan Hong JooChan"
+    },
+    {
+      "id": 546,
+      "nameKR": "최보민",
+      "nameEN": "ChoiBoMin",
+      "group": "골든차일드",
+      "searchTerms": "최보민 보민 ChoiBoMin Choi BoMin"
+    },
+    {
+      "id": 547,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "골든차일드",
+      "searchTerms": ""
+    },
+    {
+      "id": 548,
+      "nameKR": "장대현",
+      "nameEN": "JANGDAEHYEON",
+      "group": "골든차일드",
+      "searchTerms": "장대현 대현 JANGDAEHYEON JANG DAEHYEON"
+    },
+    {
+      "id": 549,
+      "nameKR": "김동한",
+      "nameEN": "KIMDONGHAN",
+      "group": "위아이",
+      "searchTerms": "김동한 동한 KIMDONGHAN KIM DONGHAN"
+    },
+    {
+      "id": 550,
+      "nameKR": "유용하",
+      "nameEN": "YOOYONGHA",
+      "group": "위아이",
+      "searchTerms": "유용하 용하 YOOYONGHA YOO YONGHA"
+    },
+    {
+      "id": 551,
+      "nameKR": "김요한",
+      "nameEN": "KIMYOHAN",
+      "group": "위아이",
+      "searchTerms": "김요한 요한 KIMYOHAN KIM YOHAN"
+    },
+    {
+      "id": 552,
+      "nameKR": "강석화",
+      "nameEN": "KANGSEOKHWA",
+      "group": "위아이",
+      "searchTerms": "강석화 석화 KANGSEOKHWA KANG SEOKHWA"
+    },
+    {
+      "id": 553,
+      "nameKR": "김준서",
+      "nameEN": "KIMJUNSEO",
+      "group": "위아이",
+      "searchTerms": "김준서 준서 KIMJUNSEO  KIM JUNSEO"
+    },
+    {
+      "id": 554,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "위아이",
+      "searchTerms": ""
+    },
+    {
+      "id": 555,
+      "nameKR": "동건",
+      "nameEN": "DONG GEON",
+      "group": "위아이",
+      "searchTerms": "동건 송동건 DONG GEON DONGGEON SONGDONGGEON"
+    },
+    {
+      "id": 556,
+      "nameKR": "찬",
+      "nameEN": "CHAN",
+      "group": "TO1",
+      "searchTerms": "찬 조찬혁 찬혁 Cho Chanhyuk ChoChanhyuk"
+    },
+    {
+      "id": 557,
+      "nameKR": "지수",
+      "nameEN": "JI SU",
+      "group": "TO1",
+      "searchTerms": "지수 최지수 Choi Jisu ChoiJisu"
+    },
+    {
+      "id": 558,
+      "nameKR": "재윤",
+      "nameEN": "JAE YUN",
+      "group": "TO1",
+      "searchTerms": "재윤 이재윤 Lee Jaeyun LeeJaeyun"
+    },
+    {
+      "id": 559,
+      "nameKR": "제이유",
+      "nameEN": "J.YOU",
+      "group": "TO1",
+      "searchTerms": "제이유 제유 김제유 Kim Jeyou KimJeyou"
+    },
+    {
+      "id": 560,
+      "nameKR": "경호",
+      "nameEN": "KYUNG HO",
+      "group": "TO1",
+      "searchTerms": "경호 장경호 Jang Kyungho JangKyungho"
+    },
+    {
+      "id": 561,
+      "nameKR": "다이고",
+      "nameEN": "DAIGO",
+      "group": "TO1",
+      "searchTerms": "다이고 코바야시 다이고 코바야시다이고 Kobayashi Daigo KobayashiDaigo"
+    },
+    {
+      "id": 562,
+      "nameKR": "여정",
+      "nameEN": "YEO JEONG",
+      "group": "TO1",
+      "searchTerms": "여정 전여여정 Jeon Yeoyeojeong JeonYeoyeojeong"
+    },
+    {
+      "id": 563,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "TO1",
+      "searchTerms": ""
+    },
+    {
+      "id": 564,
+      "nameKR": "이특",
+      "nameEN": "LEETEUK",
+      "group": "TO1",
+      "searchTerms": "이특 박정수 정수 LEETEUK Park Jungsoo ParkJungsoo"
+    },
+    {
+      "id": 565,
+      "nameKR": "희철",
+      "nameEN": "HEECHUL",
+      "group": "슈퍼주니어",
+      "searchTerms": "희철 김희철 HEECHUL KIMHEECHUL KIM HEECHUL"
+    },
+    {
+      "id": 566,
+      "nameKR": "예성",
+      "nameEN": "YESUNG",
+      "group": "슈퍼주니어",
+      "searchTerms": "예성 김종운 종운 김강훈 강훈 Kim Kanghoon YESUNG"
+    },
+    {
+      "id": 567,
+      "nameKR": "신동",
+      "nameEN": "SHINDONG",
+      "group": "슈퍼주니어",
+      "searchTerms": "신동 신동희 Shin Donghee ShinDonghee SHINDONG"
+    },
+    {
+      "id": 568,
+      "nameKR": "은혁",
+      "nameEN": "EUNHYUK",
+      "group": "슈퍼주니어",
+      "searchTerms": "은혁 이혁재 혁재 Lee Hyukjae Lee Hyukjae EUNHYUK"
+    },
+    {
+      "id": 569,
+      "nameKR": "동해",
+      "nameEN": "DONGHAE",
+      "group": "슈퍼주니어",
+      "searchTerms": "동해 이동해 DONGHAE LEEDONGHAE LEE DONGHAE"
+    },
+    {
+      "id": 570,
+      "nameKR": "시원",
+      "nameEN": "SIWON",
+      "group": "슈퍼주니어",
+      "searchTerms": "시원 최시원 SIWON CHOI SIWON CHOISIWON"
+    },
+    {
+      "id": 571,
+      "nameKR": "려욱",
+      "nameEN": "RYEOWOOK",
+      "group": "슈퍼주니어",
+      "searchTerms": "려욱 김려욱 RYEOWOOK KIMRYEOWOOK KIM RYEOWOOK"
+    },
+    {
+      "id": 572,
+      "nameKR": "규현",
+      "nameEN": "KYUHYUN",
+      "group": "슈퍼주니어",
+      "searchTerms": "규현 조규현 KYUHYUN  CHO KYUHYUN  CHOKYUHYUN"
+    },
+    {
+      "id": 573,
+      "nameKR": "성민",
+      "nameEN": "SUNGMIN",
+      "group": "슈퍼주니어",
+      "searchTerms": "성민 이성민 LEE SUNGMIN LEESUNGMIN"
+    },
+    {
+      "id": 574,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "슈퍼주니어",
+      "searchTerms": ""
+    },
+    {
+      "id": 575,
+      "nameKR": "김성규",
+      "nameEN": "KimSungKyu",
+      "group": "인피니트",
+      "searchTerms": "김성규 성규 KimSungKyu  Kim SungKyu"
+    },
+    {
+      "id": 576,
+      "nameKR": "장동우",
+      "nameEN": "JangDongWoo",
+      "group": "인피니트",
+      "searchTerms": "장동우 동우 JangDongWoo Jang DongWoo"
+    },
+    {
+      "id": 577,
+      "nameKR": "남우현",
+      "nameEN": "NamWooHyun",
+      "group": "인피니트",
+      "searchTerms": "남우현 우현 NamWooHyun Nam WooHyun"
+    },
+    {
+      "id": 578,
+      "nameKR": "이성열",
+      "nameEN": "LeeSungYeol",
+      "group": "인피니트",
+      "searchTerms": "이성열 성열 LeeSungYeol Lee SungYeol"
+    },
+    {
+      "id": 579,
+      "nameKR": "엘",
+      "nameEN": "L",
+      "group": "인피니트",
+      "searchTerms": "엘 김명수 명수 L  Kim Myungsoo KimMyungsoo"
+    },
+    {
+      "id": 580,
+      "nameKR": "이성종",
+      "nameEN": "LeeSeongJong",
+      "group": "인피니트",
+      "searchTerms": "이성종 성종 LeeSeongJong Lee SeongJong"
+    },
+    {
+      "id": 581,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "인피니트",
+      "searchTerms": ""
+    },
+    {
+      "id": 582,
+      "nameKR": "JAY B",
+      "nameEN": "JAY B",
+      "group": "GOT7",
+      "searchTerms": "제이비 임재범 재범 JAY B Lim Jaebeom LimJaebeom"
+    },
+    {
+      "id": 583,
+      "nameKR": "마크",
+      "nameEN": "Mark",
+      "group": "GOT7",
+      "searchTerms": "마크 투안 마크투안 마크이은투안 마크이엔투안  단의은 MARK TUAN Mark Yien Tuan"
+    },
+    {
+      "id": 584,
+      "nameKR": "잭슨",
+      "nameEN": "Jackson",
+      "group": "GOT7",
+      "searchTerms": "잭슨 왕잭슨 Jackson Wang JacksonWang"
+    },
+    {
+      "id": 585,
+      "nameKR": "박진영",
+      "nameEN": "ParkJinYoung",
+      "group": "GOT7",
+      "searchTerms": "박진영 진영 ParkJinYoung Park JinYoung"
+    },
+    {
+      "id": 586,
+      "nameKR": "영재",
+      "nameEN": "YOUNGJAE",
+      "group": "GOT7",
+      "searchTerms": "영재 최영재 YOUNGJAE Choi Youngjae ChoiYoungjae"
+    },
+    {
+      "id": 587,
+      "nameKR": "뱀뱀",
+      "nameEN": "BamBam",
+      "group": "GOT7",
+      "searchTerms": "뱀뱀 쿤피묵부와클뱀뱀 쿤피묵부와클 쿤피묵 부와클 뱀뱀 Kunpimook Bhuwakul 깐피묵 푸와꾼"
+    },
+    {
+      "id": 588,
+      "nameKR": "유겸",
+      "nameEN": "YUGYEOM",
+      "group": "GOT7",
+      "searchTerms": "김유겸 유겸 Kim Yugyeom KimYugyeom"
+    },
+    {
+      "id": 589,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "GOT7",
+      "searchTerms": ""
+    },
+    {
+      "id": 590,
+      "nameKR": "박초롱",
+      "nameEN": "ChoRong",
+      "group": "에이핑크",
+      "searchTerms": "박초롱 초롱 PARK CHORONG PARKCHORONG"
+    },
+    {
+      "id": 591,
+      "nameKR": "윤보미",
+      "nameEN": "BoMi",
+      "group": "에이핑크",
+      "searchTerms": "윤보미 보미 YOON BOMI YOONBOMI"
+    },
+    {
+      "id": 592,
+      "nameKR": "정은지",
+      "nameEN": "EunJi",
+      "group": "에이핑크",
+      "searchTerms": "정은지 은지 JEONG EUNJI JEONGEUNJI"
+    },
+    {
+      "id": 593,
+      "nameKR": "김남주",
+      "nameEN": "NamJoo",
+      "group": "에이핑크",
+      "searchTerms": "김남주 남주 KIMNAMJOO KIM NAMJOO"
+    },
+    {
+      "id": 594,
+      "nameKR": "오하영",
+      "nameEN": "HaYoung",
+      "group": "에이핑크",
+      "searchTerms": "오하영 하영 OH HAYOUNG OHHAYOUNG"
+    },
+    {
+      "id": 595,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "에이핑크",
+      "searchTerms": ""
+    },
+    {
+      "id": 596,
+      "nameKR": "강승윤",
+      "nameEN": "YOON",
+      "group": "WINNER",
+      "searchTerms": "강승윤 승윤 YOON Kang Seungyoon KangSeungyoon"
+    },
+    {
+      "id": 597,
+      "nameKR": "김진우",
+      "nameEN": "JINU",
+      "group": "WINNER",
+      "searchTerms": "김진우 진우 JINU KimJinwoo Kim Jinwoo"
+    },
+    {
+      "id": 598,
+      "nameKR": "송민호",
+      "nameEN": "MINO",
+      "group": "WINNER",
+      "searchTerms": "송민호 민호 MINO Song Minho SongMinho"
+    },
+    {
+      "id": 599,
+      "nameKR": "이승훈",
+      "nameEN": "HOONY",
+      "group": "WINNER",
+      "searchTerms": "이승훈 승훈 HOONY Lee Seunghoon LeeSeunghoon"
+    },
+    {
+      "id": 600,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "WINNER",
+      "searchTerms": ""
+    },
+    {
+      "id": 601,
+      "nameKR": "재윤",
+      "nameEN": "JAE YUN",
+      "group": "8TURN",
+      "searchTerms": "재윤 문재윤 JAE YUN JAEYUN MoonJaeyun"
+    },
+    {
+      "id": 602,
+      "nameKR": "명호",
+      "nameEN": "MYUNG HO",
+      "group": "8TURN",
+      "searchTerms": "명호 지명호 Ji Myungho  JiMyungho"
+    },
+    {
+      "id": 603,
+      "nameKR": "민호",
+      "nameEN": "MIN HO",
+      "group": "8TURN",
+      "searchTerms": "민호 양민호 Yang Minho YangMinho"
+    },
+    {
+      "id": 604,
+      "nameKR": "윤성",
+      "nameEN": "YOON SUNG",
+      "group": "8TURN",
+      "searchTerms": "윤성 조윤성 Cho Yoonsung ChoYoonsung"
+    },
+    {
+      "id": 605,
+      "nameKR": "해민",
+      "nameEN": "HAE MIN",
+      "group": "8TURN",
+      "searchTerms": "해민 정해민 Jung Haemin JungHaemin"
+    },
+    {
+      "id": 606,
+      "nameKR": "경민",
+      "nameEN": "KYUNG MIN",
+      "group": "8TURN",
+      "searchTerms": "경민 조경민 Cho Kyungmin ChoKyungmin"
+    },
+    {
+      "id": 607,
+      "nameKR": "윤규",
+      "nameEN": "YUN GYU",
+      "group": "8TURN",
+      "searchTerms": "윤규 이윤규 Lee Yungyu LeeYungyu"
+    },
+    {
+      "id": 608,
+      "nameKR": "승헌",
+      "nameEN": "SEUNG HEON",
+      "group": "8TURN",
+      "searchTerms": "승헌 이승헌 Lee Seungheon LeeSeungheon"
+    },
+    {
+      "id": 609,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "8TURN",
+      "searchTerms": ""
+    },
+    {
+      "id": 610,
+      "nameKR": "이유",
+      "nameEN": "E:U",
+      "group": "EVERGLOW",
+      "searchTerms": "이유 박지원 지원 Park Jiwon ParkJiwon E:U"
+    },
+    {
+      "id": 611,
+      "nameKR": "시현",
+      "nameEN": "SIHYEON",
+      "group": "EVERGLOW",
+      "searchTerms": "시현 김시현 Kim Sihyeon KimSihyeon"
+    },
+    {
+      "id": 612,
+      "nameKR": "미아",
+      "nameEN": "MIA",
+      "group": "EVERGLOW",
+      "searchTerms": "미아 MIA 한은지 Han Eunji HanEunji"
+    },
+    {
+      "id": 613,
+      "nameKR": "온다",
+      "nameEN": "ONDA",
+      "group": "EVERGLOW",
+      "searchTerms": "온다 조세림 ONDA Cho Serim ChoSerim"
+    },
+    {
+      "id": 614,
+      "nameKR": "아샤",
+      "nameEN": "AISHA",
+      "group": "EVERGLOW",
+      "searchTerms": "아샤 Hur Yurim HurYurim 허유림 유림 AISHA"
+    },
+    {
+      "id": 615,
+      "nameKR": "이런",
+      "nameEN": "YIREN",
+      "group": "EVERGLOW",
+      "searchTerms": "이런 왕이런 YIREN 王怡人"
+    },
+    {
+      "id": 616,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "EVERGLOW",
+      "searchTerms": ""
+    },
+    {
+      "id": 617,
+      "nameKR": "쥴리",
+      "nameEN": "JULIE",
+      "group": "KISSOFLIFE",
+      "searchTerms": "쥴리 한 쥴리한 Julie Han  JULIE"
+    },
+    {
+      "id": 618,
+      "nameKR": "나띠",
+      "nameEN": "NATTY",
+      "group": "KISSOFLIFE",
+      "searchTerms": "나띠 NATTY Ahnatchaya Suputhipong 아낫차야 수푸티퐁"
+    },
+    {
+      "id": 619,
+      "nameKR": "벨",
+      "nameEN": "BELLE",
+      "group": "KISSOFLIFE",
+      "searchTerms": "벨 BELLE 심혜원 Shim Hyewon ShimHyewon Annabelle Shim 애나벨 심"
+    },
+    {
+      "id": 620,
+      "nameKR": "하늘",
+      "nameEN": "HANEUL",
+      "group": "KISSOFLIFE",
+      "searchTerms": "하늘 원하늘 Won Haneul WonHaneul"
+    },
+    {
+      "id": 621,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "KISSOFLIFE",
+      "searchTerms": ""
+    },
+    {
+      "id": 622,
+      "nameKR": "권은비",
+      "nameEN": "KWONEUNBI",
+      "group": "아이즈원",
+      "searchTerms": "권은비 은비 KWONEUNBI KWON EUNBI"
+    },
+    {
+      "id": 623,
+      "nameKR": "강혜원",
+      "nameEN": "KANGHYEWON",
+      "group": "아이즈원",
+      "searchTerms": "강혜원 혜원 KANGHYEWON KANG HYEWON"
+    },
+    {
+      "id": 624,
+      "nameKR": "최예나",
+      "nameEN": "CHOIYENA",
+      "group": "아이즈원",
+      "searchTerms": "최예나 예나 CHOIYENA  CHOI YENA"
+    },
+    {
+      "id": 625,
+      "nameKR": "이채연",
+      "nameEN": "LEECHAEYEON",
+      "group": "아이즈원",
+      "searchTerms": "이채연 채연 LEECHAEYEON LEE CHAEYEON"
+    },
+    {
+      "id": 626,
+      "nameKR": "김채원",
+      "nameEN": "KIMCHAEWON",
+      "group": "아이즈원",
+      "searchTerms": "김채원 채원 KIMCHAEWON KIM CHAEWON"
+    },
+    {
+      "id": 627,
+      "nameKR": "김민주",
+      "nameEN": "KIMMINJU",
+      "group": "아이즈원",
+      "searchTerms": "김민주 민주 KIMMINJU KIM MINJU"
+    },
+    {
+      "id": 628,
+      "nameKR": "야부키 나코",
+      "nameEN": "YABUKI NAKO",
+      "group": "아이즈원",
+      "searchTerms": "나코 야부키나코 야부키 나코 YABUKI NAKO YABUKINAKO"
+    },
+    {
+      "id": 629,
+      "nameKR": "혼다 히토미",
+      "nameEN": "HONDA HITOMI",
+      "group": "아이즈원",
+      "searchTerms": "히토미 혼다히토미 혼다 히토미 HONDA HITOMI HONDAHITOMI"
+    },
+    {
+      "id": 630,
+      "nameKR": "조유리",
+      "nameEN": "JOYURI",
+      "group": "아이즈원",
+      "searchTerms": "조유리 유리 JOYURI JO YURI"
+    },
+    {
+      "id": 631,
+      "nameKR": "안유진",
+      "nameEN": "ANYUJIN",
+      "group": "아이즈원",
+      "searchTerms": "안유진 유진 ANYUJIN AN YUJIN"
+    },
+    {
+      "id": 632,
+      "nameKR": "장원영",
+      "nameEN": "JANGWONYOUNG",
+      "group": "아이즈원",
+      "searchTerms": "장원영 원영 JANGWONYOUNG JANG WONYOUNG"
+    },
+    {
+      "id": 633,
+      "nameKR": "사쿠라",
+      "nameEN": "SAKURA",
+      "group": "아이즈원",
+      "searchTerms": "사쿠라 みやわきさくら 미야와키 사쿠라 미야와키사쿠라 SAKURA"
+    },
+    {
+      "id": 634,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "아이즈원",
+      "searchTerms": ""
+    },
+    {
+      "id": 635,
+      "nameKR": "강혜원",
+      "nameEN": "KANGHYEWON",
+      "group": "강혜원",
+      "searchTerms": "강혜원 혜원 KANGHYEWON KANG HYEWON"
+    },
+    {
+      "id": 636,
+      "nameKR": "권은비",
+      "nameEN": "KWONEUNBI",
+      "group": "권은비",
+      "searchTerms": "권은비 은비 KWONEUNBI KWON EUNBI"
+    },
+    {
+      "id": 637,
+      "nameKR": "김민주",
+      "nameEN": "KIMMINJU",
+      "group": "김민주",
+      "searchTerms": "김민주 민주 KIMMINJU KIM MINJU"
+    },
+    {
+      "id": 638,
+      "nameKR": "이채연",
+      "nameEN": "LEECHAEYEON",
+      "group": "이채연",
+      "searchTerms": "이채연 채연 LEECHAEYEON LEE CHAEYEON"
+    },
+    {
+      "id": 639,
+      "nameKR": "차준호",
+      "nameEN": "CHAJUNHO",
+      "group": "드리핀",
+      "searchTerms": "차준호 준호 CHAJUNHO CHA JUNHO"
+    },
+    {
+      "id": 640,
+      "nameKR": "황윤성",
+      "nameEN": "HWANGYUNSEONG",
+      "group": "드리핀",
+      "searchTerms": "황윤성 윤성 HWANGYUNSEONG HWANG YUNSEONG"
+    },
+    {
+      "id": 641,
+      "nameKR": "김동윤",
+      "nameEN": "KIMDONGYUN",
+      "group": "드리핀",
+      "searchTerms": "김동윤 동윤 KIMDONGYUN KIM DONGYUN"
+    },
+    {
+      "id": 642,
+      "nameKR": "이협",
+      "nameEN": "LEEHYEOP",
+      "group": "드리핀",
+      "searchTerms": "이협 협 LEEHYEOP LEE HYEOP"
+    },
+    {
+      "id": 643,
+      "nameKR": "주창욱",
+      "nameEN": "JOOCHANGUK",
+      "group": "드리핀",
+      "searchTerms": "주창욱 창욱 JOOCHANGUK JOOC HANGUK"
+    },
+    {
+      "id": 644,
+      "nameKR": "김민서",
+      "nameEN": "KIMMINSEO",
+      "group": "드리핀",
+      "searchTerms": "김민서 민서 KIMMINSEO KIM MINSEO"
+    },
+    {
+      "id": 645,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "드리핀",
+      "searchTerms": ""
+    },
+    {
+      "id": 646,
+      "nameKR": "이준혁",
+      "nameEN": "Lee Jun Hyuk",
+      "group": "미래소년",
+      "searchTerms": "이준혁 준혁 Lee Jun Hyuk LeeJunHyuk Lee JunHyuk"
+    },
+    {
+      "id": 647,
+      "nameKR": "리안",
+      "nameEN": "LIEN",
+      "group": "미래소년",
+      "searchTerms": "리안 LIEN 시마다 쇼 시마다쇼 Sho Shimada"
+    },
+    {
+      "id": 648,
+      "nameKR": "유도현",
+      "nameEN": "Yoo Do Hyun",
+      "group": "미래소년",
+      "searchTerms": "유도현 도현 Yoo Do Hyun YooDoHyun Yoo DoHyun"
+    },
+    {
+      "id": 649,
+      "nameKR": "카엘",
+      "nameEN": "KHAEL",
+      "group": "미래소년",
+      "searchTerms": "카엘 KHAEL 이상민 상민 Lee Sangmin LeeSangmin"
+    },
+    {
+      "id": 650,
+      "nameKR": "손동표",
+      "nameEN": "Son Dong Pyo",
+      "group": "미래소년",
+      "searchTerms": "손동표 동표 Son Dong Pyo SonDongPyo Son DongPyo"
+    },
+    {
+      "id": 651,
+      "nameKR": "박시영",
+      "nameEN": "Park Si Young",
+      "group": "미래소년",
+      "searchTerms": "박시영 시영 Park SiYoung ParkSiYoung Park Si Young"
+    },
+    {
+      "id": 652,
+      "nameKR": "장유빈",
+      "nameEN": "Jang Yu Bin",
+      "group": "미래소년",
+      "searchTerms": "장유빈 유빈 Jang Yu Bin JangYuBin Jang YuBin"
+    },
+    {
+      "id": 653,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "미래소년",
+      "searchTerms": ""
+    },
+    {
+      "id": 654,
+      "nameKR": "태연",
+      "nameEN": "TAEYEON",
+      "group": "소녀시대",
+      "searchTerms": "태연 김태연 TAEYEON KIMTAEYEON KIM TAEYEON"
+    },
+    {
+      "id": 655,
+      "nameKR": "써니",
+      "nameEN": "SUNNY",
+      "group": "소녀시대",
+      "searchTerms": "써니 SUNNY 이순규 순규 Lee Soonkyu LeeSoonkyu"
+    },
+    {
+      "id": 656,
+      "nameKR": "티파니",
+      "nameEN": "TIFFANY",
+      "group": "소녀시대",
+      "searchTerms": "티파니 영 티파니영 Stephanie Young Hwang 스테파니 영 황 황미영 Hwang MiYoung HwangMiYoung"
+    },
+    {
+      "id": 657,
+      "nameKR": "효연",
+      "nameEN": "HYO",
+      "group": "소녀시대",
+      "searchTerms": "효연 김효연 HYO Kim Hyoyeon KimHyoyeon"
+    },
+    {
+      "id": 658,
+      "nameKR": "유리",
+      "nameEN": "YURI",
+      "group": "소녀시대",
+      "searchTerms": "유리 권유리 YURI Kwon Yuri KwonYuri"
+    },
+    {
+      "id": 659,
+      "nameKR": "수영",
+      "nameEN": "SOOYOUNG",
+      "group": "소녀시대",
+      "searchTerms": "수영 최수영 Choi Sooyoung ChoiSooyoung"
+    },
+    {
+      "id": 660,
+      "nameKR": "윤아",
+      "nameEN": "YOONA",
+      "group": "소녀시대",
+      "searchTerms": "윤아 임윤아 YOONA Lim Yoona LimYoona"
+    },
+    {
+      "id": 661,
+      "nameKR": "서현",
+      "nameEN": "SEOHYUN",
+      "group": "소녀시대",
+      "searchTerms": "서현 서주현 SEOHYUN Seo Juhyun SeoJuhyun"
+    },
+    {
+      "id": 662,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "소녀시대",
+      "searchTerms": ""
+    },
+    {
+      "id": 663,
+      "nameKR": "은호",
+      "nameEN": "EUNHO",
+      "group": "YOUNITE",
+      "searchTerms": "은호 명은호 Myung Eunho MyungEunho"
+    },
+    {
+      "id": 664,
+      "nameKR": "스티브",
+      "nameEN": "STEVE",
+      "group": "YOUNITE",
+      "searchTerms": "스티브 STEVE 스티브 임 스티브임 Steve Lim 임도현 Lim Dohyun LimDohyun"
+    },
+    {
+      "id": 665,
+      "nameKR": "현승",
+      "nameEN": "HYUNSEUNG",
+      "group": "YOUNITE",
+      "searchTerms": "현승 김현승 Kim Hyunseung KimHyunseung"
+    },
+    {
+      "id": 666,
+      "nameKR": "은상",
+      "nameEN": "EUNSANG",
+      "group": "YOUNITE",
+      "searchTerms": "은상 이은상  Lee Eunsang  LeeEunsang"
+    },
+    {
+      "id": 667,
+      "nameKR": "형석",
+      "nameEN": "HYUNGSEOK",
+      "group": "YOUNITE",
+      "searchTerms": "형석 송형석 Song Hyungseok SongHyungseok"
+    },
+    {
+      "id": 668,
+      "nameKR": "우노",
+      "nameEN": "WOONO",
+      "group": "YOUNITE",
+      "searchTerms": "우노 홍원호 원호 Hong Wonho HongWonho"
+    },
+    {
+      "id": 669,
+      "nameKR": "DEY",
+      "nameEN": "DEY",
+      "group": "YOUNITE",
+      "searchTerms": "DEY 데이 김세현 세현 Kim Sehyeon KimSehyeon"
+    },
+    {
+      "id": 670,
+      "nameKR": "경문",
+      "nameEN": "KYUNGMUN",
+      "group": "YOUNITE",
+      "searchTerms": "경문 임경문 Lim Kyungmun LimKyungmun"
+    },
+    {
+      "id": 671,
+      "nameKR": "시온",
+      "nameEN": "SION",
+      "group": "YOUNITE",
+      "searchTerms": "시온 SION 김시온 Kim Sion KimSion"
+    },
+    {
+      "id": 672,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "YOUNITE",
+      "searchTerms": ""
+    },
+    {
+      "id": 673,
+      "nameKR": "신유",
+      "nameEN": "SHINYU",
+      "group": "TWS",
+      "searchTerms": "신유 SHINYU 신정환 Shin Junghwan ShinJunghwan"
+    },
+    {
+      "id": 674,
+      "nameKR": "도훈",
+      "nameEN": "DOHOON",
+      "group": "TWS",
+      "searchTerms": "도훈 DOHOON 김도훈 Kim Dohoon KimDohoon"
+    },
+    {
+      "id": 675,
+      "nameKR": "영재",
+      "nameEN": "YOUNGJAE",
+      "group": "TWS",
+      "searchTerms": "영재 YOUNGJAE 최영재 Choi Youngjae ChoiYoungjae"
+    },
+    {
+      "id": 676,
+      "nameKR": "한진",
+      "nameEN": "HANJIN",
+      "group": "TWS",
+      "searchTerms": "한진 HANJIN 한쩐 hán zhèn 韩振"
+    },
+    {
+      "id": 677,
+      "nameKR": "지훈",
+      "nameEN": "JIHOON",
+      "group": "TWS",
+      "searchTerms": "지훈 JIHOON 한지훈 Han Jihoon HanJihoon"
+    },
+    {
+      "id": 678,
+      "nameKR": "경민",
+      "nameEN": "KYUNGMIN",
+      "group": "TWS",
+      "searchTerms": "경민 KYUNGMIN 이경민 Lee Kyungmin LeeKyungmin"
+    },
+    {
+      "id": 679,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "TWS",
+      "searchTerms": ""
+    },
+    {
+      "id": 680,
+      "nameKR": "소원",
+      "nameEN": "SOWON",
+      "group": "여자친구",
+      "searchTerms": "소원 김소원 김소정 소정 SOWON KIMSOWON KIM SOWON Kim Sojeong KimSojeong"
+    },
+    {
+      "id": 681,
+      "nameKR": "예린",
+      "nameEN": "YERIN",
+      "group": "여자친구",
+      "searchTerms": "예린 정예린 YERIN JUNGYERIN JUNG YERIN"
+    },
+    {
+      "id": 682,
+      "nameKR": "은하",
+      "nameEN": "EUNHA",
+      "group": "여자친구",
+      "searchTerms": "은하 EUNHA 정은비 은비 Jung Eunbi JungEunbi"
+    },
+    {
+      "id": 683,
+      "nameKR": "유주",
+      "nameEN": "YUJU",
+      "group": "여자친구",
+      "searchTerms": "유주 YUJU 최유나 유나 Choi Yuna ChoiYuna"
+    },
+    {
+      "id": 684,
+      "nameKR": "신비",
+      "nameEN": "SINB",
+      "group": "여자친구",
+      "searchTerms": "신비 황은비 sinb sin b HWANGEUNBI HWANG EUNBI"
+    },
+    {
+      "id": 685,
+      "nameKR": "엄지",
+      "nameEN": "UMJI",
+      "group": "여자친구",
+      "searchTerms": "엄지 김예원 kimyewon umji kim yewon"
+    },
+    {
+      "id": 686,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "여자친구",
+      "searchTerms": ""
+    },
+    {
+      "id": 687,
+      "nameKR": "김소원",
+      "nameEN": "KIM SO WON",
+      "group": "김소원",
+      "searchTerms": "소원 김소원 김소정 소정 SOWON KIMSOWON KIM SOWON Kim Sojeong KimSojeong"
+    },
+    {
+      "id": 688,
+      "nameKR": "예린",
+      "nameEN": "YERIN",
+      "group": "예린",
+      "searchTerms": "예린 정예린 YERIN JUNGYERIN JUNG YERIN"
+    },
+    {
+      "id": 689,
+      "nameKR": "유주",
+      "nameEN": "YUJU",
+      "group": "유주",
+      "searchTerms": "유주 YUJU 최유나 유나 Choi Yuna ChoiYuna"
+    },
+    {
+      "id": 690,
+      "nameKR": "김민성",
+      "nameEN": "KIMMINSEOUNG",
+      "group": "TIOT",
+      "searchTerms": "김민성 민성 KIMMINSEOUNG KIM MINSEOUNG"
+    },
+    {
+      "id": 691,
+      "nameKR": "금준현",
+      "nameEN": "KUMJUNHYEON",
+      "group": "TIOT",
+      "searchTerms": "금준현 준현 KUMJUNHYEON KUM JUNHYEON"
+    },
+    {
+      "id": 692,
+      "nameKR": "홍건희",
+      "nameEN": "HONGKEONHEE",
+      "group": "TIOT",
+      "searchTerms": "홍건희 건희 HONGKEONHEE HONG KEONHEE"
+    },
+    {
+      "id": 693,
+      "nameKR": "최우진",
+      "nameEN": "CHOIWOOJIN",
+      "group": "TIOT",
+      "searchTerms": "최우진 우진 CHOIWOOJIN CHOI WOOJIN"
+    },
+    {
+      "id": 694,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "TIOT",
+      "searchTerms": ""
+    },
+    {
+      "id": 695,
+      "nameKR": "제이민",
+      "nameEN": "J-MIN",
+      "group": "BAE173",
+      "searchTerms": "제이민 J-MIN 전민욱 Jeon Minwook JeonMinwook"
+    },
+    {
+      "id": 696,
+      "nameKR": "한결",
+      "nameEN": "HANGYUL",
+      "group": "BAE173",
+      "searchTerms": "한결 이한결 Lee Hangyul  LeeHangyul"
+    },
+    {
+      "id": 697,
+      "nameKR": "유준",
+      "nameEN": "YOOJUN",
+      "group": "BAE173",
+      "searchTerms": "유준 YOOJUN Jung Gun JungGun 정건"
+    },
+    {
+      "id": 698,
+      "nameKR": "무진",
+      "nameEN": "MUZIN",
+      "group": "BAE173",
+      "searchTerms": "무진 MUZIN 김현우 현우 Kim Hyunwoo KimHyunwoo"
+    },
+    {
+      "id": 699,
+      "nameKR": "준서",
+      "nameEN": "JUNSEO",
+      "group": "BAE173",
+      "searchTerms": "준서 JUNSEO 박준서 Park Junseo ParkJunseo"
+    },
+    {
+      "id": 700,
+      "nameKR": "영서",
+      "nameEN": "YOUNGSEO",
+      "group": "BAE173",
+      "searchTerms": "영서 YOUNGSEO 유영서 Yu Youngseo YuYoungseo"
+    },
+    {
+      "id": 701,
+      "nameKR": "도하",
+      "nameEN": "DOHA",
+      "group": "BAE173",
+      "searchTerms": "도하 DOHA 나규민 규민 Na Gyumin NaGyumin"
+    },
+    {
+      "id": 702,
+      "nameKR": "빛",
+      "nameEN": "BIT",
+      "group": "BAE173",
+      "searchTerms": "빛 BIT 노민재 민재 Rho Minjae RhoMinjae"
+    },
+    {
+      "id": 703,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "BAE173",
+      "searchTerms": ""
+    },
+    {
+      "id": 704,
+      "nameKR": "황민현",
+      "nameEN": "HWANG MIN HYUN",
+      "group": "황민현",
+      "searchTerms": "황민현 HWANG MIN HYUN 민현 HWANGMINHYUN"
+    },
+    {
+      "id": 705,
+      "nameKR": "김세정",
+      "nameEN": "KIM SEJEONG",
+      "group": "김세정",
+      "searchTerms": "김세정 세정 KIM SEJEONG KIMSEJEONG"
+    },
+    {
+      "id": 706,
+      "nameKR": "시온",
+      "nameEN": "SION",
+      "group": "NCT",
+      "searchTerms": "시온 SION 오시온 OHSION"
+    },
+    {
+      "id": 707,
+      "nameKR": "유우시",
+      "nameEN": "YUSHI",
+      "group": "NCT",
+      "searchTerms": "유우시 YUSHI 토쿠노 유우시 토쿠노유우시 Yushi Tokuno"
+    },
+    {
+      "id": 708,
+      "nameKR": "리쿠",
+      "nameEN": "RIKU",
+      "group": "NCT",
+      "searchTerms": "리쿠 RIKU 마에다리쿠 마에다 리쿠 Riku Maeda"
+    },
+    {
+      "id": 709,
+      "nameKR": "사쿠야",
+      "nameEN": "SAKUYA",
+      "group": "NCT",
+      "searchTerms": "사쿠야 Sakuya Fujinaga 후지나가 사쿠야"
+    },
+    {
+      "id": 710,
+      "nameKR": "료",
+      "nameEN": "RYO",
+      "group": "NCT",
+      "searchTerms": "료 RYO 히로세 료 Ryo Hirose 히로세료"
+    },
+    {
+      "id": 711,
+      "nameKR": "재희",
+      "nameEN": "JAEHEE",
+      "group": "NCT",
+      "searchTerms": "재희 JAEHEE Kim Daeyoung 김대영 대영 KimDaeyoung"
+    },
+    {
+      "id": 712,
+      "nameKR": "박지훈",
+      "nameEN": "PARK JI HOON",
+      "group": "박지훈",
+      "searchTerms": "박지훈 지훈 PARK JI HOON PARKJIHOON"
+    },
+    {
+      "id": 713,
+      "nameKR": "강다니엘",
+      "nameEN": "KANG DANIEL",
+      "group": "WannaOne",
+      "searchTerms": "강다니엘 KANG DANIEL"
+    },
+    {
+      "id": 714,
+      "nameKR": "박지훈",
+      "nameEN": "PARK JI HOON",
+      "group": "WannaOne",
+      "searchTerms": "박지훈 지훈 PARK JI HOON PARKJIHOON"
+    },
+    {
+      "id": 715,
+      "nameKR": "이대휘",
+      "nameEN": "LEE DAE HWI",
+      "group": "WannaOne",
+      "searchTerms": "이대휘 대휘 LEE DAE HWI  LEEDAEHWI"
+    },
+    {
+      "id": 716,
+      "nameKR": "김재환",
+      "nameEN": "KIM JAE HWAN",
+      "group": "WannaOne",
+      "searchTerms": "김재환 재환 KIM JAE HWAN KIMJAEHWAN"
+    },
+    {
+      "id": 717,
+      "nameKR": "옹성우",
+      "nameEN": "ONG SEONG WU",
+      "group": "WannaOne",
+      "searchTerms": "옹성우 ONG SEONG WU 성우 ONGSEONGWU"
+    },
+    {
+      "id": 718,
+      "nameKR": "박우진",
+      "nameEN": "PARK WOO JIN",
+      "group": "WannaOne",
+      "searchTerms": "박우진 우진  PARK WOO JIN PARKWOOJIN"
+    },
+    {
+      "id": 719,
+      "nameKR": "라이관린",
+      "nameEN": "LAI KUANLIN",
+      "group": "WannaOne",
+      "searchTerms": "라이관린 Lai Kuanlin 賴冠霖"
+    },
+    {
+      "id": 720,
+      "nameKR": "윤지성",
+      "nameEN": "YOON JI SUNG",
+      "group": "WannaOne",
+      "searchTerms": "윤지성 지성 YOON JISUNG YOONJISUNG Yoon Ji Sung"
+    },
+    {
+      "id": 721,
+      "nameKR": "황민현",
+      "nameEN": "HWANG MIN HYUN",
+      "group": "WannaOne",
+      "searchTerms": "황민현 민현 HWANG MIN HYUN HWANGMINHYUN"
+    },
+    {
+      "id": 722,
+      "nameKR": "배진영",
+      "nameEN": "BAE JIN YOUNG",
+      "group": "WannaOne",
+      "searchTerms": "배진영 진영 BAE JIN YOUNG BAEJINYOUNG"
+    },
+    {
+      "id": 723,
+      "nameKR": "하성운",
+      "nameEN": "HA SUNG WOON",
+      "group": "WannaOne",
+      "searchTerms": "하성운 성운 HA SUNG WOON HASUNGWOON"
+    },
+    {
+      "id": 724,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "WannaOne",
+      "searchTerms": ""
+    },
+    {
+      "id": 725,
+      "nameKR": "강다니엘",
+      "nameEN": "KANG DANIEL",
+      "group": "강다니엘",
+      "searchTerms": "강다니엘 KANG DANIEL"
+    },
+    {
+      "id": 726,
+      "nameKR": "김재환",
+      "nameEN": "KIM JAE HWAN",
+      "group": "김재환",
+      "searchTerms": "김재환 재환 KIM JAE HWAN KIMJAEHWAN"
+    },
+    {
+      "id": 727,
+      "nameKR": "옹성우",
+      "nameEN": "ONG SEONG WU",
+      "group": "옹성우",
+      "searchTerms": "옹성우 ONG SEONG WU 성우 ONGSEONGWU"
+    },
+    {
+      "id": 728,
+      "nameKR": "라이관린",
+      "nameEN": "LAI KUANLIN",
+      "group": "라이관린",
+      "searchTerms": "라이관린 Lai Kuanlin 賴冠霖"
+    },
+    {
+      "id": 729,
+      "nameKR": "윤지성",
+      "nameEN": "YOON JI SUNG",
+      "group": "윤지성",
+      "searchTerms": "윤지성 지성 YOON JISUNG YOONJISUNG Yoon Ji Sung"
+    },
+    {
+      "id": 730,
+      "nameKR": "하성운",
+      "nameEN": "HA SUNG WOON",
+      "group": "하성운",
+      "searchTerms": "하성운 성운 HA SUNG WOON HASUNGWOON"
+    },
+    {
+      "id": 731,
+      "nameKR": "한승우",
+      "nameEN": "HAN SEUNG WOO",
+      "group": "X1",
+      "searchTerms": "한승우 승우 HAN SEUNG WOO HANSEUNGWOO"
+    },
+    {
+      "id": 732,
+      "nameKR": "조승연",
+      "nameEN": "CHO SEUNG YOUN",
+      "group": "X1",
+      "searchTerms": "조승연 승연 CHO SEUNG YOUN CHOSEUNGYOUN"
+    },
+    {
+      "id": 733,
+      "nameKR": "김우석",
+      "nameEN": "KIM WOO SEOK",
+      "group": "X1",
+      "searchTerms": "김우석 우석 KIM WOO SEOK KIMWOOSEOK"
+    },
+    {
+      "id": 734,
+      "nameKR": "김요한",
+      "nameEN": "KIM YO HAN",
+      "group": "X1",
+      "searchTerms": "김요한 요한 KIM YO HAN KIMYOHAN"
+    },
+    {
+      "id": 735,
+      "nameKR": "이한결",
+      "nameEN": "LEE HAN GYUL",
+      "group": "X1",
+      "searchTerms": "이한결 한결 LEE HAN GYUL LEEHANGYUL"
+    },
+    {
+      "id": 736,
+      "nameKR": "차준호",
+      "nameEN": "CHA JUN HO",
+      "group": "X1",
+      "searchTerms": "차준호 준호 CHA JUN HO CHAJUNHO"
+    },
+    {
+      "id": 737,
+      "nameKR": "손동표",
+      "nameEN": "SON DONG PYO",
+      "group": "X1",
+      "searchTerms": "손동표 동표 SON DONG PYO SONDONGPYO"
+    },
+    {
+      "id": 738,
+      "nameKR": "강민희",
+      "nameEN": "KANG MIN HEE",
+      "group": "X1",
+      "searchTerms": "강민희 민희 KANG MIN HEE KANGMINHEE"
+    },
+    {
+      "id": 739,
+      "nameKR": "이은상",
+      "nameEN": "LEE EUN SANG",
+      "group": "X1",
+      "searchTerms": "이은상 은상 LEE EUN SANG LEEEUNSANG"
+    },
+    {
+      "id": 740,
+      "nameKR": "송형준",
+      "nameEN": "SONG HYEONG JUN",
+      "group": "X1",
+      "searchTerms": "송형준 형준 SONG HYEONG JUN SONGHYEONGJUN"
+    },
+    {
+      "id": 741,
+      "nameKR": "남도현",
+      "nameEN": "NAM DO HYON",
+      "group": "X1",
+      "searchTerms": "남도현 도현 NAM DO HYON NAMDOHYON"
+    },
+    {
+      "id": 742,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "X1",
+      "searchTerms": ""
+    },
+    {
+      "id": 743,
+      "nameKR": "김우석",
+      "nameEN": "KIM WOO SEOK",
+      "group": "김우석",
+      "searchTerms": "김우석 우석 KIM WOO SEOK KIMWOOSEOK"
+    },
+    {
+      "id": 744,
+      "nameKR": "서이",
+      "nameEN": "SEOI",
+      "group": "H1-KEY",
+      "searchTerms": "서이 SEOI 이예진 Lee Yejin 에진 LeeYejin"
+    },
+    {
+      "id": 745,
+      "nameKR": "리이나",
+      "nameEN": "RIINA",
+      "group": "H1-KEY",
+      "searchTerms": "리이나 RIINA 이승현 승현 Lee Seunghyeon LeeSeunghyeon"
+    },
+    {
+      "id": 746,
+      "nameKR": "휘서",
+      "nameEN": "HWISEO",
+      "group": "H1-KEY",
+      "searchTerms": "휘서 HWISEO 조휘현 휘현 Jo Hwihyeon JoHwihyeon"
+    },
+    {
+      "id": 747,
+      "nameKR": "옐",
+      "nameEN": "YEL",
+      "group": "H1-KEY",
+      "searchTerms": "옐 YEL 한신영 Han Shinyoung HanShinyoung"
+    },
+    {
+      "id": 748,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "H1-KEY",
+      "searchTerms": ""
+    },
+    {
+      "id": 749,
+      "nameKR": "윤아",
+      "nameEN": "YUNAH",
+      "group": "아일릿",
+      "searchTerms": "윤아 YUNAH 노윤아 Roh Yunah RohYunah"
+    },
+    {
+      "id": 750,
+      "nameKR": "민주",
+      "nameEN": "MINJU",
+      "group": "아일릿",
+      "searchTerms": "민주 박민주 MINJU Park Minju ParkMinju"
+    },
+    {
+      "id": 751,
+      "nameKR": "모카",
+      "nameEN": "MOKA",
+      "group": "아일릿",
+      "searchTerms": "모카 MOKA 사카이 모카 사카이모카 Moka Sakai"
+    },
+    {
+      "id": 752,
+      "nameKR": "원희",
+      "nameEN": "WONHEE",
+      "group": "아일릿",
+      "searchTerms": "원희 이원희 WONHEE LEEWONHEE"
+    },
+    {
+      "id": 753,
+      "nameKR": "이로하",
+      "nameEN": "IROHA",
+      "group": "아일릿",
+      "searchTerms": "이로하 IROHA 호카조노 이로하 호카조노이로하 Iroha Hokazono"
+    },
+    {
+      "id": 754,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "아일릿",
+      "searchTerms": ""
+    },
+    {
+      "id": 755,
+      "nameKR": "JR",
+      "nameEN": "JR",
+      "group": "뉴이스트",
+      "searchTerms": "JR 제이알 김종현 종현 Kim Jonghyeon KimJonghyeon"
+    },
+    {
+      "id": 756,
+      "nameKR": "아론",
+      "nameEN": "AARON",
+      "group": "뉴이스트",
+      "searchTerms": "아론 곽아론 곽영민 AARON Aaron Kwak KwakAaron Kwak Youngmin KwakYoungmin"
+    },
+    {
+      "id": 757,
+      "nameKR": "백호",
+      "nameEN": "BAEKHO",
+      "group": "뉴이스트",
+      "searchTerms": "백호 강동호 BAEKHO Kang Dongho KangDongho"
+    },
+    {
+      "id": 758,
+      "nameKR": "민현",
+      "nameEN": "MINHYUN",
+      "group": "뉴이스트",
+      "searchTerms": "민현 황민현 HWANG MIN HYUN HWANGMINHYUN"
+    },
+    {
+      "id": 759,
+      "nameKR": "렌",
+      "nameEN": "REN",
+      "group": "뉴이스트",
+      "searchTerms": "렌 최민기 민기 REN Choi Mingi ChoiMingi"
+    },
+    {
+      "id": 760,
+      "nameKR": "김종현",
+      "nameEN": "KIMJONGHYUN",
+      "group": "뉴이스트",
+      "searchTerms": "JR 제이알 김종현 종현 Kim Jonghyeon KimJonghyeon"
+    },
+    {
+      "id": 761,
+      "nameKR": "아론",
+      "nameEN": "AARON",
+      "group": "김종현",
+      "searchTerms": "아론 곽아론 곽영민 AARON Aaron Kwak KwakAaron Kwak Youngmin KwakYoungmin"
+    },
+    {
+      "id": 762,
+      "nameKR": "백호",
+      "nameEN": "BAEKHO",
+      "group": "아론",
+      "searchTerms": "백호 강동호 BAEKHO Kang Dongho KangDongho"
+    },
+    {
+      "id": 763,
+      "nameKR": "렌",
+      "nameEN": "REN",
+      "group": "백호",
+      "searchTerms": "렌 최민기 민기 REN Choi Mingi ChoiMingi"
+    },
+    {
+      "id": 764,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "렌",
+      "searchTerms": ""
+    },
+    {
+      "id": 765,
+      "nameKR": "루카",
+      "nameEN": "RUKA",
+      "group": "BABYMONSTER",
+      "searchTerms": "루카 RUKA 카와이 루카 카와이루카 Ruka Kawai"
+    },
+    {
+      "id": 766,
+      "nameKR": "파리타",
+      "nameEN": "PHARITA",
+      "group": "BABYMONSTER",
+      "searchTerms": "파리타 PHARITA 파리따분팍디타위욧 Pharita Boonpakdeethaveeyod"
+    },
+    {
+      "id": 767,
+      "nameKR": "아사",
+      "nameEN": "ASA",
+      "group": "BABYMONSTER",
+      "searchTerms": "아사 ASA 에나미 아사 에나미아사 Asa Enami"
+    },
+    {
+      "id": 768,
+      "nameKR": "아현",
+      "nameEN": "AHYEON",
+      "group": "BABYMONSTER",
+      "searchTerms": "아현 AHYEON 정아현 Jung Ahyeon JungAhyeon"
+    },
+    {
+      "id": 769,
+      "nameKR": "라미",
+      "nameEN": "RAMI",
+      "group": "BABYMONSTER",
+      "searchTerms": "라미 RAMI 신하람 Shin Haram ShinHaram"
+    },
+    {
+      "id": 770,
+      "nameKR": "로라",
+      "nameEN": "RORA",
+      "group": "BABYMONSTER",
+      "searchTerms": "로라 RORA 이다인 Lee Dain LeeDain"
+    },
+    {
+      "id": 771,
+      "nameKR": "치키타",
+      "nameEN": "CHIQUITA",
+      "group": "BABYMONSTER",
+      "searchTerms": "치키타 CHIQUITA 리라자 번데자비밧 리라자번데자비밧 Riracha Pondechaphiphat)"
+    },
+    {
+      "id": 772,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "BABYMONSTER",
+      "searchTerms": ""
+    },
+    {
+      "id": 773,
+      "nameKR": "나캠든",
+      "nameEN": "KAMDEN",
+      "group": "앰퍼샌드원",
+      "searchTerms": "나캠든 KAMDEN Kamden Winston Na 캠든 윈스턴 나 나두빈"
+    },
+    {
+      "id": 774,
+      "nameKR": "브라이언",
+      "nameEN": "BRIAN",
+      "group": "앰퍼샌드원",
+      "searchTerms": "브라이언 BRIAN Brian Ho 브라이언 호 Ho Ting-wei 허팅웨이"
+    },
+    {
+      "id": 775,
+      "nameKR": "최지호",
+      "nameEN": "JIHO",
+      "group": "앰퍼샌드원",
+      "searchTerms": "최지호 JIHO Choi Jiho ChoiJiho"
+    },
+    {
+      "id": 776,
+      "nameKR": "윤시윤",
+      "nameEN": "SIYUN",
+      "group": "앰퍼샌드원",
+      "searchTerms": "윤시윤 SIYUN Yun Siyun YunSiyun"
+    },
+    {
+      "id": 777,
+      "nameKR": "카이렐",
+      "nameEN": "KYRELL",
+      "group": "앰퍼샌드원",
+      "searchTerms": "카이렐 KYRELL Kyrell Valentine Choi 카이렐 발렌타인 초이 최영"
+    },
+    {
+      "id": 778,
+      "nameKR": "마카야",
+      "nameEN": "MACKIAH",
+      "group": "앰퍼샌드원",
+      "searchTerms": "마카야 MACKIAH Mackiah Yejun Mercer 마카야 예준 머서"
+    },
+    {
+      "id": 779,
+      "nameKR": "김승모",
+      "nameEN": "SEUNGMO",
+      "group": "앰퍼샌드원",
+      "searchTerms": "김승모 SEUNGMO Kim Seungmo KimSeungmo"
+    },
+    {
+      "id": 780,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "앰퍼샌드원",
+      "searchTerms": ""
+    },
+    {
+      "id": 781,
+      "nameKR": "진수",
+      "nameEN": "JinSu",
+      "group": "TIOT",
+      "searchTerms": "진수 JinSu 박진수 Park Jinsu ParkJinsu"
+    },
+    {
+      "id": 782,
+      "nameKR": "카엘",
+      "nameEN": "Chael",
+      "group": "루네이트",
+      "searchTerms": "카엘 Chael 임준엽 Lim Junyeop LimJunyeop"
+    },
+    {
+      "id": 783,
+      "nameKR": "타쿠마",
+      "nameEN": "Takuma",
+      "group": "루네이트",
+      "searchTerms": "타쿠마 Takuma 사토 타쿠마 사토타쿠마 Sato Takuma SatoTakuma"
+    },
+    {
+      "id": 784,
+      "nameKR": "준우",
+      "nameEN": "JunWoo",
+      "group": "루네이트",
+      "searchTerms": "준우 JunWoo 심준우 Sim Junwoo  SimJunwoo"
+    },
+    {
+      "id": 785,
+      "nameKR": "도현",
+      "nameEN": "DoHyun",
+      "group": "루네이트",
+      "searchTerms": "도현 DoHyun 박도현 Park Dohyun ParkDohyun"
+    },
+    {
+      "id": 786,
+      "nameKR": "이안",
+      "nameEN": "Ian",
+      "group": "루네이트",
+      "searchTerms": "이안 Ian 노성철 Ro Seongcheol RoSeongcheol"
+    },
+    {
+      "id": 787,
+      "nameKR": "지은호",
+      "nameEN": "JiEunHo",
+      "group": "루네이트",
+      "searchTerms": "지은호 JiEunHo 이상민 Lee Sangmin LeeSangmin"
+    },
+    {
+      "id": 788,
+      "nameKR": "은섭",
+      "nameEN": "EunSeop",
+      "group": "루네이트",
+      "searchTerms": "은섭 EunSeop 김은섭 Kim Eunseop KimEunseop"
+    },
+    {
+      "id": 789,
+      "nameKR": "유우마",
+      "nameEN": "Yuma",
+      "group": "루네이트",
+      "searchTerms": "유우마 유마  Yuma"
+    },
+    {
+      "id": 790,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "루네이트",
+      "searchTerms": ""
+    },
+    {
+      "id": 791,
+      "nameKR": "소울",
+      "nameEN": "K-SOUL",
+      "group": "판타지보이즈",
+      "searchTerms": "소울 K-SOUL 류저카이 Liú Zékǎi"
+    },
+    {
+      "id": 792,
+      "nameKR": "강민서",
+      "nameEN": "Kang Min Seo",
+      "group": "판타지보이즈",
+      "searchTerms": "강민서 민서 Kang Min Seo KANG MINSEO KANGMINSEO"
+    },
+    {
+      "id": 793,
+      "nameKR": "이한빈",
+      "nameEN": "Lee Han Bin",
+      "group": "판타지보이즈",
+      "searchTerms": "이한빈 Lee Han Bin 한빈 LEE HANBIN LEEHANBIN"
+    },
+    {
+      "id": 794,
+      "nameKR": "히카리",
+      "nameEN": "HIKARI",
+      "group": "판타지보이즈",
+      "searchTerms": "히카리 HIKARI 에타니 히카리 에타니히카리 Etani Hikari"
+    },
+    {
+      "id": 795,
+      "nameKR": "링치",
+      "nameEN": "LINGQI",
+      "group": "판타지보이즈",
+      "searchTerms": "링치 LINGQI Líng Qí"
+    },
+    {
+      "id": 796,
+      "nameKR": "히카루",
+      "nameEN": "HIKARU",
+      "group": "판타지보이즈",
+      "searchTerms": "히카루 HIKARU 우라베 히카루 우라베히카루 Urabe Hikaru UrabeHikaru"
+    },
+    {
+      "id": 797,
+      "nameKR": "김우석",
+      "nameEN": "Kim Woo Seok",
+      "group": "판타지보이즈",
+      "searchTerms": "김우석 Kim Woo Seok 우석 KimWooSeok"
+    },
+    {
+      "id": 798,
+      "nameKR": "홍성민",
+      "nameEN": "Hong Sung Min",
+      "group": "판타지보이즈",
+      "searchTerms": "홍성민 Hong Sung Min 성민 HongSungMin"
+    },
+    {
+      "id": 799,
+      "nameKR": "오현태",
+      "nameEN": "Oh Hyeon Tae",
+      "group": "판타지보이즈",
+      "searchTerms": "오현태 Oh Hyeon Tae 현태 OhHyeonTae"
+    },
+    {
+      "id": 800,
+      "nameKR": "김규래",
+      "nameEN": "Kim Gyu Rae",
+      "group": "판타지보이즈",
+      "searchTerms": "김규래 Kim Gyu Rae 규래 KimGyuRae"
+    },
+    {
+      "id": 801,
+      "nameKR": "케이단",
+      "nameEN": "Kaedan",
+      "group": "판타지보이즈",
+      "searchTerms": "케이단 Kaedan 케이단 건우 남 남건우 Kaedan Keonwoo Nam"
+    },
+    {
+      "id": 802,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "판타지보이즈",
+      "searchTerms": ""
+    },
+    {
+      "id": 803,
+      "nameKR": "진현주",
+      "nameEN": "HYEONJU",
+      "group": "유니스",
+      "searchTerms": "진현주 HYEONJU 현주 Jin Hyeonju JinHyeonju"
+    },
+    {
+      "id": 804,
+      "nameKR": "나나",
+      "nameEN": "NANA",
+      "group": "유니스",
+      "searchTerms": "나나 NANA"
+    },
+    {
+      "id": 805,
+      "nameKR": "젤리당카",
+      "nameEN": "GEHLEE",
+      "group": "유니스",
+      "searchTerms": "젤리당카 GEHLEE 젤리 지메나 당카 젤리지메나당카 Gehlee Gimena Dangca"
+    },
+    {
+      "id": 806,
+      "nameKR": "코토코",
+      "nameEN": "KOTOKO",
+      "group": "유니스",
+      "searchTerms": "코토코 KOTOKO"
+    },
+    {
+      "id": 807,
+      "nameKR": "방윤하",
+      "nameEN": "YUNHA",
+      "group": "유니스",
+      "searchTerms": "방윤하 YUNHA 윤하 Bang Yunha BangYunha"
+    },
+    {
+      "id": 808,
+      "nameKR": "엘리시아",
+      "nameEN": "ELISIA",
+      "group": "유니스",
+      "searchTerms": "엘리시아 ELISIA 엘리시아 리리스 씨 파르미사노 엘리시아리리스씨파르미사노 Elisia Lyrisse C. Parmisano"
+    },
+    {
+      "id": 809,
+      "nameKR": "오윤아",
+      "nameEN": "YOONA",
+      "group": "유니스",
+      "searchTerms": "오윤아 YOONA 윤아 Oh Yoona OhYoona"
+    },
+    {
+      "id": 810,
+      "nameKR": "임서원",
+      "nameEN": "SEOWON",
+      "group": "유니스",
+      "searchTerms": "임서원 SEOWON 서원 Lim Seowon LimSeowon"
+    },
+    {
+      "id": 811,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "유니스",
+      "searchTerms": ""
+    },
+    {
+      "id": 812,
+      "nameKR": "종우",
+      "nameEN": "Jong Woo",
+      "group": "ONEPACT",
+      "searchTerms": "종우 Jong Woo 윤종우 Yoon Jongwoo YoonJongwoo"
+    },
+    {
+      "id": 813,
+      "nameKR": "성민",
+      "nameEN": "Seong Min",
+      "group": "ONEPACT",
+      "searchTerms": "성민 Seong Min 오성민 Oh Seongmin OhSeongmin"
+    },
+    {
+      "id": 814,
+      "nameKR": "태그",
+      "nameEN": "TAG",
+      "group": "ONEPACT",
+      "searchTerms": "태그 TAG 염태균 Yeom Taegyun YeomTaegyun"
+    },
+    {
+      "id": 815,
+      "nameKR": "예담",
+      "nameEN": "Ye Dam",
+      "group": "ONEPACT",
+      "searchTerms": "예담 Ye Dam YEDAM 이예담 Lee Yedam LeeYedam"
+    },
+    {
+      "id": 816,
+      "nameKR": "제이창",
+      "nameEN": "Jay Chang",
+      "group": "ONEPACT",
+      "searchTerms": "제이창 Jay Chang Jay Steven Kapossy 제이 스티븐 커포시 제이 창"
+    },
+    {
+      "id": 817,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "ONEPACT",
+      "searchTerms": ""
+    },
+    {
+      "id": 818,
+      "nameKR": "토모야",
+      "nameEN": "TOMOYA",
+      "group": "넥스지",
+      "searchTerms": "토모야 우에무라 토모야 우에무라토모야  Uemura Tomoya"
+    },
+    {
+      "id": 819,
+      "nameKR": "유우",
+      "nameEN": "YU",
+      "group": "넥스지",
+      "searchTerms": "유우 토미야스 유우 토미야스유우 Tomiyasu Yu"
+    },
+    {
+      "id": 820,
+      "nameKR": "하루",
+      "nameEN": "HARU",
+      "group": "넥스지",
+      "searchTerms": "하루 이노우에 하루 이노우에하루"
+    },
+    {
+      "id": 821,
+      "nameKR": "소 건",
+      "nameEN": "SO GEON",
+      "group": "넥스지",
+      "searchTerms": "소 건 소건 So Geon 소 켄 So Ken"
+    },
+    {
+      "id": 822,
+      "nameKR": "세이타",
+      "nameEN": "SEITA",
+      "group": "넥스지",
+      "searchTerms": "세이타 카와시마 세이타 카와시마세이타 Kawashima Seita"
+    },
+    {
+      "id": 823,
+      "nameKR": "휴이",
+      "nameEN": "HYUI",
+      "group": "넥스지",
+      "searchTerms": "휴이 코모리 유우히 코모리유우히 Komori Yuhi"
+    },
+    {
+      "id": 824,
+      "nameKR": "유키",
+      "nameEN": "YUKI",
+      "group": "넥스지",
+      "searchTerms": "유키 니시야마 유우키 니시야마유우키 Nishiyama Yuki"
+    },
+    {
+      "id": 825,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "넥스지",
+      "searchTerms": ""
+    },
+    {
+      "id": 826,
+      "nameKR": "나인",
+      "nameEN": "Nine",
+      "group": "온리원오브",
+      "searchTerms": "나인 NINE 정욱진 Jeong Ukjin JeongUkjin"
+    },
+    {
+      "id": 827,
+      "nameKR": "Mill",
+      "nameEN": "Mill",
+      "group": "온리원오브",
+      "searchTerms": "Mill 밀 이용수 Lee Yongsoo LeeYongsoo"
+    },
+    {
+      "id": 828,
+      "nameKR": "리에",
+      "nameEN": "Rie",
+      "group": "온리원오브",
+      "searchTerms": "리에 RIE 이성호 Lee Sungho LeeSungho"
+    },
+    {
+      "id": 829,
+      "nameKR": "준지",
+      "nameEN": "JunJi",
+      "group": "온리원오브",
+      "searchTerms": "준지 JunJi 김준형 Kim Junhyung KimJunhyung"
+    },
+    {
+      "id": 830,
+      "nameKR": "유정",
+      "nameEN": "YooJung",
+      "group": "온리원오브",
+      "searchTerms": "유정 YooJung 이태엽 Lee Tae-yeop Lee Tae yeop LeeTaeyeop"
+    },
+    {
+      "id": 831,
+      "nameKR": "규빈",
+      "nameEN": "KB",
+      "group": "온리원오브",
+      "searchTerms": "규빈 KB 신규빈 Shin Kyubin ShinKyubin"
+    },
+    {
+      "id": 832,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "온리원오브",
+      "searchTerms": ""
+    },
+    {
+      "id": 833,
+      "nameKR": "재한",
+      "nameEN": "JAEHAN",
+      "group": "OMEGA X",
+      "searchTerms": "재한 JAEHAN 김재한 Kim Jaehan KimJaehan"
+    },
+    {
+      "id": 834,
+      "nameKR": "휘찬",
+      "nameEN": "HWICHAN",
+      "group": "OMEGA X",
+      "searchTerms": "휘찬 HWICHAN 이휘찬 Lee Hwichan LeeHwichan"
+    },
+    {
+      "id": 835,
+      "nameKR": "세빈",
+      "nameEN": "SEBIN",
+      "group": "OMEGA X",
+      "searchTerms": "세빈 SEBIN 장세빈 Jang Sebin JangSebin"
+    },
+    {
+      "id": 836,
+      "nameKR": "한겸",
+      "nameEN": "HANGYEOM",
+      "group": "OMEGA X",
+      "searchTerms": "한겸 HANGYEOM 송한겸 Song Hangyeom SongHangyeom"
+    },
+    {
+      "id": 837,
+      "nameKR": "태동",
+      "nameEN": "TAEDONG",
+      "group": "OMEGA X",
+      "searchTerms": "태동 TAEDONG 김태동 Kim Taedong KimTaedong"
+    },
+    {
+      "id": 838,
+      "nameKR": "XEN",
+      "nameEN": "XEN",
+      "group": "OMEGA X",
+      "searchTerms": "XEN 젠 이진우 Lee Jinwoo LeeJinwoo"
+    },
+    {
+      "id": 839,
+      "nameKR": "제현",
+      "nameEN": "JEHYUN",
+      "group": "OMEGA X",
+      "searchTerms": "제현 JEHYUN 문제현 Moon Jehyun MoonJehyun"
+    },
+    {
+      "id": 840,
+      "nameKR": "KEVIN",
+      "nameEN": "KEVIN",
+      "group": "OMEGA X",
+      "searchTerms": "KEVIN 케빈 박진우 Park Jin Woo ParkJin Woo"
+    },
+    {
+      "id": 841,
+      "nameKR": "정훈",
+      "nameEN": "JUNGHOON",
+      "group": "OMEGA X",
+      "searchTerms": "정훈 JUNGHOON 한정훈 Han Junghoon HanJunghoon"
+    },
+    {
+      "id": 842,
+      "nameKR": "혁",
+      "nameEN": "HYUK",
+      "group": "OMEGA X",
+      "searchTerms": "혁 HYUK 양혁 Yang Hyuk YangHyuk"
+    },
+    {
+      "id": 843,
+      "nameKR": "예찬",
+      "nameEN": "YECHAN",
+      "group": "OMEGA X",
+      "searchTerms": "예찬 YECHAN 신예찬 Shin Ye Chan ShinYeChan"
+    },
+    {
+      "id": 844,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "OMEGA X",
+      "searchTerms": ""
+    },
+    {
+      "id": 845,
+      "nameKR": "남성모",
+      "nameEN": "Nam Seong Mo",
+      "group": "82MAJOR",
+      "searchTerms": "남성모 성모 Nam Seong Mo NamSeongMo"
+    },
+    {
+      "id": 846,
+      "nameKR": "박석준",
+      "nameEN": "Park Seok Joon",
+      "group": "82MAJOR",
+      "searchTerms": "박석준 석준 Park Seok Joon ParkSeokJoon"
+    },
+    {
+      "id": 847,
+      "nameKR": "윤예찬",
+      "nameEN": "Yoon Ye Chan",
+      "group": "82MAJOR",
+      "searchTerms": "윤예찬 예찬 Yoon Ye Chan YoonYeChan"
+    },
+    {
+      "id": 848,
+      "nameKR": "조성일",
+      "nameEN": "Cho Seong Il",
+      "group": "82MAJOR",
+      "searchTerms": "조성일 성일 Cho Seong Il ChoSeongIl"
+    },
+    {
+      "id": 849,
+      "nameKR": "황성빈",
+      "nameEN": "Hwang Seong Bin",
+      "group": "82MAJOR",
+      "searchTerms": "황성빈 성빈 Hwang Seong Bin HwangSeongBin"
+    },
+    {
+      "id": 850,
+      "nameKR": "김도균",
+      "nameEN": "Kim Do Gyun",
+      "group": "82MAJOR",
+      "searchTerms": "김도균 도균 Kim Do Gyun KimDoGyun"
+    },
+    {
+      "id": 851,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "82MAJOR",
+      "searchTerms": ""
+    },
+    {
+      "id": 852,
+      "nameKR": "마이",
+      "nameEN": "MAI",
+      "group": "이즈나",
+      "searchTerms": "마이 MAI 토미오카마이 토미오카 TomiokaMai Tomioka"
+    },
+    {
+      "id": 853,
+      "nameKR": "방지민",
+      "nameEN": "Bang Jee Min",
+      "group": "이즈나",
+      "searchTerms": "지민 JEEMIN 방지민 Bang JeeMin BangJeeMin"
+    },
+    {
+      "id": 854,
+      "nameKR": "윤지윤",
+      "nameEN": "Yoon Ji Yoon",
+      "group": "이즈나",
+      "searchTerms": "지윤 JIYOON 윤지윤 Yoon JiYoon YoonJiYoon"
+    },
+    {
+      "id": 855,
+      "nameKR": "코코",
+      "nameEN": "KOKO",
+      "group": "이즈나",
+      "searchTerms": "코코 KOKO 나라이코코 나라이 NaraiKoko Narai"
+    },
+    {
+      "id": 856,
+      "nameKR": "유사랑",
+      "nameEN": "Ryu Sa Rang",
+      "group": "이즈나",
+      "searchTerms": "사랑 SARANG 유사랑 Ryu SaRang RyuSaRang"
+    },
+    {
+      "id": 857,
+      "nameKR": "최정은",
+      "nameEN": "Choi Jung Eun",
+      "group": "이즈나",
+      "searchTerms": "정은 JUNG EUN 최정은 Choi JungEun ChoiJungEun"
+    },
+    {
+      "id": 858,
+      "nameKR": "정세비",
+      "nameEN": "Jeong Sae Bi",
+      "group": "이즈나",
+      "searchTerms": "세비 SAE BI 정세비 Jeong SaeBi JeongSaeBi"
+    },
+    {
+      "id": 859,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "이즈나",
+      "searchTerms": ""
+    },
+    {
+      "id": 860,
+      "nameKR": "임영웅",
+      "nameEN": "LimYoungWoong",
+      "group": "박보검",
+      "searchTerms": "임영웅 YOUNGWOONG 영웅 Lim YoungWoong LimYoungWoong"
+    },
+    {
+      "id": 861,
+      "nameKR": "영탁",
+      "nameEN": "YOUNGTAK",
+      "group": "변우석",
+      "searchTerms": "영탁 YOUNGTAK 박영탁 Park Youngtak ParkYoungtak"
+    },
+    {
+      "id": 862,
+      "nameKR": "이찬원",
+      "nameEN": "LEECHANWON",
+      "group": "수지",
+      "searchTerms": "이찬원 CHANWON 찬원 Lee Chanwon LeeChanwon"
+    },
+    {
+      "id": 863,
+      "nameKR": "정동원",
+      "nameEN": "JeongDongWon",
+      "group": "이도현",
+      "searchTerms": "정동원 DONGWON 동원 Jeong Dongwon JeongDongwon"
+    },
+    {
+      "id": 864,
+      "nameKR": "박보검",
+      "nameEN": "PARKBOGUM",
+      "group": "영탁",
+      "searchTerms": "박보검 BOGUM 보검 Park Bogum ParkBogum"
+    },
+    {
+      "id": 865,
+      "nameKR": "변우석",
+      "nameEN": "BYEON WOO SEOK",
+      "group": "이찬원",
+      "searchTerms": "변우석 WOOSEOK 우석 Byeon Wooseok ByeonWooseok"
+    },
+    {
+      "id": 866,
+      "nameKR": "수지",
+      "nameEN": "Suzy",
+      "group": "임영웅",
+      "searchTerms": "수지 SUZY 배수지 Bae Suzy BaeSuzy"
+    },
+    {
+      "id": 867,
+      "nameKR": "이도현",
+      "nameEN": "LEE DO HYUN",
+      "group": "정동원",
+      "searchTerms": "이도현 DOHYUN 도현 Lee Dohyun LeeDohyun 임동현 Lim LimDohyun"
+    },
+    {
+      "id": 868,
+      "nameKR": "계훈",
+      "nameEN": "Kyehoon",
+      "group": "KickFlip",
+      "searchTerms": "계훈 KYEHOON 이계훈 Lee Gyehun LeeGyehun"
+    },
+    {
+      "id": 869,
+      "nameKR": "아마루",
+      "nameEN": "Amaru",
+      "group": "KickFlip",
+      "searchTerms": "아마루 AMARU 미츠유키 아마루 미츠유키아마루 Amaru Mitsuyuki"
+    },
+    {
+      "id": 870,
+      "nameKR": "동화",
+      "nameEN": "Donghwa",
+      "group": "KickFlip",
+      "searchTerms": "동화 DONGHWA 이동화 Lee Donghwa LeeDonghwa"
+    },
+    {
+      "id": 871,
+      "nameKR": "주왕",
+      "nameEN": "Juwang",
+      "group": "KickFlip",
+      "searchTerms": "주왕 JUWANG 장주왕 Jang Juwang JangJuwang"
+    },
+    {
+      "id": 872,
+      "nameKR": "민제",
+      "nameEN": "Minje",
+      "group": "KickFlip",
+      "searchTerms": "민제 MINJE 최민제 Choi Minje ChoiMinje"
+    },
+    {
+      "id": 873,
+      "nameKR": "케이주",
+      "nameEN": "Keiju",
+      "group": "KickFlip",
+      "searchTerms": "케이주 KEIJU 오카모토 케이주 오카모토케이주 Keiju Okamoto"
+    },
+    {
+      "id": 874,
+      "nameKR": "동현",
+      "nameEN": "Donghyeon",
+      "group": "KickFlip",
+      "searchTerms": "동현 DONGHYEON 이동현 Lee Donghyeon LeeDonghyeon"
+    },
+    {
+      "id": 875,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "KickFlip",
+      "searchTerms": ""
+    },
+    {
+      "id": 876,
+      "nameKR": "정해인",
+      "nameEN": "Jung Hae In",
+      "group": "정해인",
+      "searchTerms": "정해인 HAEIN 해인 Jung Haein JungHaein"
+    },
+    {
+      "id": 877,
+      "nameKR": "지우",
+      "nameEN": "JIWOO",
+      "group": "Hearts2Hearts",
+      "searchTerms": "지우 JIWOO 최지우 Choi Jiwoo ChoiJiwoo"
+    },
+    {
+      "id": 878,
+      "nameKR": "카르멘",
+      "nameEN": "Carmen",
+      "group": "Hearts2Hearts",
+      "searchTerms": "카르멘 CARMEN 뇨만 아유 카르메니타 뇨만아유카르메니타 Nyoman Ayu Carmenita NyomanAyuCarmenita"
+    },
+    {
+      "id": 879,
+      "nameKR": "유하",
+      "nameEN": "YUHA",
+      "group": "Hearts2Hearts",
+      "searchTerms": "유하 YUHA 유하람 Yoo Haram YooHaram"
+    },
+    {
+      "id": 880,
+      "nameKR": "스텔라",
+      "nameEN": "Stella",
+      "group": "Hearts2Hearts",
+      "searchTerms": "스텔라 STELLA 김다현 Kim Dahyun KimDahyun"
+    },
+    {
+      "id": 881,
+      "nameKR": "주은",
+      "nameEN": "JUUN",
+      "group": "Hearts2Hearts",
+      "searchTerms": "주은 JUUN 김주은 Kim Jueun KimJueun"
+    },
+    {
+      "id": 882,
+      "nameKR": "에이나",
+      "nameEN": "A-Na",
+      "group": "Hearts2Hearts",
+      "searchTerms": "에이나 A-NA ANA 노유나 Roh Yoona RohYoona"
+    },
+    {
+      "id": 883,
+      "nameKR": "이안",
+      "nameEN": "IAN",
+      "group": "Hearts2Hearts",
+      "searchTerms": "이안 IAN 정이안 Jeong Leean JeongLeean"
+    },
+    {
+      "id": 884,
+      "nameKR": "예온",
+      "nameEN": "YE-ON",
+      "group": "Hearts2Hearts",
+      "searchTerms": "예온 YE-ON YEON 김나연 Kim Nayeon KimNayeon"
+    },
+    {
+      "id": 885,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "Hearts2Hearts",
+      "searchTerms": ""
+    },
+    {
+      "id": 886,
+      "nameKR": "구교환",
+      "nameEN": "KooKyoHwan",
+      "group": "구교환",
+      "searchTerms": "구교환 KYOHWAN 교환 Koo Kyohwan KooKyohwan"
+    },
+    {
+      "id": 887,
+      "nameKR": "KIA 타이거즈",
+      "nameEN": "KIA TIGERS",
+      "group": "",
+      "searchTerms": "KIA 타이거즈 KIA TIGERS 기아타이거즈 기아 타이거즈 KIA타이거즈"
+    },
+    {
+      "id": 888,
+      "nameKR": "KT 위즈",
+      "nameEN": "Kt wiz",
+      "group": "",
+      "searchTerms": "KT 위즈 Kt wiz 케이티위즈 케이티 위즈 KT위즈"
+    },
+    {
+      "id": 889,
+      "nameKR": "LG 트윈스",
+      "nameEN": "LG TWINS",
+      "group": "",
+      "searchTerms": "LG 트윈스 LG트윈스 LG TWINS 엘지트윈스 엘지 트윈스"
+    },
+    {
+      "id": 890,
+      "nameKR": "NC 다이노스",
+      "nameEN": "NC Dinos",
+      "group": "",
+      "searchTerms": "NC 다이노스 NC Dinos NC다이노스  엔씨 다이노스 엔씨다이노스"
+    },
+    {
+      "id": 891,
+      "nameKR": "SSG 랜더스",
+      "nameEN": "SSG LANDERS",
+      "group": "",
+      "searchTerms": "SSG 랜더스 SSG LANDERS SSG랜더스 에스에스지랜더스 에스에스지 랜더스 쓱"
+    },
+    {
+      "id": 892,
+      "nameKR": "두산 베어스",
+      "nameEN": "DOOSAN BEARS",
+      "group": "",
+      "searchTerms": "두산 베어스 두산베어스 DOOSAN BEARS"
+    },
+    {
+      "id": 893,
+      "nameKR": "롯데 자이언츠",
+      "nameEN": "LOTTE GIANTS",
+      "group": "",
+      "searchTerms": "롯데 자이언츠 롯데자이언츠 LOTTE GIANTS"
+    },
+    {
+      "id": 894,
+      "nameKR": "삼성 라이온즈",
+      "nameEN": "Samsung Lions",
+      "group": "",
+      "searchTerms": "삼성 라이온즈 삼성라이온즈 Samsung Lions"
+    },
+    {
+      "id": 895,
+      "nameKR": "키움 히어로즈",
+      "nameEN": "Kiwoom Heroes",
+      "group": "",
+      "searchTerms": "키움 히어로즈 키움히어로즈 큠 Kiwoom Heroes"
+    },
+    {
+      "id": 896,
+      "nameKR": "한화 이글스",
+      "nameEN": "Hanwha Eagles",
+      "group": "",
+      "searchTerms": "한화 이글스 Hanwha Eagles 한화이글스"
+    },
+    {
+      "id": 897,
+      "nameKR": "지유",
+      "nameEN": "JIYU",
+      "group": "",
+      "searchTerms": "지유 JIYU 서지유 Seo Jiyu SeoJiyu"
+    },
+    {
+      "id": 898,
+      "nameKR": "이솔",
+      "nameEN": "LEESOL",
+      "group": "",
+      "searchTerms": "이솔 LEESOL 이수민 Lee Sumin LeeSumin"
+    },
+    {
+      "id": 899,
+      "nameKR": "수이",
+      "nameEN": "SUI",
+      "group": "",
+      "searchTerms": "수이 SUI 이수빈 Lee Subin LeeSubin"
+    },
+    {
+      "id": 900,
+      "nameKR": "하음",
+      "nameEN": "HAUM",
+      "group": "",
+      "searchTerms": "하음 HAUM 곽하음 Kwak Haeum KwakHaeum"
+    },
+    {
+      "id": 901,
+      "nameKR": "키야",
+      "nameEN": "KYA",
+      "group": "",
+      "searchTerms": "키야 KYA 박지우 Park Jiwoo ParkJiwoo"
+    },
+    {
+      "id": 902,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "",
+      "searchTerms": ""
+    },
+    {
+      "id": 903,
+      "nameKR": "G-DRAGON",
+      "nameEN": "G-DRAGON",
+      "group": "",
+      "searchTerms": "G-DRAGON GDRAGON G DRAGON GD 지드래곤 지디 권지용 지용 Kwon Ji yong KwonJiyong"
+    },
+    {
+      "id": 904,
+      "nameKR": "이제훈",
+      "nameEN": "LEE JEHOON",
+      "group": "",
+      "searchTerms": "이제훈 JEHOON 제훈 Lee Jehoon LeeJehoon"
+    },
+    {
+      "id": 905,
+      "nameKR": "송강",
+      "nameEN": "SONG KANG",
+      "group": "",
+      "searchTerms": "송강 Song Kang SongKang"
+    },
+    {
+      "id": 906,
+      "nameKR": "히토미",
+      "nameEN": "HITOMI",
+      "group": "",
+      "searchTerms": "히토미 HITOMI 혼다 히토미 혼다히토미 Hitomi Honda"
+    },
+    {
+      "id": 907,
+      "nameKR": "메이",
+      "nameEN": "MEI",
+      "group": "",
+      "searchTerms": "메이 MEI 테라다 메이 테라다메이 Mei Terada"
+    },
+    {
+      "id": 908,
+      "nameKR": "카니",
+      "nameEN": "KANNY",
+      "group": "",
+      "searchTerms": "카니 KANNY 나파싸난 깨우껑"
+    },
+    {
+      "id": 909,
+      "nameKR": "도희",
+      "nameEN": "DOHEE",
+      "group": "",
+      "searchTerms": "도희 DOHEE 김도희 Kim Dohee KimDohee"
+    },
+    {
+      "id": 910,
+      "nameKR": "준휘",
+      "nameEN": "JUNHWI",
+      "group": "",
+      "searchTerms": "준휘 JUNHWI 서준휘 Seo Junhwi SeoJunhwi"
+    },
+    {
+      "id": 911,
+      "nameKR": "소하",
+      "nameEN": "SOHA",
+      "group": "",
+      "searchTerms": "소하 SOHA 정민하 Jung Minha JungMinha"
+    },
+    {
+      "id": 912,
+      "nameKR": "승주",
+      "nameEN": "SEUNGJOO",
+      "group": "",
+      "searchTerms": "승주 SEUNGJOO 윤승주 Yoon Seungjoo YoonSeungjoo"
+    },
+    {
+      "id": 913,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "",
+      "searchTerms": ""
+    },
+    {
+      "id": 914,
+      "nameKR": "김혜윤",
+      "nameEN": "KIMHYEYOON",
+      "group": "",
+      "searchTerms": "김혜윤 HYEYOON 혜윤 Kim Hyeyoon KimHyeyoon"
+    },
+    {
+      "id": 915,
+      "nameKR": "수인",
+      "nameEN": "SOOIN",
+      "group": "",
+      "searchTerms": "수인 김수인 KIMSOOIN"
+    },
+    {
+      "id": 916,
+      "nameKR": "가원",
+      "nameEN": "GAWON",
+      "group": "",
+      "searchTerms": "가원 이가원 GAWON LEEGAWON"
+    },
+    {
+      "id": 917,
+      "nameKR": "안나",
+      "nameEN": "ANNA",
+      "group": "",
+      "searchTerms": "안나 ANNA  타나카 안나  Tanaka Anna"
+    },
+    {
+      "id": 918,
+      "nameKR": "나린",
+      "nameEN": "NARIN",
+      "group": "",
+      "searchTerms": "나린 NARIN"
+    },
+    {
+      "id": 919,
+      "nameKR": "엘라",
+      "nameEN": "ELLA",
+      "group": "",
+      "searchTerms": "엘라 그로스 Ella Gross"
+    },
+    {
+      "id": 920,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "",
+      "searchTerms": ""
+    },
+    {
+      "id": 921,
+      "nameKR": "애니",
+      "nameEN": "ANNIE",
+      "group": "",
+      "searchTerms": "애니 ANNIE 문서윤 MOON SEOYOON MOONSEOYOON"
+    },
+    {
+      "id": 922,
+      "nameKR": "타잔",
+      "nameEN": "TARZZAN",
+      "group": "",
+      "searchTerms": "타잔 이채원 TARZZAN LEE CHAEWON LEECHAEWON"
+    },
+    {
+      "id": 923,
+      "nameKR": "베일리",
+      "nameEN": "BAILEY",
+      "group": "",
+      "searchTerms": "베일리 Sok Bailey Drew"
+    },
+    {
+      "id": 924,
+      "nameKR": "우찬",
+      "nameEN": "WOOCHAN",
+      "group": "",
+      "searchTerms": "우찬 조우찬 JO WOOCHAN JOWOOCHAN"
+    },
+    {
+      "id": 925,
+      "nameKR": "영서",
+      "nameEN": "YOUNGSEO",
+      "group": "",
+      "searchTerms": "영서 이영서 LEE YOUNGSEO LEEYOUNGSEO"
+    },
+    {
+      "id": 926,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "",
+      "searchTerms": ""
+    },
+    {
+      "id": 927,
+      "nameKR": "추영우",
+      "nameEN": "ChooYoungWoo",
+      "group": "",
+      "searchTerms": "추영우 ChooYoungWoo Choo YoungWoo Choo Young Woo"
+    },
+    {
+      "id": 928,
+      "nameKR": "이준혁",
+      "nameEN": "LeeJunHyuk",
+      "group": "",
+      "searchTerms": "이준혁 LeeJunHyuk Lee JunHyuk Lee Jun Hyuk"
+    },
+    {
+      "id": 929,
+      "nameKR": "전민욱",
+      "nameEN": "Jeon Minwook",
+      "group": "",
+      "searchTerms": "전민욱 Jeon Minwook 제이민 J-MIN"
+    },
+    {
+      "id": 930,
+      "nameKR": "마징시앙",
+      "nameEN": "Ma Jingxiang",
+      "group": "",
+      "searchTerms": "마징시앙 Ma Jingxiang 马靖翔 MaJingxiang"
+    },
+    {
+      "id": 931,
+      "nameKR": "장여준",
+      "nameEN": "Yeo Jun Jang",
+      "group": "",
+      "searchTerms": "장여준 Yeo Jun Jang JangYeoJun"
+    },
+    {
+      "id": 932,
+      "nameKR": "김성민",
+      "nameEN": "Sung Min Kim",
+      "group": "",
+      "searchTerms": "김성민 Sung Min Kim KimSungMin"
+    },
+    {
+      "id": 933,
+      "nameKR": "송승호",
+      "nameEN": "Seung Ho Song",
+      "group": "",
+      "searchTerms": "송승호 Seung Ho Song SongSeungHo"
+    },
+    {
+      "id": 934,
+      "nameKR": "켄신",
+      "nameEN": "KENSHIN",
+      "group": "",
+      "searchTerms": "켄신 櫻田健真 KENSHIN"
+    },
+    {
+      "id": 935,
+      "nameKR": "서경배",
+      "nameEN": "Kyoung Bae Seo",
+      "group": "",
+      "searchTerms": "서경배 Kyoung Bae Seo SeoKyoungBae"
+    },
+    {
+      "id": 936,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "",
+      "searchTerms": ""
+    },
+    {
+      "id": 937,
+      "nameKR": "슈이",
+      "nameEN": "SHUIE",
+      "group": "",
+      "searchTerms": "슈이 양슈멍 SHUIE"
+    },
+    {
+      "id": 938,
+      "nameKR": "키나",
+      "nameEN": "KEENA",
+      "group": "",
+      "searchTerms": "키나 KEENA 송유니 Song Yuni SongYuni"
+    },
+    {
+      "id": 939,
+      "nameKR": "문샤넬",
+      "nameEN": "CHANELLE MOON",
+      "group": "",
+      "searchTerms": "문샤넬 Chanelle Moon Thomas"
+    },
+    {
+      "id": 940,
+      "nameKR": "예원",
+      "nameEN": "YEWON",
+      "group": "",
+      "searchTerms": "예원 YEWON 손예원 SonYewon"
+    },
+    {
+      "id": 941,
+      "nameKR": "하나",
+      "nameEN": "HANA",
+      "group": "",
+      "searchTerms": "하나 HANA 임하람 Lim Haram LimHaram"
+    },
+    {
+      "id": 942,
+      "nameKR": "아테나",
+      "nameEN": "ATHENA",
+      "group": "",
+      "searchTerms": "아테나 ATHENA  Athena Yang AthenaYang 아테나 양 아테나양"
+    },
+    {
+      "id": 943,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "",
+      "searchTerms": ""
+    },
+    {
+      "id": 944,
+      "nameKR": "다니엘라",
+      "nameEN": "Daniela",
+      "group": "",
+      "searchTerms": "다니엘라 Daniela Daniela Andrea Avanzini Llorente 다니엘라 안드레아 아반지니 요렌테"
+    },
+    {
+      "id": 945,
+      "nameKR": "라라",
+      "nameEN": "Lara",
+      "group": "",
+      "searchTerms": "라라 Lara Lara Rajagopalan 라라 라자고파란"
+    },
+    {
+      "id": 946,
+      "nameKR": "마농",
+      "nameEN": "Manon",
+      "group": "",
+      "searchTerms": "마농 Manon Meret Manon Sarpong Bannerman 메렛 마농 사르퐁 바너만"
+    },
+    {
+      "id": 947,
+      "nameKR": "메간",
+      "nameEN": "Megan",
+      "group": "",
+      "searchTerms": "메간 Megan Megan Meiyok Skiendiel 메간 메이욕 스킨델"
+    },
+    {
+      "id": 948,
+      "nameKR": "소피아",
+      "nameEN": "Sophia",
+      "group": "",
+      "searchTerms": "소피아 Sophia Sophia Elizabeth Guevara Laforteza 소피아 엘리자베스 게바라 라포르테자"
+    },
+    {
+      "id": 949,
+      "nameKR": "윤채",
+      "nameEN": "Yoonchae",
+      "group": "",
+      "searchTerms": "윤채 Yoonchae 정윤채 JeungYoonchae"
+    },
+    {
+      "id": 950,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "",
+      "searchTerms": ""
+    },
+    {
+      "id": 951,
+      "nameKR": "마틴",
+      "nameEN": "MARTIN",
+      "group": "",
+      "searchTerms": "마틴 MARTIN 박우주 Park Woojoo ParkWoojoo"
+    },
+    {
+      "id": 952,
+      "nameKR": "제임스",
+      "nameEN": "JAMES",
+      "group": "",
+      "searchTerms": "제임스 JAMES 지우위판 Ziu Jyu Faan"
+    },
+    {
+      "id": 953,
+      "nameKR": "주훈",
+      "nameEN": "JUHOON",
+      "group": "",
+      "searchTerms": "주훈 JUHOON 김주훈 Kim Juhoon KimJuhoon"
+    },
+    {
+      "id": 954,
+      "nameKR": "성현",
+      "nameEN": "SEONG HYEON",
+      "group": "",
+      "searchTerms": "성현 SEONG HYEON 엄성현 Eom Seonghyeon EomSeonghyeon"
+    },
+    {
+      "id": 955,
+      "nameKR": "건호",
+      "nameEN": "KEONHO",
+      "group": "",
+      "searchTerms": "건호 KEONHO 안건호 An Keonho AnKeonho"
+    },
+    {
+      "id": 956,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "",
+      "searchTerms": ""
+    },
+    {
+      "id": 957,
+      "nameKR": "루미",
+      "nameEN": "Rumi",
+      "group": "",
+      "searchTerms": "루미 Rumi 케이팝 데몬 헌터스 케이팝데몬헌터스 케데헌 K-Pop Demon Hunters"
+    },
+    {
+      "id": 958,
+      "nameKR": "미라",
+      "nameEN": "Mira",
+      "group": "",
+      "searchTerms": "미라 Mira 케이팝 데몬 헌터스 케이팝데몬헌터스 케데헌 K-Pop Demon Hunters"
+    },
+    {
+      "id": 959,
+      "nameKR": "조이",
+      "nameEN": "Zoey",
+      "group": "",
+      "searchTerms": "조이 Zoey 케이팝 데몬 헌터스 케이팝데몬헌터스 케데헌 K-Pop Demon Hunters"
+    },
+    {
+      "id": 960,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "",
+      "searchTerms": "케이팝 데몬 헌터스 케이팝데몬헌터스 케데헌 K-Pop Demon Hunters"
+    },
+    {
+      "id": 961,
+      "nameKR": "로맨스",
+      "nameEN": "Romance",
+      "group": "",
+      "searchTerms": "로맨스 Romance 케이팝 데몬 헌터스 케이팝데몬헌터스 케데헌 K-Pop Demon Hunters"
+    },
+    {
+      "id": 962,
+      "nameKR": "베이비",
+      "nameEN": "Baby",
+      "group": "",
+      "searchTerms": "베이비 Baby 케이팝 데몬 헌터스 케이팝데몬헌터스 케데헌 K-Pop Demon Hunters"
+    },
+    {
+      "id": 963,
+      "nameKR": "진우",
+      "nameEN": "Jinu",
+      "group": "",
+      "searchTerms": "진우 Jinu케이팝 데몬 헌터스 케이팝데몬헌터스 케데헌 K-Pop Demon Hunters"
+    },
+    {
+      "id": 964,
+      "nameKR": "애비",
+      "nameEN": "Abby",
+      "group": "",
+      "searchTerms": "애비 Abby 케이팝 데몬 헌터스 케이팝데몬헌터스 케데헌 K-Pop Demon Hunters"
+    },
+    {
+      "id": 965,
+      "nameKR": "미스터리",
+      "nameEN": "Mystery",
+      "group": "",
+      "searchTerms": "미스터리 Mystery 케이팝 데몬 헌터스 케이팝데몬헌터스 케데헌 K-Pop Demon Hunters"
+    },
+    {
+      "id": 966,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "",
+      "searchTerms": "케이팝 데몬 헌터스 케이팝데몬헌터스 케데헌 K-Pop Demon Hunters"
+    },
+    {
+      "id": 967,
+      "nameKR": "용훈",
+      "nameEN": "YONGHOON",
+      "group": "",
+      "searchTerms": "용훈 YONGHOON 진용훈 Jin Yonghoon JinYonghoon"
+    },
+    {
+      "id": 968,
+      "nameKR": "강현",
+      "nameEN": "KANGHYUN",
+      "group": "",
+      "searchTerms": "강현 KANGHYUN 강현구 Kang Hyungu KangHyungu"
+    },
+    {
+      "id": 969,
+      "nameKR": "하린",
+      "nameEN": "HARIN",
+      "group": "",
+      "searchTerms": "하린 HARIN 주하린 Ju Harin JuHarin"
+    },
+    {
+      "id": 970,
+      "nameKR": "동명",
+      "nameEN": "DONGMYEONG",
+      "group": "",
+      "searchTerms": "동명 DONGMYEONG 손동명 Son Dongmyeong SonDongmyeong"
+    },
+    {
+      "id": 971,
+      "nameKR": "기욱",
+      "nameEN": "GIUK",
+      "group": "",
+      "searchTerms": "기욱 GIUK 이기욱 Lee Giuk LeeGiuk"
+    },
+    {
+      "id": 972,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "",
+      "searchTerms": ""
+    },
+    {
+      "id": 973,
+      "nameKR": "장용훈",
+      "nameEN": "JANGYONGHOON",
+      "group": "",
+      "searchTerms": "장용훈 용훈 JANGYONGHOON  JANG YONGHOON"
+    },
+    {
+      "id": 974,
+      "nameKR": "김민재",
+      "nameEN": "KIMMINJAE",
+      "group": "",
+      "searchTerms": "김민재 민재 KIMMINJAE KIM MINJAE"
+    },
+    {
+      "id": 975,
+      "nameKR": "박원빈",
+      "nameEN": "PARKWONBIN",
+      "group": "",
+      "searchTerms": "박원빈 원빈 PARKWONBIN  PARK WONBIN"
+    },
+    {
+      "id": 976,
+      "nameKR": "추유찬",
+      "nameEN": "CHUYOOCHAN",
+      "group": "",
+      "searchTerms": "추유찬 유찬 CHUYOOCHAN CHU YOOCHAN"
+    },
+    {
+      "id": 977,
+      "nameKR": "박성현",
+      "nameEN": "PARKSEONGHYEON",
+      "group": "",
+      "searchTerms": "박성현 성현 PARKSEONGHYEON PARK SEONGHYEON"
+    },
+    {
+      "id": 978,
+      "nameKR": "백준혁",
+      "nameEN": "BAEKJUNHYUK",
+      "group": "",
+      "searchTerms": "백준혁 준혁 BAEKJUNHYUK  BAEK JUNHYUK"
+    },
+    {
+      "id": 979,
+      "nameKR": "정세민",
+      "nameEN": "JEONGSEMIN",
+      "group": "",
+      "searchTerms": "정세민 세민 JEONGSEMIN JEONG SEMIN"
+    },
+    {
+      "id": 980,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "",
+      "searchTerms": ""
+    },
+    {
+      "id": 981,
+      "nameKR": "스티븐",
+      "nameEN": "STEVEN",
+      "group": "",
+      "searchTerms": "스티븐 STEVEN Steven Kim 스티븐김 스티븐킴 스티븐 킴 김"
+    },
+    {
+      "id": 982,
+      "nameKR": "서정우",
+      "nameEN": "JEONGWOO",
+      "group": "",
+      "searchTerms": "서정우 정우 SEO JEONGWOO SEOJEONGWOO"
+    },
+    {
+      "id": 983,
+      "nameKR": "차웅기",
+      "nameEN": "WOONGKI",
+      "group": "",
+      "searchTerms": "차웅기 웅기 CHA WOONGKI CHAWOONGKI"
+    },
+    {
+      "id": 984,
+      "nameKR": "장슈아이보",
+      "nameEN": "SHUAIBO",
+      "group": "",
+      "searchTerms": "장슈아이보 SHUAIBO 장솨이보"
+    },
+    {
+      "id": 985,
+      "nameKR": "박한",
+      "nameEN": "HAN",
+      "group": "",
+      "searchTerms": "박한 PARK HAN PARKHAN"
+    },
+    {
+      "id": 986,
+      "nameKR": "제이엘",
+      "nameEN": "JL",
+      "group": "",
+      "searchTerms": "제이엘 JL Jay Lawrence Gaspar 제이 로렌스 개스퍼"
+    },
+    {
+      "id": 987,
+      "nameKR": "박주원",
+      "nameEN": "JUWON",
+      "group": "",
+      "searchTerms": "박주원 주원 PARK JUWON PARKJUWON"
+    },
+    {
+      "id": 988,
+      "nameKR": "즈언",
+      "nameEN": "CHIHEN",
+      "group": "",
+      "searchTerms": "즈언 CHIHEN 젠즈언 Chien Chih-en"
+    },
+    {
+      "id": 989,
+      "nameKR": "다이스케",
+      "nameEN": "Daisuke",
+      "group": "",
+      "searchTerms": "다이스케 Daisuke 미야자키 다이스케 미야자키다이스케 Miyazaki Daisuke"
+    },
+    {
+      "id": 990,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "",
+      "searchTerms": ""
+    },
+    {
+      "id": 991,
+      "nameKR": "준서",
+      "nameEN": "JUNSEO",
+      "group": "",
+      "searchTerms": "준서 김준서 KIM JUNSEO KIMJUNSEO"
+    },
+    {
+      "id": 992,
+      "nameKR": "아르노",
+      "nameEN": "ARNO",
+      "group": "",
+      "searchTerms": "아르노 ARNO 장자하오 Zhāng Jiāháo"
+    },
+    {
+      "id": 993,
+      "nameKR": "리오",
+      "nameEN": "LEO",
+      "group": "",
+      "searchTerms": "리오 LEO Leo Lee LeoLee 이리오"
+    },
+    {
+      "id": 994,
+      "nameKR": "건우",
+      "nameEN": "GEONWOO",
+      "group": "",
+      "searchTerms": "건우 GEONWOO 김건우 Kim Geonwoo KimGeonwoo"
+    },
+    {
+      "id": 995,
+      "nameKR": "상원",
+      "nameEN": "SANGWON",
+      "group": "",
+      "searchTerms": "상원 SANGWON 이상원 Lee Sangwon LeeSangwon"
+    },
+    {
+      "id": 996,
+      "nameKR": "씬롱",
+      "nameEN": "XINLONG",
+      "group": "",
+      "searchTerms": "씬롱 XINLONG 허신룽 허씬 Hè Xīnlóng"
+    },
+    {
+      "id": 997,
+      "nameKR": "안신",
+      "nameEN": "ANXIN",
+      "group": "",
+      "searchTerms": "안신 ANXIN 저우안신 조우안신 Zhōu Ānxìn"
+    },
+    {
+      "id": 998,
+      "nameKR": "상현",
+      "nameEN": "SANGHYEON",
+      "group": "",
+      "searchTerms": "상현 SANGHYEON 정상현 Chung Sanghyeon ChungSanghyeon"
+    },
+    {
+      "id": 999,
+      "nameKR": "단체/유닛",
+      "nameEN": "Unit",
+      "group": "",
+      "searchTerms": ""
+    },
+    {
+      "id": 1000,
+      "nameKR": "장한음",
+      "nameEN": "JANG HANEUM",
+      "group": "",
+      "searchTerms": "장한음 JANG HANEUM JANGHANEUM 한음"
+    },
+    {
+      "id": 1001,
+      "nameKR": "최립우",
+      "nameEN": "CHUEI LI YU",
+      "group": "",
+      "searchTerms": "최립우 CHUEI LI YU  추이리위 崔立于 Ts’ui Li-yü"
+    },
+    {
+      "id": 1002,
+      "nameKR": "김준민",
+      "nameEN": "Kim Junmin",
+      "group": "",
+      "searchTerms": "김준민 준민 Kim Junmin KimJunmin"
+    },
+    {
+      "id": 1003,
+      "nameKR": "하승",
+      "nameEN": "HASEUNG",
+      "group": "",
+      "searchTerms": "하승 이하준 HASEUNG Lee Hajun LeeHajun"
+    },
+    {
+      "id": 1004,
+      "nameKR": "진범",
+      "nameEN": "JINBEOM",
+      "group": "",
+      "searchTerms": "진범 JINBEOM 박진범 PARKJINBEOM"
+    },
+    {
+      "id": 1005,
+      "nameKR": "유건",
+      "nameEN": "UGeon",
+      "group": "",
+      "searchTerms": "유건 UGeon 유승용 Yu Seungyong YuSeungyong"
+    },
+    {
+      "id": 1006,
+      "nameKR": "이정",
+      "nameEN": "LEEJEONG",
+      "group": "",
+      "searchTerms": "이정 전이정  LEEJEONG JunLeejeong"
+    },
+    {
+      "id": 1007,
+      "nameKR": "재하",
+      "nameEN": "JAEHA",
+      "group": "",
+      "searchTerms": "재하 JAEHA 김재현 Kim Jaehyun KimJaehyun"
+    },
+    {
+      "id": 1008,
+      "nameKR": "원준",
+      "nameEN": "WONJUN",
+      "group": "",
+      "searchTerms": "원준 WONJUN 문원준 Muhn Wonjun MuhnWonjun"
+    },
+    {
+      "id": 1010,
+      "nameKR": "오율",
+      "nameEN": "OHYUL",
+      "group": "",
+      "searchTerms": "오율 OHYUL 권오율"
+    },
+    {
+      "id": 1011,
+      "nameKR": "률",
+      "nameEN": "RYUL",
+      "group": "",
+      "searchTerms": "률 RYUL 김률"
+    },
+    {
+      "id": 1012,
+      "nameKR": "우진",
+      "nameEN": "WOOJIN",
+      "group": "",
+      "searchTerms": "우진 WOOJIN 정우진"
+    },
+    {
+      "id": 1013,
+      "nameKR": "루이",
+      "nameEN": "LOUIS",
+      "group": "",
+      "searchTerms": "루이 LOUIS 임루이"
+    },
+    {
+      "id": 1015,
+      "nameKR": "이준영",
+      "nameEN": "LeeJunyoung",
+      "group": "",
+      "searchTerms": "이준영 LeeJunyoung Lee Junyoung"
+    },
+    {
+      "id": 1016,
+      "nameKR": "이현",
+      "nameEN": "Yihyun",
+      "group": "",
+      "searchTerms": "이현 Yihyun ChoYihyun Cho Yihyun 조이현"
+    },
+    {
+      "id": 1017,
+      "nameKR": "쿠미",
+      "nameEN": "Kumi",
+      "group": "",
+      "searchTerms": "쿠미 Kumi 타케이 미쿠 타케이미쿠 Takei Miku"
+    },
+    {
+      "id": 1018,
+      "nameKR": "미아",
+      "nameEN": "Mia",
+      "group": "",
+      "searchTerms": "미아 Mia 쿠니이 히나노 Kunii Hinano 쿠니히나노"
+    },
+    {
+      "id": 1019,
+      "nameKR": "베니",
+      "nameEN": "Beni",
+      "group": "",
+      "searchTerms": "베니 Beni 강한빛 Kang Hanbit KangHanbit"
+    }
+  ]
+}
